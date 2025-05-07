@@ -83,6 +83,8 @@ https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="🇨🇳广东频道📡",广州南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
+#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV1
+http://107.174.52.32/itv.php?id=CCTV1
 #EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV2
 http://107.174.52.32/itv.php?id=CCTV2
 #EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV3
