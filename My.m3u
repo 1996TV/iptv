@@ -69,8 +69,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-https://stream1.freetv.fun/yan-dong-zhu-jiang-4.m3u8
+
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="🇨🇳广东频道📡",广州综合
