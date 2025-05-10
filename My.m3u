@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台4K
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠(字幕版)台
+https://mytv.cdn.com.mp/hls/fct/playlist.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台
+https://mysupertv.pendy.dpdns.org/FeiCui/feicui.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台
 http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="华丽翡翠台" tvg-name="华丽翡翠台" tvg-logo="https://epg.v1.mk/logo/华丽翡翠台.png" group-title="🇭🇰香港频道📡",华丽翡翠台
@@ -37,6 +41,10 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 http://php.jdshipin.com:8880/smt.php?id=Celestial
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🇭🇰香港频道📡",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="🇭🇰香港频道📡",天映频道(印尼)
+https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+#EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🇭🇰香港频道📡",Animax
+https://live.tvfix.org/live/animax/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="🇭🇰香港频道📡",凤凰中文
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="🇭🇰香港频道📡",凤凰资讯
@@ -118,65 +126,65 @@ http://107.174.52.32/itv.php?id=CCTV16
 http://107.174.52.32/itv.php?id=CCTV15
 #EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV17
 http://107.174.52.32/itv.php?id=CCTV17
-#EXTINF:-1 group-title="🇨🇳卫视频道",湖南卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",湖南卫视
 http://107.174.52.32/itv.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",浙江卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",浙江卫视
 http://107.174.52.32/itv.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",江苏卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",江苏卫视
 http://107.174.52.32/itv.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",广东卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",广东卫视
 http://107.174.52.32/itv.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",东方卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",东方卫视
 http://107.174.52.32/itv.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",辽宁卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",辽宁卫视
 http://107.174.52.32/itv.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",东南卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",东南卫视
 http://107.174.52.32/itv.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",深圳卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",深圳卫视
 http://107.174.52.32/itv.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",天津卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",天津卫视
 http://107.174.52.32/itv.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",安徽卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",安徽卫视
 http://107.174.52.32/itv.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",河北卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",河北卫视
 http://107.174.52.32/itv.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",重庆卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",重庆卫视
 http://107.174.52.32/itv.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",吉林卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",吉林卫视
 http://107.174.52.32/itv.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",黑龙江卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",黑龙江卫视
 http://107.174.52.32/itv.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",山东卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",山东卫视
 http://107.174.52.32/itv.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",海南卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",海南卫视
 http://107.174.52.32/itv.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",贵州卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",贵州卫视
 http://107.174.52.32/itv.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",湖北卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",湖北卫视
 http://107.174.52.32/itv.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",河南卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",河南卫视
 http://107.174.52.32/itv.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",广西卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",广西卫视
 http://107.174.52.32/itv.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",江西卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",江西卫视
 http://107.174.52.32/itv.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",陕西卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",陕西卫视
 http://107.174.52.32/itv.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",宁夏卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",宁夏卫视
 http://107.174.52.32/itv.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",内蒙古卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",内蒙古卫视
 http://107.174.52.32/itv.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",西藏卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",西藏卫视
 http://107.174.52.32/itv.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",四川卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",四川卫视
 http://107.174.52.32/itv.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",山西卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",山西卫视
 http://107.174.52.32/itv.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",甘肃卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",甘肃卫视
 http://107.174.52.32/itv.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",新疆卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",新疆卫视
 http://107.174.52.32/itv.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道",青海卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡",青海卫视
 http://107.174.52.32/itv.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="咪咕视频",CCTV1综合
