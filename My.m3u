@@ -41,7 +41,7 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 http://php.jdshipin.com:8880/smt.php?id=Celestial
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🇭🇰香港频道📡",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="🇭🇰香港频道📡",天映频道(印尼)
+#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://pictr.com/images/2024/11/06/xi9O91.png" group-title="🇭🇰香港频道📡",天映频道(印尼)
 https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🇭🇰香港频道📡",Animax
 https://live.tvfix.org/live/animax/index.m3u8
