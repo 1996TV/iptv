@@ -77,6 +77,21 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png" group-title="🇭🇰港台频道📡",Now爆谷台
+https://ali.hlspull.yximgs.com/live/7906efc444e30385f9887bb65f334142.flv
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png" group-title="🇭🇰港台频道📡",Now星影台
+https://ali.hlspull.yximgs.com/live/f472790369e53e6bb888bc0d0aff5d46.flv
+#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.cn/tv/Now华剧台.png" group-title="🇭🇰港台频道📡",Now华剧台
+https://ali.hlspull.yximgs.com/live/e70efc86152635e3ad2ff451631fba43.flv
+#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://live.fanmingming.cn/tv/Now紫金国际.png" group-title="🇭🇰港台频道📡",Now紫金国际
+https://ali.hlspull.yximgs.com/live/b0cc895ff81dae77afc49fcfefaead99.flv
+#EXTINF:-1 tvg-name="TVB功夫(粤)" tvg-logo="https://live.fanmingming.cn/tv/TVB功夫(粤).png" group-title="🇭🇰港台频道📡",TVB功夫(粤)
+https://ali.hlspull.yximgs.com/live/4dd36a19057f8a210168266a0cb04030.flv
+#EXTINF:-1 tvg-name="TVB功夫(国)" tvg-logo="https://live.fanmingming.cn/tv/TVB功夫(国).png" group-title="🇭🇰港台频道📡",TVB功夫(国)
+https://ali.hlspull.yximgs.com/live/2e989c424a355e160a65aa3d5da81a1f.flv
+#EXTINF:-1 tvg-name="TVB星河(国)" tvg-logo="https://live.fanmingming.cn/tv/TVB星河(国).png" group-title="🇭🇰港台频道📡",TVB星河(国)
+https://ali.hlspull.yximgs.com/live/848d67f56e04ce089986ef7d7376efeb.flv
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
