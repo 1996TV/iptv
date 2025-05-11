@@ -76,21 +76,21 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1 tvg-id="NOW体育" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="🇭🇰香港频道📡",NOW体育
 http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/NOW爆谷.png" group-title="🇭🇰香港频道📡",Now爆谷台
+http://php.jdshipin.com/TVOD/iptv.php?id=
+#EXTM3U
+#EXTINF:-1,tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="其他",Now爆谷台
 https://ali.hlspull.yximgs.com/live/7906efc444e30385f9887bb65f334142.flv
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/Now星影台.png" group-title="🇭🇰香港频道📡",Now星影台
+#EXTINF:-1,tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="其他",Now星影台
 https://ali.hlspull.yximgs.com/live/f472790369e53e6bb888bc0d0aff5d46.flv
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://live.fanmingming.cn/tv/Now华剧台.png" group-title="🇭🇰香港频道📡",Now华剧台
+#EXTINF:-1,tvg-id="NOW华剧台" tvg-name="NOW华剧台" tvg-logo="https://epg.112114.xyz/logo/NOW华剧台.png" group-title="其他",Now华剧台
 https://ali.hlspull.yximgs.com/live/e70efc86152635e3ad2ff451631fba43.flv
-#EXTINF:-1 tvg-name="Now紫金国际" tvg-logo="https://epg.v1.mk/logo/Now紫金国际.png" group-title="🇭🇰香港频道📡",Now紫金国际
+#EXTINF:-1,tvg-id="Now紫金国际" tvg-name="Now紫金国际" tvg-logo="https://epg.112114.xyz/logo/NOW紫金国际.png" group-title="其他",Now紫金国际
 https://ali.hlspull.yximgs.com/live/b0cc895ff81dae77afc49fcfefaead99.flv
-#EXTINF:-1 tvg-name="TVB功夫" tvg-logo="https://epg.v1.mk/logo/TVB功夫.png" group-title="🇭🇰香港频道📡",TVB功夫(粤)
+#EXTINF:-1,tvg-id="TVB功夫(粤)" tvg-name="TVB功夫(粤)" tvg-logo="https://epg.112114.xyz/logo/TVB功夫(粤).png" group-title="港澳台",TVB功夫(粤)
 https://ali.hlspull.yximgs.com/live/4dd36a19057f8a210168266a0cb04030.flv
-#EXTINF:-1 tvg-name="TVB功夫" tvg-logo="https://epg.v1.mk/logo/TVB功夫.png" group-title="🇭🇰香港频道📡",TVB功夫(国)
+#EXTINF:-1,tvg-id="TVB功夫(国)" tvg-name="TVB功夫(国)" tvg-logo="https://epg.112114.xyz/logo/TVB功夫(国).png" group-title="港澳台",TVB功夫(国)
 https://ali.hlspull.yximgs.com/live/2e989c424a355e160a65aa3d5da81a1f.flv
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo"=https://epg.v1.mk/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河(国)
+#EXTINF:-1,tvg-id="TVB星河(国)" tvg-name="TVB星河(国)" tvg-logo="https://epg.112114.xyz/logo/TVB星河(国).png" group-title="港澳台",TVB星河(国)
 https://ali.hlspull.yximgs.com/live/848d67f56e04ce089986ef7d7376efeb.flv
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
