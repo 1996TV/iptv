@@ -77,21 +77,6 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=
-#EXTM3U
-#EXTINF:-1,tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://epg.112114.xyz/logo/NOW爆谷台.png" group-title="🇭🇰香港频道📡",Now爆谷台
-https://ali.hlspull.yximgs.com/live/7906efc444e30385f9887bb65f334142.flv
-#EXTINF:-1,tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://epg.112114.xyz/logo/NOW星影台.png" group-title="🇭🇰香港频道📡",Now星影台
-https://ali.hlspull.yximgs.com/live/f472790369e53e6bb888bc0d0aff5d46.flv
-#EXTINF:-1,tvg-id="NOW华剧台" tvg-name="NOW华剧台" tvg-logo="https://epg.112114.xyz/logo/NOW华剧台.png" group-title="🇭🇰香港频道📡",Now华剧台
-https://ali.hlspull.yximgs.com/live/e70efc86152635e3ad2ff451631fba43.flv
-#EXTINF:-1,tvg-id="Now紫金国际" tvg-name="Now紫金国际" tvg-logo="https://epg.112114.xyz/logo/NOW紫金国际.png" group-title="🇭🇰香港频道📡",Now紫金国际
-https://ali.hlspull.yximgs.com/live/b0cc895ff81dae77afc49fcfefaead99.flv
-#EXTINF:-1,tvg-id="TVB功夫(粤)" tvg-name="TVB功夫(粤)" tvg-logo="https://epg.112114.xyz/logo/TVB功夫.png" group-title="🇭🇰香港频道📡",TVB功夫(粤)
-https://ali.hlspull.yximgs.com/live/4dd36a19057f8a210168266a0cb04030.flv
-#EXTINF:-1,tvg-id="TVB功夫(国)" tvg-name="TVB功夫(国)" tvg-logo="https://epg.112114.xyz/logo/TVB功夫.png" group-title="🇭🇰香港频道📡",TVB功夫(国)
-https://ali.hlspull.yximgs.com/live/2e989c424a355e160a65aa3d5da81a1f.flv
-#EXTINF:-1,tvg-id="TVB星河(国)" tvg-name="TVB星河(国)" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河(国)
-https://ali.hlspull.yximgs.com/live/848d67f56e04ce089986ef7d7376efeb.flv
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -108,102 +93,553 @@ https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="🇨🇳广东频道📡",广州南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV1
-http://107.174.52.32/itv.php?id=CCTV1
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV2
-http://107.174.52.32/itv.php?id=CCTV2
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV3
-http://107.174.52.32/itv.php?id=CCTV3
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV4
-http://107.174.52.32/itv.php?id=CCTV4
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV5
-http://107.174.52.32/itv.php?id=CCTV5
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV5+
-http://107.174.52.32/itv.php?id=CCTV5+
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV6
-http://107.174.52.32/itv.php?id=CCTV6
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV7
-http://107.174.52.32/itv.php?id=CCTV7
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV8
-http://107.174.52.32/itv.php?id=CCTV8
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV9
-http://107.174.52.32/itv.php?id=CCTV9
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV10
-http://107.174.52.32/itv.php?id=CCTV10
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV11
-http://107.174.52.32/itv.php?id=CCTV11
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV12
-http://107.174.52.32/itv.php?id=CCTV12
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV13
-http://107.174.52.32/itv.php?id=CCTV13
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV14
-http://107.174.52.32/itv.php?id=CCTV14
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV16
-http://107.174.52.32/itv.php?id=CCTV16
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV15
-http://107.174.52.32/itv.php?id=CCTV15
-#EXTINF:-1 group-title="🇨🇳中央频道📡",CCTV17
-http://107.174.52.32/itv.php?id=CCTV17
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",湖南卫视
-http://107.174.52.32/itv.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",浙江卫视
-http://107.174.52.32/itv.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",江苏卫视
-http://107.174.52.32/itv.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",广东卫视
-http://107.174.52.32/itv.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",东方卫视
-http://107.174.52.32/itv.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",辽宁卫视
-http://107.174.52.32/itv.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",东南卫视
-http://107.174.52.32/itv.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",深圳卫视
-http://107.174.52.32/itv.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",天津卫视
-http://107.174.52.32/itv.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",安徽卫视
-http://107.174.52.32/itv.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",河北卫视
-http://107.174.52.32/itv.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",重庆卫视
-http://107.174.52.32/itv.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",吉林卫视
-http://107.174.52.32/itv.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",黑龙江卫视
-http://107.174.52.32/itv.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",山东卫视
-http://107.174.52.32/itv.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",海南卫视
-http://107.174.52.32/itv.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",贵州卫视
-http://107.174.52.32/itv.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",湖北卫视
-http://107.174.52.32/itv.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",河南卫视
-http://107.174.52.32/itv.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",广西卫视
-http://107.174.52.32/itv.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",江西卫视
-http://107.174.52.32/itv.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",陕西卫视
-http://107.174.52.32/itv.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",宁夏卫视
-http://107.174.52.32/itv.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",内蒙古卫视
-http://107.174.52.32/itv.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",西藏卫视
-http://107.174.52.32/itv.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",四川卫视
-http://107.174.52.32/itv.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",山西卫视
-http://107.174.52.32/itv.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",甘肃卫视
-http://107.174.52.32/itv.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",新疆卫视
-http://107.174.52.32/itv.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
-#EXTINF:-1 group-title="🇨🇳卫视频道📡",青海卫视
-http://107.174.52.32/itv.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+#EXTM3U https://e.erw.cc/e.xml
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV-1 综合" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003864351.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV-2 财经" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870745.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV-3 综艺" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870746.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV-4 中文国际" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870747.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV-5 体育" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870748.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV-5+ 体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870759.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV-6 电影" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870749.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV-7 国防军事" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870750.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV-8 电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870838.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV-9 纪录" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870752.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV-10 科教" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870753.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV-11 戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870754.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV-12 社会与法" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870755.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV-13 新闻" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796248.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV-14 少儿" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870756.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV-15 音乐" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870757.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV-16 奥林匹克" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004972604.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV-17 农业农村" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870758.m3u8
+#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV-4 中文国际 欧洲" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4欧洲.png" group-title="央视频道",CCTV-4 中文国际 欧洲
+https://migu.188766.xyz/?migutoken=e2944536a77c114fe647852245b2b720&id=cctv4o&type=yy
+#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV-4 中文国际 美洲" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CCTV4美洲.png" group-title="央视频道",CCTV-4 中文国际 美洲
+https://migu.188766.xyz/?migutoken=9c9104f1af2e578688be2927a17d334d&id=cctv4m&type=yy
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/湖南卫视.png" group-title="卫视频道",湖南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873458.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/浙江卫视.png" group-title="卫视频道",浙江卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873464.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873461.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/东方卫视.png" group-title="卫视频道",东方卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873462.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/北京卫视.png" group-title="卫视频道",北京卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870776.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/广东卫视.png" group-title="卫视频道",广东卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873459.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/深圳卫视.png" group-title="卫视频道",深圳卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873474.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/东南卫视.png" group-title="卫视频道",东南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873473.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/山东卫视.png" group-title="卫视频道",山东卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873467.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873469.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/天津卫视.png" group-title="卫视频道",天津卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873466.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/湖北卫视.png" group-title="卫视频道",湖北卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873465.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/辽宁卫视.png" group-title="卫视频道",辽宁卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873468.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/江西卫视.png" group-title="卫视频道",江西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796511.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/河北卫视.png" group-title="卫视频道",河北卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873460.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/河北卫视.png" group-title="卫视频道",河北卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887382.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/黑龙江卫视.png" group-title="卫视频道",黑龙江卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873470.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796458.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003873471.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/吉林卫视.png" group-title="卫视频道",吉林卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004972569.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/四川卫视.png" group-title="卫视频道",四川卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887274.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/海南卫视.png" group-title="卫视频道",海南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796877.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/河南卫视.png" group-title="卫视频道",河南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887270.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887394.m3u8
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/山西卫视.png" group-title="卫视频道",山西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887413.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/云南卫视.png" group-title="卫视频道",云南卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887453.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887404.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/内蒙古卫视.png" group-title="卫视频道",内蒙古卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887427.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/甘肃卫视.png" group-title="卫视频道",甘肃卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887450.m3u8
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887433.m3u8
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887430.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/新疆卫视.png" group-title="卫视频道",新疆卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887448.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/西藏卫视.png" group-title="卫视频道",西藏卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887434.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/三沙卫视.png" group-title="卫视频道",三沙卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887452.m3u8
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887456.m3u8
+#EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/厦门卫视.png" group-title="卫视频道",厦门卫视
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887454.m3u8
+#EXTINF:-1 tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/重温经典.png" group-title="数字频道",BTV-重温经典
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887494.m3u8
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/重温经典.png" group-title="数字频道",重温经典
+https://migu.188766.xyz/?migutoken=936cc77e3b91872d4138086e1d001872&id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CHC家庭影院.png" group-title="数字频道",CHC家庭影院
+https://migu.188766.xyz/?migutoken=c62498f4101850da63ae688c878b8bc9&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CHC动作电影.png" group-title="数字频道",CHC动作电影
+https://migu.188766.xyz/?migutoken=6eecd6e0fc1451d7aea8b5b6a7adf0fa&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+#EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/东方影视.png" group-title="数字频道",东方影视
+https://migu.188766.xyz/?migutoken=85eb3f60d7ff96e551e038f52f2ae3a0&id=shys&type=yy
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰中文
+http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰中文
+https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
+http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/凤凰卫视香港台.png" group-title="数字频道",凤凰香港
+https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="数字频道",卡酷少儿
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003904597.m3u8
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="数字频道",金鹰卡通
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004796942.m3u8
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="数字频道",嘉佳卡通
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887459.m3u8
+#EXTINF:-1 tvg-id="萌宠TV" tvg-name="萌宠TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京萌宠TV.png" group-title="数字频道",萌宠TV
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887495.m3u8
+#EXTINF:-1 tvg-id="淘BABY" tvg-name="淘BABY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘BABY.png" group-title="数字频道",淘BABY
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887496.m3u8
+#EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘剧场.png" group-title="数字频道",淘剧场
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887497.m3u8
+#EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘电影.png" group-title="数字频道",淘电影
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887498.m3u8
+#EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京淘娱乐.png" group-title="数字频道",淘娱乐
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887499.m3u8
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/北京体育休闲.png" group-title="数字频道",北京体育休闲
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870779.m3u8
+#EXTINF:-1 tvg-id="北京新闻" tvg-name="北京新闻" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/北京新闻.png" group-title="数字频道",北京新闻
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003870780.m3u8
+#EXTINF:-1 tvg-id="NBA经典" tvg-name="NBA经典" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/021/528/202304201401_1681962013739_H169_1080.jpg" group-title="数字频道",NBA经典
+https://migu.188766.xyz/?migutoken=aa4a2422d0b22e25be640eca7a3c4db5&id=nba&type=yy
+#EXTINF:-1 tvg-id="咪咕24小时体育" tvg-name="咪咕24小时体育台" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/751/211/202106111236_5102223687_201903181136295010914_HSJ720H.jpg" group-title="数字频道",咪咕24小时体育台
+https://migu.188766.xyz/?migutoken=f8da125fa3f5fdbf1e68cfd9bf6c1904&id=mgty&type=yy
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV-1" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/150/202407181432_1721283643483_H169_1080.jpg" group-title="数字频道",CETV-1
+https://migu.188766.xyz/?migutoken=79415db9977ce26abdfff57b36e4d06c&id=cetv1&type=yy
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV-2" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/152/202407181432_1721283773509_H169_1080.jpg" group-title="数字频道",CETV-2
+https://migu.188766.xyz/?migutoken=ea5e7976b5f206d17b6e467b6009cb55&id=cetv2&type=yy
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV-4" tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/154/202407181433_1721283860085_H169_1080.jpg" group-title="数字频道",CETV-4
+https://migu.188766.xyz/?migutoken=6d08b8024d31c328a5571901ff3ed766&id=cetv4&type=yy
+#EXTINF:-1 tvg-id="0" tvg-name="CGTN英语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN.png" group-title="数字频道",CGTN英语
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="CGTN记录" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN纪录.png" group-title="数字频道",CGTN记录
+https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN俄语.png" group-title="数字频道",CGTN俄语
+https://0472.org/hls/cgtne.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN法语.png" group-title="数字频道",CGTN法语
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="CGTN西语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN西语.png" group-title="数字频道",CGTN西语
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name="CGTN阿语" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/CGTN阿语.png" group-title="数字频道",CGTN阿语
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京IPTV4K.png" group-title="4K频道",北京IPTV4K
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000003887500.m3u8
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/fanmingming/live/tv/北京卫视4K.png" group-title="4K频道",北京卫视4K
+https://migu.188766.xyz/?migutoken=7a14fe193807f8243b365d1456e6e1e7&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+#EXTINF:-1 tvg-id="咪咕体育-1" tvg-name="咪咕体育-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="4K频道",咪咕体育-1
+http://home.kuaidi521.com:35455/itv/3000000010000005180.m3u8
+#EXTINF:-1 tvg-id="咪咕体育-2" tvg-name="咪咕国际4K-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="4K频道",咪咕国际4K-2
+http://home.kuaidi521.com:35455/itv/3000000010000015686.m3u8
+#EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png" group-title="4K频道",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="Loupe 4K" tvg-name="Loupe 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="4K频道",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-id="Fashion 4K" tvg-name="Fashion 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONONE.png" group-title="4K频道",Fashion 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="北京纪实科教8K" tvg-name="北京纪实科教8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实科教8K.png" group-title="4K频道",北京纪实科教8K
+https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
+#EXTINF:-1 tvg-id="北京体育休闲-4K-HLG" tvg-name="北京体育休闲-4K-HLG" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="4K频道",北京体育休闲-4K-HLG
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004270524.m3u8
+#EXTINF:-1 tvg-id="北京体育休闲-4K" tvg-name="北京体育休闲-4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="4K频道",北京体育休闲-4K
+http://home.kuaidi521.com:35455/bptv/10000100000000050000000004270525.m3u8
+#EXTINF:-1 tvg-id="电影_星爷" tvg-name="电影_星爷" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_星爷
+http://home.kuaidi521.com:35455/huya/11342412
+#EXTINF:-1 tvg-id="电影_英叔" tvg-name="电影_英叔" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_英叔
+http://home.kuaidi521.com:35455/huya/11342421
+#EXTINF:-1 tvg-id="电影_发哥" tvg-name="电影_发哥" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_发哥
+http://home.kuaidi521.com:35455/huya/11342387
+#EXTINF:-1 tvg-id="电影_成龙" tvg-name="电影_成龙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_成龙
+http://home.kuaidi521.com:35455/huya/11342386
+#EXTINF:-1 tvg-id="电影_王晶" tvg-name="电影_王晶" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_王晶
+http://home.kuaidi521.com:35455/huya/11602058
+#EXTINF:-1 tvg-id="电影_沈腾" tvg-name="电影_沈腾" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_沈腾
+http://home.kuaidi521.com:35455/huya/11601968
+#EXTINF:-1 tvg-id="电影_黄渤" tvg-name="电影_黄渤" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_黄渤
+http://home.kuaidi521.com:35455/huya/11352876
+#EXTINF:-1 tvg-id="电影_强森" tvg-name="电影_强森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_强森
+http://home.kuaidi521.com:35455/huya/21059581
+#EXTINF:-1 tvg-id="电影_漫威" tvg-name="电影_漫威" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_漫威
+http://home.kuaidi521.com:35455/huya/11602034
+#EXTINF:-1 tvg-id="电影_宇宙" tvg-name="电影_宇宙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_宇宙
+http://home.kuaidi521.com:35455/huya/11342428
+#EXTINF:-1 tvg-id="电影_怪兽" tvg-name="电影_怪兽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_怪兽
+http://home.kuaidi521.com:35455/huya/21059577
+#EXTINF:-1 tvg-id="电影_贺岁" tvg-name="电影_贺岁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_贺岁
+http://home.kuaidi521.com:35455/huya/11601971
+#EXTINF:-1 tvg-id="电影_玄幻" tvg-name="电影_玄幻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_玄幻
+http://home.kuaidi521.com:35455/huya/11342414
+#EXTINF:-1 tvg-id="电影_谍战" tvg-name="电影_谍战" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_谍战
+http://home.kuaidi521.com:35455/huya/21059585
+#EXTINF:-1 tvg-id="电影_战争" tvg-name="电影_战争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_战争
+http://home.kuaidi521.com:35455/huya/21059592
+#EXTINF:-1 tvg-id="电影_喜剧" tvg-name="电影_喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_喜剧
+http://home.kuaidi521.com:35455/huya/11352877
+#EXTINF:-1 tvg-id="电影_港片" tvg-name="电影_港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_港片
+http://home.kuaidi521.com:35455/huya/11602043
+#EXTINF:-1 tvg-id="电影_国产" tvg-name="电影_国产" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_国产
+http://home.kuaidi521.com:35455/huya/11352973
+#EXTINF:-1 tvg-id="电影_周星星" tvg-name="电影_周星星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_周星星
+http://home.kuaidi521.com:35455/huya/11336587
+#EXTINF:-1 tvg-id="电影_李连杰" tvg-name="电影_李连杰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_李连杰
+http://home.kuaidi521.com:35455/huya/11342390
+#EXTINF:-1 tvg-id="电影_洪金宝" tvg-name="电影_洪金宝" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_洪金宝
+http://home.kuaidi521.com:35455/huya/11279251
+#EXTINF:-1 tvg-id="电影_梁家辉" tvg-name="电影_梁家辉" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_梁家辉
+http://home.kuaidi521.com:35455/huya/11342429
+#EXTINF:-1 tvg-id="电影_许冠英" tvg-name="电影_许冠英" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_许冠英
+http://home.kuaidi521.com:35455/huya/11601972
+#EXTINF:-1 tvg-id="电影_刘德华" tvg-name="电影_刘德华" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_刘德华
+http://home.kuaidi521.com:35455/huya/11342424
+#EXTINF:-1 tvg-id="电影_斯坦森" tvg-name="电影_斯坦森" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_斯坦森
+http://home.kuaidi521.com:35455/huya/21059588
+#EXTINF:-1 tvg-id="电影_蜘蛛侠" tvg-name="电影_蜘蛛侠" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_蜘蛛侠
+http://home.kuaidi521.com:35455/huya/21059599
+#EXTINF:-1 tvg-id="电影_贺岁片" tvg-name="电影_贺岁片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_贺岁片
+http://home.kuaidi521.com:35455/huya/11601986
+#EXTINF:-1 tvg-id="电影_功夫片" tvg-name="电影_功夫片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_功夫片
+http://home.kuaidi521.com:35455/huya/11352941
+#EXTINF:-1 tvg-id="电影_黑帮片" tvg-name="电影_黑帮片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_黑帮片
+http://home.kuaidi521.com:35455/huya/11336719
+#EXTINF:-1 tvg-id="电影_丧尸片" tvg-name="电影_丧尸片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_丧尸片
+http://home.kuaidi521.com:35455/huya/21059578
+#EXTINF:-1 tvg-id="电影_灾难片" tvg-name="电影_灾难片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_灾难片
+http://home.kuaidi521.com:35455/huya/11602075
+#EXTINF:-1 tvg-id="电影_谍战片" tvg-name="电影_谍战片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_谍战片
+http://home.kuaidi521.com:35455/huya/21059587
+#EXTINF:-1 tvg-id="电影_战争片" tvg-name="电影_战争片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_战争片
+http://home.kuaidi521.com:35455/huya/21059574
+#EXTINF:-1 tvg-id="电影_犯罪片" tvg-name="电影_犯罪片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_犯罪片
+http://home.kuaidi521.com:35455/huya/11352974
+#EXTINF:-1 tvg-id="电影_古装片" tvg-name="电影_古装片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_古装片
+http://home.kuaidi521.com:35455/huya/11336590
+#EXTINF:-1 tvg-id="电影_高分动作" tvg-name="电影_高分动作" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_高分动作
+http://home.kuaidi521.com:35455/huya/11352884
+#EXTINF:-1 tvg-id="电影_动作电影" tvg-name="电影_动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_动作电影
+http://home.kuaidi521.com:35455/huya/11602077
+#EXTINF:-1 tvg-id="电影_搞笑喜剧" tvg-name="电影_搞笑喜剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_搞笑喜剧
+http://home.kuaidi521.com:35455/huya/11342423
+#EXTINF:-1 tvg-id="电影_喜剧专场" tvg-name="电影_喜剧专场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_喜剧专场
+http://home.kuaidi521.com:35455/huya/11602044
+#EXTINF:-1 tvg-id="电影_欢笑影院" tvg-name="电影_欢笑影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_欢笑影院
+http://home.kuaidi521.com:35455/huya/11352894
+#EXTINF:-1 tvg-id="电影_不挤影院" tvg-name="电影_不挤影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_不挤影院
+http://home.kuaidi521.com:35455/huya/11352897
+#EXTINF:-1 tvg-id="电影_国产悬疑" tvg-name="电影_国产悬疑" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_国产悬疑
+http://home.kuaidi521.com:35455/huya/11342395
+#EXTINF:-1 tvg-id="电影_快意江湖" tvg-name="电影_快意江湖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_快意江湖
+http://home.kuaidi521.com:35455/huya/11342435
+#EXTINF:-1 tvg-id="电影_黑帮斗争" tvg-name="电影_黑帮斗争" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_黑帮斗争
+http://home.kuaidi521.com:35455/huya/11342419
+#EXTINF:-1 tvg-id="电影_古墓系列" tvg-name="电影_古墓系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_古墓系列
+http://home.kuaidi521.com:35455/huya/11352913
+#EXTINF:-1 tvg-id="电影_嫣然影厅" tvg-name="电影_嫣然影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_嫣然影厅
+http://home.kuaidi521.com:35455/huya/11601977
+#EXTINF:-1 tvg-id="电影_女神系列" tvg-name="电影_女神系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_女神系列
+http://home.kuaidi521.com:35455/huya/11336571
+#EXTINF:-1 tvg-id="电影_经典女神" tvg-name="电影_经典女神" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_经典女神
+http://home.kuaidi521.com:35455/huya/11352909
+#EXTINF:-1 tvg-id="电影_经典港片" tvg-name="电影_经典港片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_经典港片
+http://home.kuaidi521.com:35455/huya/11352965
+#EXTINF:-1 tvg-id="电影_喜乐影院" tvg-name="电影_喜乐影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_喜乐影院
+http://home.kuaidi521.com:35455/huya/21059580
+#EXTINF:-1 tvg-id="电影_蘑菇影厅" tvg-name="电影_蘑菇影厅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_蘑菇影厅
+http://home.kuaidi521.com:35455/huya/11601981
+#EXTINF:-1 tvg-id="电影_搞笑恐怖" tvg-name="电影_搞笑恐怖" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_搞笑恐怖
+http://home.kuaidi521.com:35455/huya/11601960
+#EXTINF:-1 tvg-id="电影_死神来了" tvg-name="电影_死神来了" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_死神来了
+http://home.kuaidi521.com:35455/huya/11352903
+#EXTINF:-1 tvg-id="电影_变形金刚" tvg-name="电影_变形金刚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_变形金刚
+http://home.kuaidi521.com:35455/huya/21059596
+#EXTINF:-1 tvg-id="电影_怪兽系列" tvg-name="电影_怪兽系列" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",电影_怪兽系列
+http://home.kuaidi521.com:35455/huya/21059554
+#EXTINF:-1 tvg-id="搞笑_陈翔六点半" tvg-name="搞笑_陈翔六点半" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/虎牙直播.png" group-title="虎牙影视",搞笑_陈翔六点半
+http://home.kuaidi521.com:35455/huya/11274154
+#EXTINF:-1 tvg-id="咪视通-1" tvg-name="咪视通-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-1
+http://home.kuaidi521.com:35455/itv/3000000001000005308.m3u8
+#EXTINF:-1 tvg-id="咪视通-2" tvg-name="咪视通-2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-2
+http://home.kuaidi521.com:35455/itv/3000000001000005969.m3u8
+#EXTINF:-1 tvg-id="咪视通-3" tvg-name="咪视通-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-3
+http://home.kuaidi521.com:35455/itv/3000000001000007218.m3u8
+#EXTINF:-1 tvg-id="咪视通-4" tvg-name="咪视通-4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-4
+http://home.kuaidi521.com:35455/itv/3000000001000008001.m3u8
+#EXTINF:-1 tvg-id="咪视通-5" tvg-name="咪视通-5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-5
+http://home.kuaidi521.com:35455/itv/3000000001000008176.m3u8
+#EXTINF:-1 tvg-id="咪视通-6" tvg-name="咪视通-6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-6
+http://home.kuaidi521.com:35455/itv/3000000001000008379.m3u8
+#EXTINF:-1 tvg-id="咪视通-7" tvg-name="咪视通-7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-7
+http://home.kuaidi521.com:35455/itv/3000000001000010129.m3u8
+#EXTINF:-1 tvg-id="咪视通-8" tvg-name="咪视通-8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-8
+http://home.kuaidi521.com:35455/itv/3000000001000010948.m3u8
+#EXTINF:-1 tvg-id="咪视通-9" tvg-name="咪视通-9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-9
+http://home.kuaidi521.com:35455/itv/3000000001000028638.m3u8
+#EXTINF:-1 tvg-id="咪视通-10" tvg-name="咪视通-10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-10
+http://home.kuaidi521.com:35455/itv/3000000001000031494.m3u8
+#EXTINF:-1 tvg-id="咪视通-11" tvg-name="咪视通-11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-11
+http://home.kuaidi521.com:35455/itv/3000000010000005837.m3u8
+#EXTINF:-1 tvg-id="咪视通-12" tvg-name="咪视通-12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-12
+http://home.kuaidi521.com:35455/itv/3000000020000011518.m3u8
+#EXTINF:-1 tvg-id="咪视通-13" tvg-name="咪视通-13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-13
+http://home.kuaidi521.com:35455/itv/3000000020000011519.m3u8
+#EXTINF:-1 tvg-id="咪视通-14" tvg-name="咪视通-14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-14
+http://home.kuaidi521.com:35455/itv/3000000020000011520.m3u8
+#EXTINF:-1 tvg-id="咪视通-15" tvg-name="咪视通-15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-15
+http://home.kuaidi521.com:35455/itv/3000000020000011521.m3u8
+#EXTINF:-1 tvg-id="咪视通-16" tvg-name="咪视通-16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-16
+http://home.kuaidi521.com:35455/itv/3000000020000011522.m3u8
+#EXTINF:-1 tvg-id="咪视通-17" tvg-name="咪视通-17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-17
+http://home.kuaidi521.com:35455/itv/3000000020000011523.m3u8
+#EXTINF:-1 tvg-id="咪视通-18" tvg-name="咪视通-18" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-18
+http://home.kuaidi521.com:35455/itv/3000000020000011524.m3u8
+#EXTINF:-1 tvg-id="咪视通-19" tvg-name="咪视通-19" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-19
+http://home.kuaidi521.com:35455/itv/3000000020000011525.m3u8
+#EXTINF:-1 tvg-id="咪视通-20" tvg-name="咪视通-20" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-20
+http://home.kuaidi521.com:35455/itv/3000000020000011528.m3u8
+#EXTINF:-1 tvg-id="咪视通-21" tvg-name="咪视通-21" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-21
+http://home.kuaidi521.com:35455/itv/3000000020000011529.m3u8
+#EXTINF:-1 tvg-id="咪视通-22" tvg-name="咪视通-22" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-22
+http://home.kuaidi521.com:35455/itv/3000000020000011530.m3u8
+#EXTINF:-1 tvg-id="咪视通-23" tvg-name="咪视通-23" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-23
+http://home.kuaidi521.com:35455/itv/3000000020000011531.m3u8
+#EXTINF:-1 tvg-id="咪视通-24" tvg-name="咪视通-24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-24
+http://home.kuaidi521.com:35455/itv/3000000010000000097.m3u8
+#EXTINF:-1 tvg-id="咪视通-25" tvg-name="咪视通-25" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-25
+http://home.kuaidi521.com:35455/itv/3000000010000002019.m3u8
+#EXTINF:-1 tvg-id="咪视通-26" tvg-name="咪视通-26" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-26
+http://home.kuaidi521.com:35455/itv/3000000010000002809.m3u8
+#EXTINF:-1 tvg-id="咪视通-27" tvg-name="咪视通-27" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-27
+http://home.kuaidi521.com:35455/itv/3000000010000003915.m3u8
+#EXTINF:-1 tvg-id="咪视通-28" tvg-name="咪视通-28" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-28
+http://home.kuaidi521.com:35455/itv/3000000010000004193.m3u8
+#EXTINF:-1 tvg-id="咪视通-29" tvg-name="咪视通-29" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-29
+http://home.kuaidi521.com:35455/itv/3000000010000006077.m3u8
+#EXTINF:-1 tvg-id="咪视通-30" tvg-name="咪视通-30" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-30
+http://home.kuaidi521.com:35455/itv/3000000010000006658.m3u8
+#EXTINF:-1 tvg-id="咪视通-31" tvg-name="咪视通-31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-31
+http://home.kuaidi521.com:35455/itv/3000000010000009788.m3u8
+#EXTINF:-1 tvg-id="咪视通-32" tvg-name="咪视通-32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-32
+http://home.kuaidi521.com:35455/itv/3000000010000010833.m3u8
+#EXTINF:-1 tvg-id="咪视通-33" tvg-name="咪视通-33" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-33
+http://home.kuaidi521.com:35455/itv/3000000010000011297.m3u8
+#EXTINF:-1 tvg-id="咪视通-34" tvg-name="咪视通-34" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-34
+http://home.kuaidi521.com:35455/itv/3000000010000011518.m3u8
+#EXTINF:-1 tvg-id="咪视通-35" tvg-name="咪视通-35" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-35
+http://home.kuaidi521.com:35455/itv/3000000010000012558.m3u8
+#EXTINF:-1 tvg-id="咪视通-36" tvg-name="咪视通-36" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-36
+http://home.kuaidi521.com:35455/itv/3000000010000012616.m3u8
+#EXTINF:-1 tvg-id="咪视通-37" tvg-name="咪视通-37" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-37
+http://home.kuaidi521.com:35455/itv/3000000010000015470.m3u8
+#EXTINF:-1 tvg-id="咪视通-38" tvg-name="咪视通-38" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-38
+http://home.kuaidi521.com:35455/itv/3000000010000015560.m3u8
+#EXTINF:-1 tvg-id="咪视通-39" tvg-name="咪视通-39" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-39
+http://home.kuaidi521.com:35455/itv/3000000010000017678.m3u8
+#EXTINF:-1 tvg-id="咪视通-40" tvg-name="咪视通-40" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-40
+http://home.kuaidi521.com:35455/itv/3000000010000019839.m3u8
+#EXTINF:-1 tvg-id="咪视通-41" tvg-name="咪视通-41" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-41
+http://home.kuaidi521.com:35455/itv/3000000010000021904.m3u8
+#EXTINF:-1 tvg-id="咪视通-42" tvg-name="咪视通-42" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-42
+http://home.kuaidi521.com:35455/itv/3000000010000023434.m3u8
+#EXTINF:-1 tvg-id="咪视通-43" tvg-name="咪视通-43" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-43
+http://home.kuaidi521.com:35455/itv/3000000010000025380.m3u8
+#EXTINF:-1 tvg-id="咪视通-44" tvg-name="咪视通-44" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-44
+http://home.kuaidi521.com:35455/itv/3000000010000027691.m3u8
+#EXTINF:-1 tvg-id="咪视通-45" tvg-name="咪视通-45" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕视频.png" group-title="咪视通",咪视通-45
+http://home.kuaidi521.com:35455/itv/3000000010000031669.m3u8
+#EXTINF:-1 tvg-id="0" tvg-name=" [意甲]00:00 -联赛-拉齐奥 vs 尤文图斯-吴桐 刘腾" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [意甲]00:00 -联赛-拉齐奥 vs 尤文图斯-吴桐 刘腾
+https://migu.188766.xyz/play?migutoken=334ce9da1e4baff0458b90cf6d7da8f5&id=SZCPOws8iy809a5t0d2z9OhG%2Bh0W2q6oug8qmenxMJig0iYKmddHVHjjFtWBV87%2F&name=hUqNGHXRK1W%2FNd%2FWscjamiA6VozLgaBrWFLmZ7T5Hw4e18WATvy3G93pqr6bofzWFJdHkg6x3bYJ46ZA8MlWzgk8K2v%2F6R8RV31tVJvMPPE%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]00:30 -联赛-伯恩茅斯 vs 阿斯顿维拉-林梦鸽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]00:30 -联赛-伯恩茅斯 vs 阿斯顿维拉-林梦鸽
+https://migu.188766.xyz/play?migutoken=d1832c222a6f54ed90a65af3b6625978&id=XaCd4I8o%2BoiOgj4PR0y8wa3z6aASDnLmMvp3aGbSAte8T9BOUjn1i8hoTq4ive1a&name=9xEiBiKgCuYxqbTjuIhc7%2Bd0KccZnNjFoCWP%2Filby2Lnek5JOxEtCmOdQ9RGu4Go0X30sCmCpo%2BtK7b4YROzxZcY0CtuRplAgvmiLylZgDo%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [西甲]00:30 -联赛-马略卡 vs 巴拉多利德-李霄" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [西甲]00:30 -联赛-马略卡 vs 巴拉多利德-李霄
+https://migu.188766.xyz/play?migutoken=d16de6a4616771997e3aa8cdc6237f47&id=xjJt0YYFBLgLL36R9BFUNmhpV5rUcDDYwGLMZ%2BPAkdOxomz%2Ft9iNz0H1Wnq%2Fyo7R&name=pii8qkYS5ZADBt9gCsM3LS86rcYYHNt%2FnvBtx%2F7Yq%2BCSgM%2BbeDTNABI3QSb1o7mKbJrWMmnIv%2FQozKfAYzZAIaeE5hNZi%2BfkSO5Dus8zqyU%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [西甲]00:30 -联赛-赫罗纳 vs 比利亚雷亚尔-张昊泽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [西甲]00:30 -联赛-赫罗纳 vs 比利亚雷亚尔-张昊泽
+https://migu.188766.xyz/play?migutoken=4eea02bed0417a914fb6a32a69376b60&id=1TsfX6xLcSvscGIP4Bh5etSxEBx7r8qYHnbvlJ17aX%2FAB8b7zJjWnJ9slAtq%2FDxW&name=xWHn8%2F%2Fb8BtmvDxe3LvBRc%2BOCg2BgHyuBo%2BeyslJO53S62Tpiv%2B9Q2QisDs239BVXEo7kR3dCYuYYh7qaATkNsmwW7XoYoUkAgUiItKJdOA%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [德甲]00:30 -联赛-拜仁慕尼黑 vs 门兴格拉德巴赫-胡小凡 秦游夏" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [德甲]00:30 -联赛-拜仁慕尼黑 vs 门兴格拉德巴赫-胡小凡 秦游夏
+https://migu.188766.xyz/play?migutoken=9ed24de9de3bb52da694ff64cff50e38&id=PVFp%2B5hIr2z3cLepGRb5yA7ippgntMhFPSn0QRYvB%2BZKHXBRQtvFNspczteWqpyp&name=vMrqwmSHsLpuGZalLs4XhzKZaFuvmIJRRzIao8yg9V5qabAKRqS8CimWrtquCFvYJS3nFcis7iXbG%2FsKq6cVj1MDAZWfjFOShTm4mozFWYSZZV9R9AQB1s%2BVjAlIHmL5OdwgtUv6jCwJNb%2BcdCZ4Hg%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [意甲]02:45 -联赛-恩波利 vs 帕尔马-孙雨轩" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [意甲]02:45 -联赛-恩波利 vs 帕尔马-孙雨轩
+https://migu.188766.xyz/play?migutoken=3882ba29d2dc8c6771ffcc2cf8af3908&id=xvy%2Boprj39PhTk90tBhvT3ObNzZqFDyDKmHDwifnClU413DMZ088jpuXbSMcTOo4&name=d7cKKOZir%2FNBHS4x9exL9N%2BabA2eeoTWOkPm0inPBBJLdTRNvtOxbfD6SGd4%2Bbt14TF1qJQSbsWcZ3l7EJ7SgpvJDwR6oVIlbvt2RP6Ay4Y%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [西甲]03:00 -联赛-马德里竞技 vs 皇家社会-周楚雄 贺宇" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [西甲]03:00 -联赛-马德里竞技 vs 皇家社会-周楚雄 贺宇
+https://migu.188766.xyz/play?migutoken=9e64472707203a13866a8b5e3bc22e2d&id=C%2BVDilgXXPHWUhukVgYkwDCr4rsOCxPukRTTdvBGH0jvFlphQOPXpsk6AR1dzpa2&name=Ei2D4eNyq2uhUNFA42uaRMUy7hnmX1S4J4JFZMyAWv4jwWfUNHLpQbxkmWMLfZnlt%2BAQ2n2ew3k5skMba8WqIfVaKLOJYXuZ%2B1w5Ofs2%2BYY0zwLpO3kYr8xZRgqsMkqk
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-摩纳哥 vs 里昂-盛斌" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-摩纳哥 vs 里昂-盛斌
+https://migu.188766.xyz/play?migutoken=796f76fdda12b8de22b670fe098eb904&id=aT2rM6b1LcCmblYS7fY5NB9wC4Nu8wjTmYN7XFBrFJY9ZlnzK5%2BDgSN5QjVLryw1&name=xIWJ1z1Eh0fYzw3WQSRhdV518Hb2g3rgrjQfhBxYxSEtM%2FChoTRDzWAUA%2BBnJsvSaWr36z9epFCH8r8Awt2I0jPOXglGEMJjOp89DVktbto%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-蒙彼利埃 vs 巴黎圣日耳曼-鹿中原 王宇" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-蒙彼利埃 vs 巴黎圣日耳曼-鹿中原 王宇
+https://migu.188766.xyz/play?migutoken=a56d0bb4ade2d8291c6ccd6b593fa4f4&id=LW3FRuqzx6tq6QRhAJdkGRtGl1Wzqmpm2hqR1YLvOx8ZuklEUFjU7wVt4mWiArph&name=A3mgYBKPr7WhfLAdRZ0GeQp85rCaqbDPSWgFmcDaivJur0%2By6NX3WxaHegggvpBuP1Qhtdjxw0N3u%2BdPUYuG75cbftJhlDZiizrRhtLIN0Qj5W4VLmG9ZEr%2BI55cVo4y
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-布雷斯特 vs 里尔-涂远" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-布雷斯特 vs 里尔-涂远
+https://migu.188766.xyz/play?migutoken=7a966acb143ae414b9cd8745039db85f&id=z3nHLIqb4aklu5GTLnvyslhqyO1L82IzbNUrG9MxaivAkzLMT4W8ZhTkRz%2Bgfkh%2B&name=OZnqQWNzHskECHiZgOLkB0CbuS7ZDkwCJ83soQaJyBWPcKgN12JRt2QGMtcpmxwINblTMSqYUb5ZKljk%2F%2BLAShL5HLVvB6%2FV080ckGtqYEg%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-图卢兹 vs 朗斯-洪宇青" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-图卢兹 vs 朗斯-洪宇青
+https://migu.188766.xyz/play?migutoken=92b34e9f42c6ace8a50de1004c996a42&id=ZfHXG2mlLBU9eOywTAerqXyXVFSmqzFlKV51NEPgnlJn%2F1c%2F%2BbBuv1yJFktdH0nC&name=5lI8cYd8Icd167PR8omGWLFbbtF3oneuf44SrHedX4yLIQXtPxbP5Ak0NzMa6aFg0e2%2Feoq22Nj%2FhrCV1KnrKIdrq0ktevzuiJOCMZpKVLI%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-雷恩 vs 尼斯-邵煊" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-雷恩 vs 尼斯-邵煊
+https://migu.188766.xyz/play?migutoken=eec4eeef8e23dca7e4b36ad7603f5a79&id=qwzFh00EuCJP%2Fz4rCP%2F195nDIk8AOM6NzWYIjKEkqPgExflhUscTuCG3K4m%2BrLau&name=3oYfV0cyLrF1oNF2mv9Oi0zEDYVYz7uzvyZ7Uzt6neX8SGDCd0eBymg3Np9IgOf8USnt%2BsyM2eGi49kiX0XBCA%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-勒阿弗尔 vs 马赛-张昊泽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-勒阿弗尔 vs 马赛-张昊泽
+https://migu.188766.xyz/play?migutoken=0a0feb18cfc86da6b83f714238dccd10&id=b3u4L5qhJyNT4X3E%2FqsVsmucJnPOS8ciwPFs2jV8SvSPiXdKgtYbpibfh%2FmstYmJ&name=8x1WQn5Yb1GTP0ZMzUSYqUcdp43IkDemtX3GDXI%2FLCoY5pGQVBl9cGGlznBshOBOu81hkjLDQpfxvdPfyyOuYEEkKAL0d%2FfQLSUnS95H0hc%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-昂热 vs 斯特拉斯堡-张天翼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-昂热 vs 斯特拉斯堡-张天翼
+https://migu.188766.xyz/play?migutoken=460186b6f036c55e6ff2033b8df338c5&id=4Y1aDdqP5SDROSJMcbnFlgkzrfSgpYrV0d%2F2e0TAQWzp3kMc4xQmflxjf4m7fTgN&name=mmQNJ1GRZMnX1u%2FMijYhQB9KIU3qQdH3ohdW8QGG98ZvsphASeRkbRSq7xUkTxWo6Awv4TrW7WP51ip%2BRv98HPE1LLN9fUTYB5ejtH4Dh8A%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-欧塞尔 vs 南特-李永熙" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-欧塞尔 vs 南特-李永熙
+https://migu.188766.xyz/play?migutoken=394d0923283de012beafa2ce0f174d45&id=jdrhpuEz4qr%2FMrgNm71b2CUbiSy5iLMKtWxuD7Rey2q7jPownrpPlB8bCWG8%2Fw%2Fx&name=sYuaAk4pDmVnibRrQVZzjzzlQu%2FWRFP6wz0aN1bR5A2G3G3vuRjBvuNi0CAiM92ZZzHUB4TigzzYic%2F%2F1ZeG3LsEHM93864JGWxtanIeaTg%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [法甲]03:00 -联赛-兰斯 vs 圣埃蒂安-乔迁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [法甲]03:00 -联赛-兰斯 vs 圣埃蒂安-乔迁
+https://migu.188766.xyz/play?migutoken=eea3abd5a955ae23b75e7ed5cc9dfd09&id=YpIyVo2mKTvPsKKWfrnY7mitc92S%2FZbkg0DX12Si46kse8xciTVbQEqPlFQoqCcR&name=jVazbTIZ%2FjiFk8HhTdv2Dos1tuqwSyT6Y1RzvgC2wLelt4W0zyOztTMvYOwCvpHvhpxfcvruEB1AQc8LSkpLUWEbNZmr4PH7IOHKDDfeGfk%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中甲]15:00 -联赛-延边龙鼎 vs 陕西联合-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中甲]15:00 -联赛-延边龙鼎 vs 陕西联合-解说
+https://migu.188766.xyz/play?migutoken=237c75bbb06b37d4db607e733cccb27c&id=u6PHPUVsv2Py9zk49KCvEQOeyez4vZStdA05Ya5iAKvkQQKjCs%2BM6CcvliX%2Bl5rY&name=UiWOGkLpK1gYFO6Vq2Sv6eF5IK%2FVba5YwQkWSHrCPsE2ZGV12UDrB6%2B9Wx0ju%2FWwL5g%2F1AdjDRFByhnUrBCbaboSH5vYZIn3rVnVZ%2FEzL%2FI%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中甲]15:00 -联赛-辽宁铁人 vs 大连鲲城-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中甲]15:00 -联赛-辽宁铁人 vs 大连鲲城-解说
+https://migu.188766.xyz/play?migutoken=2f152e8320c7e4d1fad26a39048d4cb1&id=ac7FU0nU5KwNiets%2BUVdldslm1otzwJ7%2FwnCojYgr1KDv%2FiqhzVNk8ZOXhBg5OWi&name=cK6BhCrtnl%2F4rkj157r%2Bv5cqIwmsprrtCqy%2FNCT2fxhEJQEZiXi7fb17AlqH2QyaN4gbxDT15HSa1TsjoyTUKpSI%2B5NZsTZh%2Bb9PelS12gQ%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中甲]15:30 -联赛-青岛红狮 vs 苏州东吴-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中甲]15:30 -联赛-青岛红狮 vs 苏州东吴-解说
+https://migu.188766.xyz/play?migutoken=6de86558848cbe46c3f879931ab7ee60&id=eCUDChEZRboC4loeO9%2FbNf0YLY0aD0gDyOcs8ofLnr7co%2BchMSemBcJhSH48MgH%2F&name=IHLdB2Kf5j9SxZmDVMNjepNin84YR1SKzwELB5EIy6cqknvndfNceRpTF9PfAvKZhdJJy5MVVR%2FNeP3dB3idtdZZ7DAjwDUKoR1U7jgpxR4%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [意甲]18:30 -联赛-乌迪内斯 vs 蒙扎-刘焕" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [意甲]18:30 -联赛-乌迪内斯 vs 蒙扎-刘焕
+https://migu.188766.xyz/play?migutoken=214828a34448f0b73e11d030f8720a13&id=AmH16e1NpeoxdcrTSDaQYHbeHwrMgFWCF2oR53Bixj%2BS%2FUDlNBmBhTagT6%2FwyjSZ&name=9HI0kyYpuA13IbNh149ArX84qy50%2BL8Tkadj1%2F2ltjS9gO78%2BVvf65QmorLo7coonb4LC8%2BNjXlz4dl5aMIlk6g%2FbLAn6yNdUfFHtCbUcBI%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]19:00 -联赛-纽卡斯尔联 vs 切尔西-詹俊 张路 李子琪" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]19:00 -联赛-纽卡斯尔联 vs 切尔西-詹俊 张路 李子琪
+https://migu.188766.xyz/play?migutoken=f7610bd1bd2da72988b34bc3fa399735&id=9ffUuaOQvdesTgfQwBgEgHuEQJ1ypqGr9f8n9ouhEmzTz2g1d383ZUG3C92AE0Ye&name=iXw9Hm55CVcVroP7m4wrvtLnOnVGH1V3rsCIcHhzh5RRZQxEcaWAlysl3Fzu68xn4OOhQcYtlZvZZK7FZC9v9f%2BFpQHA%2Bpe7me608DV5Tc5GTeCHwVi%2FX7hx6oSsgplY
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]19:00 -联赛-纽卡斯尔联 vs 切尔西-黄健翔 徐阳" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]19:00 -联赛-纽卡斯尔联 vs 切尔西-黄健翔 徐阳
+https://migu.188766.xyz/play?migutoken=e967c645fc741f9750b4109394b87e11&id=ZJDMIYomHhfDGXcCSJC6z3sKqwlO1LUmQc2p%2Fjc557w0arK1dxyz%2BisPyNulVqhk&name=%2BaBOm2oSiHB6%2B21ZXy7T2pCNHjCtdkM8rqELJITD1E%2BEjZI51FhP%2BkIG%2BRBdUmL64q9%2BBhJmT%2FaKYdtT4Yc1ULEOkWq8fy79UrkENRHVn%2B0As1GOzphgxY8BIUB48Wz8
+#EXTINF:-1 tvg-id="0" tvg-name=" [中超]19:00 -联赛-天津津门虎 vs 云南玉昆-孙雨轩 冯潇霆" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中超]19:00 -联赛-天津津门虎 vs 云南玉昆-孙雨轩 冯潇霆
+https://migu.188766.xyz/play?migutoken=94018004807cc128e1c528a3cdcf64b7&id=zDN4oy1JSMCmBFepAXasIrywHjy6tGSmazP070gKAPmCtwn8DYQw1pfyxpYJ4j2G&name=Nwy74bYwWpPVfn36F9OAXwi6YvrXf2ruesAHjU31hJSY6n3QadCaSDoruSvOCY4qgF00%2FNiMWKVfaCPdSLFG4Cya6PP6aAvPQCgln8Bm%2FvxqHWAHNx7hGzM02viuk%2B73
+#EXTINF:-1 tvg-id="0" tvg-name=" [中超]19:00 -联赛-天津津门虎 vs 云南玉昆-赛场原声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中超]19:00 -联赛-天津津门虎 vs 云南玉昆-赛场原声
+https://migu.188766.xyz/play?migutoken=e2ff3217dbe000ae6d3c48e556a68bd8&id=oIXxTW5TTZ7s5xjOK2lMUugYfxDnJ6WXVY0ewRFvMxh5wL0mmWXm55a1XRyul6Of&name=Ytbv6ql9G26lne8EBU5pdOvEVgoAVKI0t8IqC38Vs5tCqSYAV016AEVJMRb6soMIz3M2lJ%2Bs2pTf2l%2B6mWpBlAoFh8Fgiw6e3ctjJmBs0RIpX8nj%2FYaffB7BaZ1ECMpj
+#EXTINF:-1 tvg-id="0" tvg-name=" [中超]19:00 -联赛-长春亚泰 vs 河南-鹿中原 李毅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中超]19:00 -联赛-长春亚泰 vs 河南-鹿中原 李毅
+https://migu.188766.xyz/play?migutoken=d80474db9408d119dd8555515172a41d&id=4vFUIt6GblmNtyFtkqj6q4T%2FOsCeCM%2B%2FjJkfVD9JmMWK82A746xvyzd%2BfgNXsJ7x&name=89v1OHYZ4F3wt9lLWkIpkRd6AzjHkgFO%2B2GVL8ScopypUA0wJomD8CT4wbEc%2BP92%2FBl7vpSAlBy9V5D0K2icRMOQzv5S9a4Jzq3AgrYgGNI%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中超]19:00 -联赛-长春亚泰 vs 河南-赛场原声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中超]19:00 -联赛-长春亚泰 vs 河南-赛场原声
+https://migu.188766.xyz/play?migutoken=524f281453c3b0f0ceedbc81706d96ec&id=xIm4uRAdlC71lOhtqjQXzMUv%2BmffgXND%2BD93R5rx%2FnKzceS17gUl7KoHtQ5PIdBr&name=L8%2B0%2FB0WmfVn8cAaqewcV8QOvUKWvBkreyM1PueuCcg5LD3zAz%2FwztOvdfWSSSEWpkff8gLQtwKvD2yiP%2BcNVkC0LuQqUjK4e8%2FwEMNt4CA%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中甲]19:30 -联赛-佛山南狮 vs 南京城市-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中甲]19:30 -联赛-佛山南狮 vs 南京城市-解说
+https://migu.188766.xyz/play?migutoken=867a5b06cbc83392608f37489b22331b&id=Ez7aK4LZrZpziw6d%2Fg09DdAP85YH1LWF8FyKWEefpkLbn%2FpkLpECbc8PxjOS8N00&name=BJYev4l7eHToZbJUsDHEtIXq9vuRHe6FHxFxtU%2FcRXVfgyMv28m3H1S5obt9B66%2FFiOq3dDNcIvTD0KDSO6ovdFkcjihfRAIuXhFZXyDijg%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中超]19:35 -联赛-武汉三镇 vs 大连英博-张昊泽 于海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中超]19:35 -联赛-武汉三镇 vs 大连英博-张昊泽 于海
+https://migu.188766.xyz/play?migutoken=9a84d006ebabac3b886775d2188cd0ae&id=ghsdPvjrXWGTwJP7G3tti1jrajCqZTAHRcMlD0Tvt7ovCwMhLjh7ScwU0zDhyNzS&name=Kbmil62ZRvLPZicpua6IwvD0k3r11n7QwRldAdSFKxtHA3vUpxOJc9oyh6vTExt0sJEFN%2FD9OE85LPIMLV4DWr7at1yTHcX%2BQZJu%2Fnwju0ZumHLfco0L7OsQQp%2FABVvk
+#EXTINF:-1 tvg-id="0" tvg-name=" [中超]19:35 -联赛-武汉三镇 vs 大连英博-赛场原声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中超]19:35 -联赛-武汉三镇 vs 大连英博-赛场原声
+https://migu.188766.xyz/play?migutoken=2c68ce09ba2066e9d9d1b411577467b6&id=seKbx%2FWTnVQKjL8Pv9ykusEztTSIKNzXtptOlRBFjVO%2FfFpvc6DeqQOM%2BjrCpT37&name=Uh%2FNfU7dhMx%2Fiv%2BxHSAPmJSam%2Bsaxfl0cXFtpaUgljfYM%2BWE10xcpECWQtxiAYcYtWhSbsVU%2F9AiLUGkn7FoZ0r%2B5ieQBdVQTU0HmFGfEfk%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [西甲]20:00 -联赛-莱加内斯 vs 西班牙人-张天翼" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [西甲]20:00 -联赛-莱加内斯 vs 西班牙人-张天翼
+https://migu.188766.xyz/play?migutoken=13c5ebf4fec0c34fdb0b3deb2b0d6f01&id=iyUtb6Z3885zXyFX38E7%2BBsOy4fmQPTYhmQDZHbm1geOCexcz9siferznIO3XBwN&name=v9Cqf1K3Zbp%2BG3yfJQHdRiun4fiSriohqaRW3x6MGX%2FadA5iZg%2BhQ%2FyHRTf%2BI0a8OFpGsRRlJxzomJnUOEX%2F2BZHqqUAVbPkJRgpbQs3Aq8%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [意甲]21:00 -联赛-维罗纳 vs 莱切-鲁靖明" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [意甲]21:00 -联赛-维罗纳 vs 莱切-鲁靖明
+https://migu.188766.xyz/play?migutoken=19cc81557e2bac67ad4fe9f2f84db7c5&id=cf%2Bv3cUn6%2FaL7jWHnDjRsXhnCpTU%2Bp7aTLaWPzU0SuotW86kv0h5R5IYlaEVsvrB&name=VkCmeQGLVwpUmxMJGy23r%2F4JkJpHPQKFgFI%2FvXnp4rUuPPUj2nRE2t%2FYCBkRmDNrh%2BQnwUt15LDJ%2BiEZpiIcilAuse0WXu%2BCcRdACNz1OjQ%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]21:15 -联赛-曼联 vs 西汉姆联-娄一晨 刘越" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]21:15 -联赛-曼联 vs 西汉姆联-娄一晨 刘越
+https://migu.188766.xyz/play?migutoken=ea6a8df3f73658b8327ff7dc6bbf2f92&id=hJjCJiXSJDIp0%2B8J5k06a25C%2BV%2BEDOju9A%2F0HL1uG9kY6ipPnoW4%2FDedqUaSwu%2F9&name=KLyU0rPD3eZdv%2BCYS60HQBFgjY0n682hs647SSBL9XnxYUHO%2BGYPN5KkzrVN3jX0DqpFoXl1XBZeqUs5efdmwMprHJKgE4oiRVDSHJGtQIA%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]21:15 -联赛-诺丁汉森林 vs 莱斯特城-黄航" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]21:15 -联赛-诺丁汉森林 vs 莱斯特城-黄航
+https://migu.188766.xyz/play?migutoken=1676adcb5400f84bc0dca711673782cf&id=PE%2FucCvq%2Bo1A39bnqBCO6hw7%2F9dQCru3V5izYtEB65Oz4uEoftrRC5l7jAXnhJoy&name=LK5HaPy0kj7BdlpYjDKrgTqZlyor5EETNRlrQBJWzRLSGngE0YgQjohhnX907zdoR%2FfoyNXH6ZXpZcKkdkP7Dj6rDp186Kl1TJ1KDD2VcM4%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]21:15 -联赛-托特纳姆热刺 vs 水晶宫-吴桐 颜强" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]21:15 -联赛-托特纳姆热刺 vs 水晶宫-吴桐 颜强
+https://migu.188766.xyz/play?migutoken=1d5da0c7d6815a3bfec15bcc7f115866&id=BnfePCmSXLM2cIYXJQ5E7bcXgt4%2B%2Fq%2F%2BjHN9nQziAhSPoq5IWl4aL4qtc0lGrWFZ&name=13JieGap%2FT22Y15v2yNuAs98ixg%2F252wrQ10u40kh96GPbm9UiJRADcztLIdMQ41Bz%2BRdMzmk1TiBK3WpjnEzH3tW39cMTOxaXJYDNKcDRS9h%2BuUv5DTgGzV%2B3ypXfeW
+#EXTINF:-1 tvg-id="0" tvg-name=" [德甲]21:30 -联赛-勒沃库森 vs 多特蒙德-涂远 马延峰" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [德甲]21:30 -联赛-勒沃库森 vs 多特蒙德-涂远 马延峰
+https://migu.188766.xyz/play?migutoken=965314409bec18f1c0c597b3233581a5&id=%2BbC%2FHDnePfdBcM2CFLGgQS086EZaDOT0%2Fp4Q%2Fe89GLpKXme8K3nMB4gqtTZHi%2Bun&name=o99WVtfyowf62lS5jWX5xkknvWcspksAbq32a1v85Nu4aUxiDNoQ%2FnZIbfMfE0ReJI%2Bj9y%2FKmOAEtHHMufl9DneUyoJymsTN%2FpFtuDsMKeBiMWaUCJ%2F7JY8498qHScyz
+#EXTINF:-1 tvg-id="0" tvg-name=" [西甲]22:15 -联赛-巴塞罗那 vs 皇家马德里-梁祥宇 李欣" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [西甲]22:15 -联赛-巴塞罗那 vs 皇家马德里-梁祥宇 李欣
+https://migu.188766.xyz/play?migutoken=37560123a08c08c987d4c9fba7881c79&id=1EvIfQoXmUPmiensUwJlhiDsJe4QJi%2FqTtyKIlp8HVy%2FVs12URiSbNRM7bTJDOFA&name=AsHa2Qm2xCvoVfzyBlCU%2F%2FSflELYZnXIbQg3Nzgq97QdCPzwOPDZ6H1Sxtyeq%2BIksNmTng5XZkUUcTZ%2FUHRTymMTx6tsr0YPtcjHEzUVbsQB8Nlypm3V3os%2BnsJZ2yNz
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]23:30 -联赛-利物浦 vs 阿森纳-詹俊 张路 林梦鸽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]23:30 -联赛-利物浦 vs 阿森纳-詹俊 张路 林梦鸽
+https://migu.188766.xyz/play?migutoken=bbe9548ae1f2838df3c2014647850214&id=I0Db60TbFMX3pZsa6THckscOW3MmBD9IcVVWdtM%2F69qa8XhwT%2Be0gipeHyk%2Fa2Bz&name=PL8NzRBBYAyGzd9YbfET58scjnQnPoo6qPOa6ElQMGe3PzYSuLaqCSUgg753wYB4LQtaFfS13N%2FDqIESXQ2z3jbTmQb0SfsO%2F5J%2B70Bd0cChNvTgGYSE6z%2BPaX3ymt93
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]23:30 -联赛-利物浦 vs 阿森纳-詹俊 张路 林梦鸽" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]23:30 -联赛-利物浦 vs 阿森纳-詹俊 张路 林梦鸽
+https://migu.188766.xyz/play?migutoken=9cb5cbf81e173292a65b125e9270f6c7&id=41DhH64NVVB6CYxZXsdCd41ZtFSwH8ui1D3nH4ZVpmE5Foq3JpzUplNh3TLyVMb0&name=K6EphexZM9idDdFySy1NZ%2BNTmJCNYgk6%2BL2k%2FzEzVNQtI9X6%2FHdLMl9j6mvU%2Bz9DaEK51N30%2BmsVTyJQPmknqmBb%2BrcJsNc%2BZ0qvF9SxEiiHuHn62FRtg0kOh0RYEz1G
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]23:30 -联赛-利物浦 vs 阿森纳-江忠德" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]23:30 -联赛-利物浦 vs 阿森纳-江忠德
+https://migu.188766.xyz/play?migutoken=8708e20cda94c1f8b776bd61023a24f7&id=%2BKWE1sPX3yCqh%2BdOhg8xVusYC3jTDhFmsQSd4I%2F9v5s94NoVq5gWDPv2gNIeqAhH&name=a3GuPyZ77h3N8YEGJBW%2BXV6sE94BbpvG2qb7t9Wjovs0XdV9nJFMYUskOeCOMv3G3rWet3chT4CFbplqhqN3UAGqKOfKP2B2HYCXiq%2BsXsU%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [英超]23:30 -联赛-利物浦 vs 阿森纳-洪荒" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [英超]23:30 -联赛-利物浦 vs 阿森纳-洪荒
+https://migu.188766.xyz/play?migutoken=161a5dc6db1d9996d02f032c094da3f9&id=bz0lw3aCoE2T903UWZsETZIkuUsM88HejH22Hrx0q2Bec5u4dgfsBMW5XgWpGCXL&name=UguuZfI7NJqaa1HXWg%2BmPOO1IdhcUAwK%2BdBG2%2B%2Fw24VYmQuxkeYrHPxb7mM959mVLlnJZlE1xBhq5mpR0EzaqWcjqO92Gdi%2Fk9sMXF6TaII%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [德甲]23:30 -联赛-法兰克福 vs 圣保利-鲁靖明" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [德甲]23:30 -联赛-法兰克福 vs 圣保利-鲁靖明
+https://migu.188766.xyz/play?migutoken=aa1e0fb1ce073789405e425eaba67c71&id=U1d9PTo%2Bo%2FghdWNLTvsQ0Ui%2FXaC4Qd9RZVYp29mDwdTKfbMKR7PETWHS7y5X%2FQQm&name=K0seLQhlZ6%2BbTZqDHj4oEmcphKIS7thNDiuwLIN7PbsUUnCyTylW%2FI9u1Z9bjGIDpepAZrzqU31LRPkIbHWR2emv1Xq8B7eTmF1YYf9xhVY%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]03:30 -季后赛-凯尔特人VS尼克斯-邵化谦 季孟年" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]03:30 -季后赛-凯尔特人VS尼克斯-邵化谦 季孟年
+https://migu.188766.xyz/play?migutoken=e706ef3e80f587f440182723ae3db440&id=Y%2BPnYbJ9EbgnMy5V7HA5p9Cx3bNo27ql81VDUHhaAA45rC%2ByoYEOvbkWsLWyMJFt&name=BtWLKsbZeBQ9Jn4xNAJjZfzAUINg9xqcPNa6neCePn1XDD7rwgAoaHRqqyCr8R8dVAhIkt0HZHWNkZHIQBINacsVY9iEIzKMdB8Gyihc4v7wCTDby7hCuJ6esHzlqitS
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]03:30 -季后赛-凯尔特人VS尼克斯-英文原声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]03:30 -季后赛-凯尔特人VS尼克斯-英文原声
+https://migu.188766.xyz/play?migutoken=161836fc72f2c101f4d335cc7132c7a4&id=9HHtrZqK63IjrwslMbognb1kcfUcydu%2F4M93hL2Bjsxcx17rk1cLXz2wQyyplMKT&name=S7nBPZWXsfNDZEwFhErxJGtirr22mSbQ5IcpJBe7HyL6Quji8WDV39UqvvjIf51wvTO8H%2Fv%2FF%2FmUlvK9nRuTJ8HRl4R2t5pU5xg3xfPzTlI%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]08:30 -季后赛-森林狼VS勇士-24/25赛季季后赛全场集锦：森林狼102:97勇士（20250511）" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]08:30 -季后赛-森林狼VS勇士-24/25赛季季后赛全场集锦：森林狼102:97勇士（20250511）
+https://migu.188766.xyz/play?migutoken=d7f2ceea6c10f167ce2f92cc2bab3800&id=bP6DHhZMUCAr8d7ao5vMPcUXHVDDx0A1%2FnboYnYva25NijXlt9Lb6eYSHfLdILpW&name=KA17L6G9AuIOFFmcCkZAwscts1VJwDyqlhqx5ypMRuFES2KAOVBSXliyVwCPhdp%2F8oiPDAlVxY4ELmPPaTDlUIebsA1WYR4mKQkx8LxXpWr%2FmWh8cl%2BMb2ud5my4wQKhuW7NddlPVJUV1KOlpaz%2Feh8Q5aAX69Y9suMa95SEN98%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]08:30 -季后赛-森林狼VS勇士-庄宁宇 陈正昊 徐咏" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]08:30 -季后赛-森林狼VS勇士-庄宁宇 陈正昊 徐咏
+https://migu.188766.xyz/play?migutoken=c18d932f39ef8dee76d496494100403c&id=X8GRCve26w6XVy20M7wRaZSlXu59RiwOJzZCKPH6lFVU24ZJl6AFnSILlreqjNfv&name=YPiL7p45nByAvq9K8zuUwkKgqU31C38G9GQfmnbDVK3wgXZFchZ4auelBGA7oDAmDp3VSbnCANjAf4dfIlJ3KAcQ%2FxhXbbLGxFBvxrZZraigklW4zCQLeiQpQ9zxwivh
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]08:30 -季后赛-森林狼VS勇士-拜月宁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]08:30 -季后赛-森林狼VS勇士-拜月宁
+https://migu.188766.xyz/play?migutoken=84a8b102043333198f16a2b60a2d9332&id=4ln8kFS8A52rhXrJwGvn6i8iODBrgxvpWfr7zRjdXLm5RMf4I%2Frxr3l02sKfdFlY&name=nMMi3V%2FWFb%2Ba0Q4PN1Bn%2FdyhfKGAIWIRRatpKg3GEPqntDCpQisjuHtPuHHNVaguv0%2Bm2N7bN9YY2Z0%2BqWLYEt8GISxkmfhN%2BAoX2JwNlgI%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]08:30 -季后赛-森林狼VS勇士-邢晨" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]08:30 -季后赛-森林狼VS勇士-邢晨
+https://migu.188766.xyz/play?migutoken=408cb0c0da62fd6f884a5b113a993585&id=ZOBfiO6nEgHuqzpg9HZJcSuws13k22MgLZch6p5smu%2B%2Fam5UdlxtCXz0oGTubzQ9&name=%2Bs87mpR%2BR4egtzFndReO0SHEf1ZnAjUDZzvoPsvIUmksLX1naWd1TRuqcXmsy8cDfbgSDKrrYmmW18juc6%2BudA%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]08:30 -季后赛-森林狼VS勇士-莫俊祺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]08:30 -季后赛-森林狼VS勇士-莫俊祺
+https://migu.188766.xyz/play?migutoken=3b67c806d80d39ae9cc5f91c2fd133e5&id=C7WL07v87f8JSU7cnqWAEDDJnMBm3gfBB2VvhG5RII2QSdlkh5O%2FfZGFlhUgldpN&name=yI25R5HEkSxGDStYRaYb9QxqGymKLR%2BUIxNZa%2Ffg22b7MxYqMwuxOIGq1%2BKAt3qn7Z5IDn6FXvzsfxgzw9c%2FrNfSdftARaaxXCuDbipEtXU%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]08:30 -季后赛-森林狼VS勇士-洪荒" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]08:30 -季后赛-森林狼VS勇士-洪荒
+https://migu.188766.xyz/play?migutoken=4410c1b8b5dcf65aa407f6dd4d508a72&id=%2FHain%2FnGXvzhds6xs%2FwwfQqdXPIAPXo%2FZxRBXnDHx%2BgtuXTDD1BRjZKeMqm7gwOt&name=GFdCcy6Bns4UJA88xiR5W%2BbS6i%2Fqy8y2cBMKWGM7aKO7PCCEpXWeFB%2BeBvkU0EMIvoWhOfJ4Dxk0%2BiwNAPn1DA%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [NBA]08:30 -季后赛-森林狼VS勇士-英文原声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [NBA]08:30 -季后赛-森林狼VS勇士-英文原声
+https://migu.188766.xyz/play?migutoken=66355189bdc036a1a49356cb0820ef3b&id=Kv2nKOuYWN9nWdKFznaCqGeb%2F5n9GN5HAoqmVWKDNS864m1yw7QD97eQsExF2rfL&name=IpPZpQnxQlrovfkVAbRwa4MsX2UkqMQuhNwOlaVFzigC9Mu1cBg%2BPuYGwoaMVJMhjtcSRMzcrxYWU2%2Bn4AF6Xu1FYiULO%2BKuIWa4TFxYaQg%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [UFC数字赛]06:30 -UFC第315期：穆罕默德VS马达莱纳-UFC第315期：子弹成功卫冕 马达莱纳加冕新王-王琰博 任中贤 郝俊" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [UFC数字赛]06:30 -UFC第315期：穆罕默德VS马达莱纳-UFC第315期：子弹成功卫冕 马达莱纳加冕新王-王琰博 任中贤 郝俊
+https://migu.188766.xyz/play?migutoken=c6d3d35e5ac399504321179ec34ee4c1&id=ovNX7RMOcx4AJGCb9yfrXnp5u48WlwgRTjrkL1l0Q8%2BA7O9%2FJoWo4%2FmsfJdmDyGo&name=wbNNxbcmsSZGBnSmyXjHqzztI%2F%2BxhWP0nwOhjJiez2N%2Fu%2FrSUIM59XgWdICRLKzjYUPxP6LA4u86btuT7nKSG%2FLtxCw458o14fpzspUWVvsvaVZ8AFoIe4RkIThdrth9o5U183Sq3jfJGWuUNtCmqLzUr2SfbofgOcDm3%2FqEhoIS7odp579I8KfyjI%2B%2F34kuTUdtRrUZhkdmsnRiGGIZ56Wwajg274UkzLpICrbCN0Y%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [UFC数字赛]06:30 -UFC第315期：穆罕默德VS马达莱纳-UFC第315期：子弹成功卫冕 马达莱纳加冕新王-英文原声" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [UFC数字赛]06:30 -UFC第315期：穆罕默德VS马达莱纳-UFC第315期：子弹成功卫冕 马达莱纳加冕新王-英文原声
+https://migu.188766.xyz/play?migutoken=8a3d8e4bd8ca4369e22896cded175c5f&id=KOT6SAK9hK2D0bIUjwfvJw8BCcwGZMpe8e8vVMNhIBFSvYLb7lwyrYUO%2B3Ahs0UD&name=io2Xkv%2BOU8cMz2ZaACJaeNnvMYUJ148DKeE0WyiJpkiksNSA2tVVgC0LwJK4Thby%2FZQt1hZxjxFc9lHzyqH0xS6t%2Fj78PRlmxYr6VOaVf2abycn%2BocE9LhnpNo1SiK9sAI9b%2BGf4GAiskB37VlkrcEulVRsqF56rEvnL8tJeDDAI%2F6XmBtxVHJD%2FBOazGQY6Zt1gkIkRveX8OYbtZrDeFw%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-清流播出" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-清流播出
+https://migu.188766.xyz/play?migutoken=b62453402bf12dc040d513be3fcbb7e3&id=BZbCw6k1b5Y1PeK0icLDVm6RVxReyp%2BlACMt6Vk16WFL27GRNMhQTGUROkjD0rT5&name=DhQ6t%2BO6M%2FVBAE%2FfFfee4nEfONYmJ4mAdtwdptOl9VxJ7OaxtRj01zH9SsXjO73LUvXWL484PnQ1tVzB4uA%2BRG7vPQME3chwfQkrNpphAuiFzj7CftuuDxPgjtL%2FEa91ZbXIzew0ErM4jBARLn9tWV7bwzsd0jThdmf5JuQ18pmbw2M1qgeNT2HSFpA1Sv6yakxR%2B6AVU2XNLThOV7ZAMQ%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 2025杭州女子半程马拉松" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 2025杭州女子半程马拉松
+https://migu.188766.xyz/play?migutoken=b01ccb0242813ad591c5c6352a34535e&id=0B8dZumq6VVDIO100JFvKdIdd%2BWYVOaEcBmX12WWVG75lbjq%2FWYvMhlR%2BEaH3Om7&name=6Dvp9aek3aYqxSdJhhKcgVkeC3GWD8IjPRG9%2BRJQUg6vvfiJQvZV2rl41KIjymgowBaiWEE0Mzbh9OSRbNACwEEEDhHczExCRihrWGakisecEzKU5qm%2FAHOG4AruUwx5EHu6PX19bn1g%2B91JVXDbSZtlt79W8G9wnKsStQe4K9%2FWKaTFQVKPBGYwzbhcGvMAC%2FiTjtT45NbPDCcnLP3GkEePZib9v9e%2BUYd08K%2FIwVg4TmD5otC3ZGOaqZvyiPNEdw%2B%2F86aseJDJcAhWMcdp8w%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 2025长城汽车智慧工厂半程马拉松" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 2025长城汽车智慧工厂半程马拉松
+https://migu.188766.xyz/play?migutoken=2f181c2109ea218c29e20fa6b2d81bae&id=Reuj4Xw4Mxtujk%2BJvB%2FO%2ByrO6dxIqc%2FbwXLDv486OcUre3rXNTdjBrCvYyvqJaf9&name=tERAmLbfUgvbx4L0GIoGCUXsEf3Vktr4ZabBZdiBYUUDM9tVn0OY63d6aMPcNyCIKJUw1pdXd8MoQsc4DFkwtEk%2BI0mgxVWs0kLT9U3LBzNdcoh9aV7ZcAk2DhHTka4MWuMggcCxup8WAg%2BdZvSlPoGLY5xp6fzadhARF2zsf5LIMq7w2mnQX7zKGuIn0gy3lSMhleXgzGra35P8lXShW5RsdAHdA9sTapky6Tqee1ORGNGyg%2BGWXPD5i6Ef9DnoDG1CVY%2B1kl9S1f4Fbrif2A%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 资溪面包2025第十届大觉山半程马拉松" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 资溪面包2025第十届大觉山半程马拉松
+https://migu.188766.xyz/play?migutoken=f89f356eecc6dbe652b87c3cf11c4710&id=8lbQk8GhYPevtHgtHCcxDEh4zNX08kDYj2T4ruyZBZXZEk9l0xlkQGuMFNIt14WK&name=sLPwpJpJgy5sLCYR1SBvptTUM5XE%2FjE9g8JvPwptIk%2BjB%2Br8GqI2Ep3V8NhJs1mhklXMl%2Be7k7Eya5ZPpIcXtPH7qPCpL2E%2Fvnx7HqZiPIdmCUQBDhqA4RDtJV8xDPsvclPxrFBz4vEBxgGlgCjyk4slf5wSpVnkMQuvNlk2mfRrqX8OYvcRqYJEyOxFF73amf5KHWn%2F7TCE97152t%2B3GR2LdaMLFn1425nRj27CAcG2b7cvoAMiShz0eqOeSEoVUKTAe%2B6BcPlB3cRfEFbx1ipcE2%2Bg841wrgsh44eUX30%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 2025于都半程马拉松" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [马拉松系列赛]07:30 -大连马拉松、杭州女子半马等5场比赛-大连马拉松、杭州女子半马等5场比赛-马拉松系列赛: 2025于都半程马拉松
+https://migu.188766.xyz/play?migutoken=9c7b4b68967dac5ee228a7965c84e36e&id=VlELhoc4ml7Hd%2FhQO8pGte8kNbGrfmPqvZdN6GBQ1PtxMDK81yydSEJjqOjwfd%2B5&name=hESEDl3%2FT3wh47nKBs9htRlWRcDln9ojo%2FUCTypwMhpT356lybhxsFmOHmveISf%2FEYINOI1D8J5uAK9%2FsS4c7Lv7Y4v9wU0M6RYH9hPOj%2B4Cn7PYNkPAEFiCcjAfw4ShGnWwFOWmCfWlXNuiW1LVVpDhQg9L2YhG0xThX1T%2FDlLmUw4fZvK5aFaWRaT3QoUi4%2Fp3JykZ4w2mNzbszD4Aa%2FbCWy0WUbCzdKlZgEKU002ZgJV9Gs3st3brPJd21A6w
+#EXTINF:-1 tvg-id="0" tvg-name=" [多哈世乒赛]12:00 -【重温经典】世乒赛拾忆盲盒-重温世乒赛经典：青春日-重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [多哈世乒赛]12:00 -【重温经典】世乒赛拾忆盲盒-重温世乒赛经典：青春日-重温经典
+https://migu.188766.xyz/play?migutoken=2bb5fdffa43361dab3563853f702857a&id=EVvwz%2BYBTjWQBJ8pCR0BwYoQcrH2TffL28GNqYMVFJs8AVdQMGP0fGxPRjHuZG7C&name=tA4xob4cqR1ihD7QBqZ6zZT84b7nLGozcS6tBitnQIrzoRu7QDQkFgulbt%2Bd0jYrp9MxCDqRHQeen7DjBVV20H%2FTM1XJmFh9aRu%2BM37NnhdqX3utm9CLnUllg%2F2oDfZpPr9SQaUn9b0MzFz%2FeKuYZ0WH83Rc8aFa9914SiHLGjA%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [LPL]14:30 -UP vs LGD-UP vs LGD-官方解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [LPL]14:30 -UP vs LGD-UP vs LGD-官方解说
+https://migu.188766.xyz/play?migutoken=bbeb53779ae6aba28b56dc8e3bb5b3a5&id=ITaqkINRVvMV%2BWpWQMjeBfvz5WKORBY9f4aZ86dXdJpsC4vmsfkAtPJbnyzTbkiV&name=eKYR25lcVyTBCyOOiQZXJlq7HIqTE36VZFKzgHCD7m4fDLVmVFk1YAhwOpzUYD%2FA32Mwepz3TnO4OwCih5GlFA%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中乙]15:00 -联赛-山西崇德荣海vs兰州陇原竞技-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中乙]15:00 -联赛-山西崇德荣海vs兰州陇原竞技-解说
+https://migu.188766.xyz/play?migutoken=f56e60e555206aed5c5f888a0d3989fa&id=Q3ULxYZW1GZGlPfQQEXvB9FoFsvQck%2BqNEo1uwJ4E9uxLKGCKuvJPa8zNrRB7uJe&name=KrzW3F1lBizAfmGFh%2BGEPo8AEkowG8Qi7ZMwrKVgLJxzE0pMBlQzBddwTxEaePpBO1zeQppZONjyd7tCeR1XnbO4sXhV%2FjJcpyuKD4EgvVM9b7qsTovckFTOL9HENKTC
+#EXTINF:-1 tvg-id="0" tvg-name=" [中乙]15:30 -联赛-海门珂缔缘vs江西庐山-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中乙]15:30 -联赛-海门珂缔缘vs江西庐山-解说
+https://migu.188766.xyz/play?migutoken=9cd59677bda2038aca42ea2fb51dd1e0&id=wdPUu13UV9ShghtP297Os3A91meoPV7EInbSopL9n4hNwdJbxP4vUqA%2BgTR8Z%2F6E&name=IKAkVK2eSmbYx%2B61uhIR%2BJHXJZGPglyDJQYKOmRfqN5dFHmrIHVGhocq8pzwHPaCG9zUlNhiNMAC7Sg3LpKcakZMFQvHwu3lonLPFuAefmY%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中乙]16:00 -联赛-广东铭途vs赣州瑞狮-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中乙]16:00 -联赛-广东铭途vs赣州瑞狮-解说
+https://migu.188766.xyz/play?migutoken=fd59d8d3d188f40412f38ff33c36b0ca&id=URPveCjlxTJAEn6MfkOy1%2BuwneD3mwGukZW8UW9gv%2F2dBjIcnukWCtn9PB6PIXup&name=7uQydpPJMXMbK%2B7Hs5xOSUGPDSbG25Gk0JRimOK4Tr2WPGUO%2FowKCn9F8YQcOPJ1AwzDtZq1wBMFFkBRmkBMqcPHW7%2FnLvTPa3cWaS4OJy4%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中乙]16:00 -联赛-湖北青年星vs北京理工-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中乙]16:00 -联赛-湖北青年星vs北京理工-解说
+https://migu.188766.xyz/play?migutoken=05404056f68facac7d88a55fbfb4ba80&id=FHKcJn6K2N6mpEYhefPIBJG3m3svQrNC%2BmH8gWIHim%2Bn%2F54Xa6hn0CfrpHM8PmCr&name=ggRACnDfhmCaNsSZEcrlcbGCSfGklLlTxPRdexaABCGMPD2o2yGR4VKYz3gHfs%2F4NFqxcugeHMP7gfQ8kJQSNKLOPSL9Iwo6K%2F%2BGQC3IRFU%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中乙]16:00 -联赛-杭州临平吴越vs泰安天贶-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中乙]16:00 -联赛-杭州临平吴越vs泰安天贶-解说
+https://migu.188766.xyz/play?migutoken=d168d390fb8249626d1ce44b1ccad9a5&id=tj0tlFe9wO5Q6jvOh2PL7WUbBLsWLtmz9ayJ0Sx3W7ofqZK0%2B%2Bx0jPi4mvrwjhA0&name=3PZL33yVm%2FPJUDc6aaIURAdfTid2A8%2Fx4Kd%2FRhSQd69YLJHT2Ws8q9byNvnY9oNTaZv429Cvl63fqcZuUfpocb02AS9A3V1EWg%2BY6pu4sSE%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中乙]17:00 -联赛-广西恒宸vs温州俱乐部中胤-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中乙]17:00 -联赛-广西恒宸vs温州俱乐部中胤-解说
+https://migu.188766.xyz/play?migutoken=0f96d395dc41ac672c5b84db3626f884&id=qMGG0UGvNQhUnow0rmwmv4%2F7nMcxWgkoW685dCvNnwTGeht8f4fCXaiGuUvqxo8r&name=JE8YdQ5D7B5xipK%2FQNE3uMpPCGFyXicTEKmH9mDD9EzkfyPbZGCqRHkuDcwdupmMsAIIe0i1MLkcrubi4685HQQHxVpJSvTgBPJfoZkp5r5jxI6WiAbvji8GnsVEZEoS
+#EXTINF:-1 tvg-id="0" tvg-name=" [WTA]17:00 -WTA罗马站第六日：郑钦文对战弗莱彻-郑钦文对战弗莱彻-清流播出" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [WTA]17:00 -WTA罗马站第六日：郑钦文对战弗莱彻-郑钦文对战弗莱彻-清流播出
+https://migu.188766.xyz/play?migutoken=c90256041b2b305a69b20911ad698c70&id=r%2F2Z4pHaGIRu2GdPEIIFyH4ZkFlV5QONIRIXmyAtkC9txhkFomhv5JfAPEGHQZLU&name=5wv0yIfot9O1jygeMTM4uJ%2BJOyC8tUn8IEbtuFvNktGWrSgXmkq3h76n8kxOdLlel20GY2LP8Zo%2BTRnBQkOtrmqFeFudHx5nujwtGc4KZiHdd75ZhtkMVvNa3CoHsAJJN%2B9sgvtKbosv7EKSfB2OJ9Jeo%2BPopaKF9DpEx%2FSOkU8%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [WTA]17:00 -WTA罗马站第六日：郑钦文对战弗莱彻-郑钦文对战弗莱彻-李宁" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [WTA]17:00 -WTA罗马站第六日：郑钦文对战弗莱彻-郑钦文对战弗莱彻-李宁
+https://migu.188766.xyz/play?migutoken=98cff49049988903a2b50ace6d7f5216&id=Y8vBMLJEo750mQy%2BqyxZu%2FmG3Ai700pdxgt9sONnPH%2BScVd%2Bl%2BsZtAeg3IcPs2L1&name=9C2T4wQ5zLzvaIMKs3rvZsxpIQYZeJMrmHryH7HKAHKBJkdMD4Ki36V1DvRmIbxTE9bzrSQuPNMEEZOhmjhSuvaogW3erq4Ab%2BZLd1%2BJqAbcVk1Ngqyp2LOIygau1qCcLbMX9Rgv6XdzNrLEIrw92g%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [WTA]17:00 -WTA罗马站第六日：郑钦文对战弗莱彻-郑钦文对战弗莱彻-清流" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [WTA]17:00 -WTA罗马站第六日：郑钦文对战弗莱彻-郑钦文对战弗莱彻-清流
+https://migu.188766.xyz/play?migutoken=9660268af33e7265b9ae9faac5939b3f&id=MSQHIpZTMTSqC3XU66MM%2BIS5cMu0suWrqC4fUF3lhtWYnChZ%2BSozyXtazqggNMbm&name=IP9qt%2BumwtIHE1qT7hn4SPVVCM45eLuwYgJ%2BjysuJ696kOGbk4rh3ryuhFO4qtqUYugGP%2BO14byzJOd6MCOlJdK1K40MoGCG2mjh0ViHmghJT6C%2BibeVDvnYaGsoUysIqmHNNDHdWbd12ziJpY722A%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [LPL]17:00 -TT vs WBG-TT vs WBG-官方解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [LPL]17:00 -TT vs WBG-TT vs WBG-官方解说
+https://migu.188766.xyz/play?migutoken=429223b13c02541889a7c5f4c813b0bd&id=ZXL8AlWyJvosrCsPrO3G0IvEH%2B0QAbHa9M%2BlWKIzH13hAx2IgYxRd8IL%2Bpoloj3X&name=mZEvfCaUbmpkwNPwND4lneTS9ioKssRchBRwmGE6qHWoyEEE3VVMZ6nt8OVEpT6n%2FjVvLvj5iVcCXxtkcboW6Q%3D%3D
+#EXTINF:-1 tvg-id="0" tvg-name=" [中乙]19:00 -联赛-山东泰山B队vs上海海港富盛经开-解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [中乙]19:00 -联赛-山东泰山B队vs上海海港富盛经开-解说
+https://migu.188766.xyz/play?migutoken=885e251010f45aa5b4410f3c4eae15ad&id=VLgRJzxzR6vEDy%2BtubbVFj5BQgxaOmnJcjMh7b57%2B2aYfGrNzJIfHnUxKGRrzcr6&name=I%2FI47WB5Lqtg4kcwe5T48imAgeN7y16utdh4swe5QcTgc2jFhP%2FbQoeXrLlQCfnJEtIR9ELGO7YVBZn8m%2BWU00OBP51GD4qSpo6%2BiOPG6BcdcJkcOOntvBAuaXHnDGuK
+#EXTINF:-1 tvg-id="0" tvg-name=" [斯诺克]19:00 -元老世锦赛Day5：阿尔菲·伯顿PK亚伦·卡纳万-阿尔菲·伯顿PK亚伦·卡纳万-清流播出" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [斯诺克]19:00 -元老世锦赛Day5：阿尔菲·伯顿PK亚伦·卡纳万-阿尔菲·伯顿PK亚伦·卡纳万-清流播出
+https://migu.188766.xyz/play?migutoken=bd289412030efb684770c552b48cc759&id=1AdNZnVY9JLh7j8fRev0oejk9K%2BnvamCmJf3kU02xPZECauyimI42zs2QdehK%2Bvl&name=IqVab5RZtR1S6tt4SGSFGKYrFFP8UtylGtRtrb4PF%2B%2B%2FM7HXEwbotzgDjA30hafNlFS%2FW0HFNLCc%2B0g2tcb%2BuH358wNutEr7kWOf54CaWOk%2FLTGUJD1RCOdqnSsgMRn7OtZ9SqgvsuVuHiwGZPW3A2ZruQ0zCl%2Blpkq2akiz9s09FuqBsdiVTYbqnhwQt5yL
+#EXTINF:-1 tvg-id="0" tvg-name=" [LPL]20:00 -JDG vs TES-JDG vs TES-官方解说" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/咪咕体育.png" group-title="咪咕体育", [LPL]20:00 -JDG vs TES-JDG vs TES-官方解说
+https://migu.188766.xyz/play?migutoken=655ded2dfd40efd8de034823301fb20e&id=Uj1yrHroKdnFs58bI69ZI5EPpMBPCxrWPeQJtdd5Q7qYmOQzlFR5YcI49BXZ44%2FE&name=AZ570Sck4JNL4VthgLhXn5H5221RP6ernywBq%2F5bzsjQr%2BKhYLEed9uigNNvb8TpFKoCmYS5%2B%2Bln2IZQDhePnw%3D%3D
 
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="咪咕视频",CCTV1综合
 http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
