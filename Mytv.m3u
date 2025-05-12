@@ -211,7 +211,7 @@ https://mytv.jscz.de/mytvsuper/CTS1
 #KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
 https://mytv.jscz.de/mytvsuper/CRE
 
-#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="時尚", FashionBox
+#EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://assets.livednow.com/logo/FashionBox.png" group-title="其他", FashionBox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
@@ -319,11 +319,6 @@ https://mytv.jscz.de/mytvsuper/CNHK
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
 https://mytv.jscz.de/mytvsuper/CARI
 
-#EXTINF:-1 tvg-id="myTV-SUPER-Olympics-News" tvg-name="奧運新聞台" tvg-logo="https://assets.livednow.com/logo/myTV-SUPER-Olympics-News.png" group-title="體育", 奧運新聞台
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=68f99a5e1cc393fb79ed98a2a955cb2b:9fcc81e5f0a1021867d93038b9149c6b
-https://mytv.jscz.de/mytvsuper/ONC
 
 
 
