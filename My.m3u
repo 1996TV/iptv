@@ -76,7 +76,7 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1 tvg-id="NOW体育" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="🇭🇰香港频道📡",NOW体育
 http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
-http://php.jdshipin.com/TVOD/iptv.php?id=
+http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
