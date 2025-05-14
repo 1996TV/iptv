@@ -77,29 +77,7 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.cn/tv/台视.png" group-title="🇭🇰香港频道📡",台视
-http://150.138.77.132:10037/西瓜/台视.php
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.cn/tv/HBO HD.png" group-title="🇭🇰香港频道📡",HBO HD
-http://150.138.77.132:10037/西瓜/HBO.php
-#EXTINF:-1 tvg-name="Tvn HD" tvg-logo="https://live.fanmingming.cn/tv/Tvn HD.png" group-title="🇭🇰香港频道📡",Tvn HD
-http://150.138.77.132:10037/西瓜/Tvn.php
-#EXTINF:-1 tvg-name="东风卫视" tvg-logo="https://live.fanmingming.cn/tv/东风卫视.png" group-title="🇭🇰香港频道📡",东风卫视
-http://150.138.77.132:10037/西瓜/东风卫视.php
-#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://live.fanmingming.cn/tv/东森戏剧台.png" group-title="🇭🇰香港频道📡",东森戏剧台
-http://150.138.77.132:10037/西瓜/东森戏剧台.php
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.cn/tv/美亚电影台.png" group-title="🇭🇰香港频道📡",美亚电影台
-http://150.138.77.132:10037/西瓜/美亚电影台.php
-#EXTINF:-1 tvg-name="龙翔电影台" tvg-logo="https://live.fanmingming.cn/tv/龙翔电影台.png" group-title="🇭🇰香港频道📡",龙翔电影台
-http://150.138.77.132:10037/西瓜/龙翔电影台.php
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png" group-title="🇭🇰香港频道📡",Now星影台
-http://150.138.77.132:10037/西瓜/Now星影台.php
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png" group-title="🇭🇰香港频道📡",Now爆谷台
-http://150.138.77.132:10037/西瓜/Now爆谷台.php
-#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐台.png" group-title="🇭🇰香港频道📡",中天娱乐台
-http://150.138.77.132:10037/西瓜/中天娱乐台.php
-#EXTINF:-1 tvg-name="TVB黄金华剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB黄金华剧台.png" group-title="🇭🇰香港频道📡",TVB黄金华剧台
-http://150.138.77.132:10037/西瓜/黄金华剧台.php
+
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -859,181 +837,38 @@ http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBP
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/176/202504161629_1744788994468_H169_720.jpg" group-title="咪咕视频",CHC影迷电影
 http://sport.pendy.dpdns.org/migu/952383261?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 
-#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="其他",民視第一台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv003/index.m3u8
-#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="其他",民視台灣台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv001/index.m3u8
-#EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="其他",民視HD
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv002/index.m3u8
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="其他",中視
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv040/index.m3u8
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="其他",華視
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv041/index.m3u8
-#EXTINF:-1,tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://epg.v1.mk/logo/三立综合.png" group-title="其他",三立綜合合
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live207/index.m3u8
-#EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="其他",中視菁采台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv064/index.m3u8
-#EXTINF:-1,tvg-id="靖天综合" tvg-name="靖天综合" tvg-logo="https://epg.v1.mk/logo/靖天综合.png" group-title="其他",靖天綜合
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv046/index.m3u8
-#EXTINF:-1,tvg-id="ARIRANGTV" tvg-name="ARIRANGTV" tvg-logo="https://epg.v1.mk/logo/ARIRANGTV.png" group-title="其他",Arirang TV
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv079/index.m3u8
-#EXTINF:-1,tvg-id="原住民族电视台" tvg-name="原住民族电视台" tvg-logo="https://epg.v1.mk/logo/原住民族电视台.png" group-title="港澳台",原住民族電視台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live014/index.m3u8
-#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="港澳台",TVBS HD
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv073/index.m3u8
-#EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="其他",民視第一台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv003/index.m3u8
-#EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="其他",民視台灣台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv001/index.m3u8
-#EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="其他",中視
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv040/index.m3u8
-#EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="其他",華視
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv041/index.m3u8
-#EXTINF:-1,tvg-id="中天亚洲台" tvg-name="中天亚洲台" tvg-logo="https://epg.v1.mk/logo/中天亚洲台.png" group-title="其他",中天亞洲台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv109/index.m3u8
-#EXTINF:-1,tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://epg.v1.mk/logo/三立综合.png" group-title="其他",三立綜合合
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live207/index.m3u8
-#EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="其他",中視菁采台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv064/index.m3u8
-#EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="港澳台",TVBS HD
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv073/index.m3u8
-#EXTINF:-1,tvg-id="靖天戏剧" tvg-name="靖天戏剧" tvg-logo="https://epg.v1.mk/logo/靖天戏剧.png" group-title="其他",靖天戲劇
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8
-#EXTINF:-1,tvg-id="民视影剧" tvg-name="民视影剧" tvg-logo="https://epg.v1.mk/logo/民视影剧.png" group-title="其他",民視影劇
-http://xn--elt51t.azip.dpdns.org:5008/litv-ftv09/index.m3u8
-#EXTINF:-1,tvg-id="HITS Movies" tvg-name="HITS Movies" tvg-logo="https://epg.v1.mk/logo/HITS Movies.png" group-title="其他",HITS
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8
-#EXTINF:-1,tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://epg.v1.mk/logo/公视戏剧.png" group-title="其他",公視戲劇
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv042/index.m3u8
-#EXTINF:-1,tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="其他",中視經典台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv080/index.m3u8
-#EXTINF:-1,tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.v1.mk/logo/靖天映画.png" group-title="其他",靖天映畫
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8
-#EXTINF:-1,tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://epg.v1.mk/logo/靖天电影.png" group-title="其他",靖天電影
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv061/index.m3u8
-#EXTINF:-1,tvg-id="影迷数位电影台" tvg-name="影迷数位电影台" tvg-logo="https://epg.v1.mk/logo/影迷数位电影台.png" group-title="其他",影迷數位電影台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv011/index.m3u8
-#EXTINF:-1,tvg-id="AMC电影台" tvg-name="AMC电影台" tvg-logo="https://epg.v1.mk/logo/AMC电影台.png" group-title="其他",amc 電影台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv017/index.m3u8
-#EXTINF:-1,tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://epg.v1.mk/logo/CinemaWorld.png" group-title="其他",Cinema World
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live069/index.m3u8
-#EXTINF:-1,tvg-id="CCTV-4中文国际%20欧洲" tvg-name="CCTV-4中文国际%20欧洲" tvg-logo="https://epg.v1.mk/logo/CCTV-4中文国际%20欧洲.png" group-title="其他",歐洲光影
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live157/index.m3u8
-#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS台劇台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8
-#EXTINF:-1,tvg-id="经典电影台" tvg-name="经典电影台" tvg-logo="https://epg.v1.mk/logo/经典电影台.png" group-title="其他",經典電影台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live021/index.m3u8
-#EXTINF:-1,tvg-id="ELTA戏剧" tvg-name="ELTA戏剧" tvg-logo="https://epg.v1.mk/logo/ELTA戏剧.png" group-title="其他",戲劇免費看1台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live010/index.m3u8
-#EXTINF:-1,tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="其他",中視經典台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv080/index.m3u8
-#EXTINF:-1,tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://epg.v1.mk/logo/龙华洋片.png" group-title="其他",龍華洋片
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn02/index.m3u8
-#EXTINF:-1,tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://epg.v1.mk/logo/龙华电影.png" group-title="其他",龍華電影
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn03/index.m3u8
-#EXTINF:-1,tvg-id="龙华日韩" tvg-name="龙华日韩" tvg-logo="https://epg.v1.mk/logo/龙华日韩.png" group-title="其他",龍華日韓
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn11/index.m3u8
-#EXTINF:-1,tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://epg.v1.mk/logo/龙华偶像.png" group-title="其他",龍華偶像
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn12/index.m3u8
-#EXTINF:-1,tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://epg.v1.mk/logo/龙华戏剧.png" group-title="其他",龍華戲劇
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn18/index.m3u8
-#EXTINF:-1,tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://epg.v1.mk/logo/龙华经典.png" group-title="其他",龍華經典
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn21/index.m3u8
-#EXTINF:-1,tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://epg.v1.mk/logo/公视戏剧.png" group-title="其他",公視戲劇
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv042/index.m3u8
-#EXTINF:-1,tvg-id="民视影剧" tvg-name="民视影剧" tvg-logo="https://epg.v1.mk/logo/民视影剧.png" group-title="其他",民視影劇
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv09/index.m3u8
-#EXTINF:-1,tvg-id="靖天戏剧" tvg-name="靖天戏剧" tvg-logo="https://epg.v1.mk/logo/靖天戏剧.png" group-title="其他",靖天戲劇
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv058/index.m3u8
-#EXTINF:-1,tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="https://epg.v1.mk/logo/靖洋戏剧.png" group-title="其他",靖洋戲劇
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv045/index.m3u8
-#EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐台.png" group-title="港澳台",TVBS歡樂台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv068/index.m3u8
-#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS綜藝台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live087/index.m3u8
-#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA娛樂
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv070/index.m3u8
-#EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.v1.mk/logo/TVBS精采台.png" group-title="港澳台",TVBS精采台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv067/index.m3u8
-#EXTINF:-1,tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://epg.v1.mk/logo/亚洲旅游.png" group-title="其他",亞洲旅遊
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv076/index.m3u8
-#EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA生活旅遊
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
-#EXTINF:-1,tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://epg.v1.mk/logo/民视旅游.png" group-title="其他",民視旅遊
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv07/index.m3u8
-#EXTINF:-1,tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://epg.v1.mk/logo/亚洲旅游.png" group-title="其他",亞洲旅遊
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv076/index.m3u8
-#EXTINF:-1,tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://epg.v1.mk/logo/NICKJR.png" group-title="其他",Nick Jr.
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live032/index.m3u8
-#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.v1.mk/logo/NICKELODEON.png" group-title="其他",Nickelodeon
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8
-#EXTINF:-1,tvg-id="MOMO亲子" tvg-name="MOMO亲子" tvg-logo="https://epg.v1.mk/logo/MOMO亲子.png" group-title="其他",MOMO親子
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live107/index.m3u8
-#EXTINF:-1,tvg-id="MNEWS镜新闻" tvg-name="MNEWS镜新闻" tvg-logo="https://epg.v1.mk/logo/MNEWS镜新闻.png" group-title="其他",鏡電視新聞台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv075/index.m3u8
-#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="其他",東森新聞
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8
-#EXTINF:-1,tvg-id="华视新闻台" tvg-name="华视新闻台" tvg-logo="https://epg.v1.mk/logo/华视新闻台.png" group-title="其他",華視新聞台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
-#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.v1.mk/logo/民视新闻.png" group-title="其他",民視新聞
-http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
-#EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.v1.mk/logo/三立iNEWS.png" group-title="其他",三立iNEWS
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8
-#EXTINF:-1,tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.v1.mk/logo/东森财经新闻.png" group-title="其他",東森財經新聞
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv153/index.m3u8
-#EXTINF:-1,tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://epg.v1.mk/logo/中视新闻台.png" group-title="其他",中視新聞台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv074/index.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="其他",中天新聞台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8
-#EXTINF:-1,tvg-id="BLOOMBERGTV" tvg-name="BLOOMBERGTV" tvg-logo="https://epg.v1.mk/logo/BLOOMBERGTV.png" group-title="其他",BLOOMBERG TV
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live059/index.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.v1.mk/logo/寰宇新闻.png" group-title="其他",寰宇新聞
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="其他",寰宇新聞台灣台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv156/index.m3u8
-#EXTINF:-1,tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://epg.v1.mk/logo/SBN全球财经台.png" group-title="其他",SBN 全球財經台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-live060/index.m3u8
-#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.v1.mk/logo/寰宇财经.png" group-title="其他",寰宇財經
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8
-#EXTINF:-1,tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="其他",非凡新聞
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv010/index.m3u8
-#EXTINF:-1,tvg-id="MNEWS镜新闻" tvg-name="MNEWS镜新闻" tvg-logo="https://epg.v1.mk/logo/MNEWS镜新闻.png" group-title="其他",鏡電視新聞台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv075/index.m3u8
-#EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="其他",東森新聞
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv152/index.m3u8
-#EXTINF:-1,tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://epg.v1.mk/logo/民视新闻.png" group-title="其他",民視新聞
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8
-#EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS新聞台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
-#EXTINF:-1,tvg-id="中视新闻台" tvg-name="中视新闻台" tvg-logo="https://epg.v1.mk/logo/中视新闻台.png" group-title="其他",中視新聞台
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv074/index.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.v1.mk/logo/寰宇新闻.png" group-title="其他",寰宇新聞
-http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8
-#EXTINF:-1,tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="其他",寰宇新聞台灣台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv156/index.m3u8
-#EXTINF:-1,tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://epg.v1.mk/logo/寰宇财经.png" group-title="其他",寰宇財經
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8
-#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="其他",中天新聞台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8
-#EXTINF:-1,tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://epg.v1.mk/logo/台视新闻台.png" group-title="其他",台視新聞台
-http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv051/index.m3u8
-#EXTINF:-1,tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://epg.v1.mk/logo/智林体育.png" group-title="其他",智林體育
-http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv101/index.m3u8
-#EXTINF:-1,tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://epg.v1.mk/logo/博斯魅力.png" group-title="港澳台",博斯魅力
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn04/index.m3u8
-#EXTINF:-1,tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://epg.v1.mk/logo/博斯高球.png" group-title="港澳台",博斯高球I
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn05/index.m3u8
-#EXTINF:-1,tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://epg.v1.mk/logo/博斯高球.png" group-title="港澳台",博斯高球II
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn06/index.m3u8
-#EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.v1.mk/logo/博斯运动1.png" group-title="港澳台",博斯運動I
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn07/index.m3u8
-#EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.v1.mk/logo/博斯运动1.png" group-title="港澳台",博斯運動II
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn08/index.m3u8
-#EXTINF:-1,tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://epg.v1.mk/logo/博斯网球.png" group-title="港澳台",博斯網球
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn09/index.m3u8
-#EXTINF:-1,tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港澳台",博斯無限I
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn10/index.m3u8
-#EXTINF:-1,tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港澳台",博斯無限II
-http://xn--elt51t.azip.dpdns.org:5008/litv-longturn13/index.m3u8
-#EXTINF:-1,tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://epg.v1.mk/logo/影迷数位纪实台.png" group-title="其他",影迷數位紀實台
+
 http://xn--elt51t.azip.dpdns.org:5008/litv-ftv15/index.m3u8
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="🇭🇰香港频道📡",台视
+http://150.138.77.132:10037/西瓜/台视.php
+#EXTINF:-1,tvg-id="壹电视新聞台" tvg-name="壹电视新聞台" tvg-logo="https://epg.v1.mk/logo/壹电视新聞台.png" group-title="🇭🇰香港频道📡",壹电影
+http://150.138.77.132:10037/西瓜/壹电影.php
+#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="🇭🇰香港频道📡",tvN HD
+http://150.138.77.132:10037/西瓜/Tvn.php
+#EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://epg.v1.mk/logo/HBO Family.png" group-title="🇭🇰香港频道📡",HBO台湾本土版
+http://150.138.77.132:10037/西瓜/HBO.php
+#EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://epg.v1.mk/logo/HBO Family.png" group-title="🇭🇰香港频道📡",HBO国际中文版
+http://150.138.77.132:10037/西瓜/HBO国际中文台.php
+#EXTINF:-1,tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://epg.v1.mk/logo/东森戏剧台.png" group-title="🇭🇰香港频道📡",东森戏剧台
+http://150.138.77.132:10037/西瓜/东森戏剧台.php
+#EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="🇭🇰香港频道📡",美亚电影台
+http://150.138.77.132:10037/西瓜/美亚电影台.php
+#EXTINF:-1,tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://epg.v1.mk/logo/龙祥电影.png" group-title="🇭🇰香港频道📡",龙祥电影台
+http://150.138.77.132:10037/西瓜/龙祥电影台.php
+#EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.v1.mk/logo/CN卡通.png" group-title="🇭🇰香港频道📡",CN卡通频道
+http://150.138.77.132:10037/西瓜/CN卡通频道.php
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="🇭🇰香港频道📡",Now星影台
+http://150.138.77.132:10037/西瓜/Now星影台.php
+#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="🇭🇰香港频道📡",Now爆谷台
+http://150.138.77.132:10037/西瓜/Now爆谷台.php
+#EXTINF:-1,tvg-id="中天娱乐台" tvg-name="中天娱乐台" tvg-logo="https://epg.v1.mk/logo/中天娱乐台.png" group-title="🇭🇰香港频道📡",中天娱乐台
+http://150.138.77.132:10037/西瓜/中天娱乐台.php
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="🇭🇰香港频道📡",中天新闻台
+http://150.138.77.132:10037/西瓜/中天新闻台.php
+#EXTINF:-1,tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://epg.v1.mk/logo/中天新闻台.png" group-title="🇭🇰香港频道📡",中天新闻台+
+http://150.138.77.132:10037/西瓜/中天新闻台+.php
+#EXTINF:-1,tvg-id="华艺MBC" tvg-name="华艺MBC" tvg-logo="https://epg.v1.mk/logo/华艺MBC.png" group-title="🇭🇰香港频道📡",华艺中文台
+http://150.138.77.132:10037/西瓜/华艺中文台.php
+#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="🇭🇰香港频道📡",TVB黄金华剧台
+http://150.138.77.132:10037/西瓜/黄金华剧台.php
