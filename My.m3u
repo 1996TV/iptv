@@ -870,5 +870,5 @@ http://150.138.77.132:10037/西瓜/中天新闻台.php
 http://150.138.77.132:10037/西瓜/中天新闻台+.php
 #EXTINF:-1,tvg-id="华艺MBC" tvg-name="华艺MBC" tvg-logo="https://epg.v1.mk/logo/华艺MBC.png" group-title="🇭🇰香港频道📡",华艺中文台
 http://150.138.77.132:10037/西瓜/华艺中文台.php
-#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="🇭🇰香港频道📡",TVB黄金华剧台
+#EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="🇭🇰香港频道📡",TVB黄金华剧台
 http://150.138.77.132:10037/西瓜/黄金华剧台.php
