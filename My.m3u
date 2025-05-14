@@ -77,6 +77,29 @@ http://a.ru8.dpdns.org/now/332/master.m3u8
 http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://live.fanmingming.cn/tv/台视.png" group-title="🇭🇰香港频道📡",台视
+http://150.138.77.132:10037/西瓜/台视.php
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://live.fanmingming.cn/tv/HBO HD.png" group-title="🇭🇰香港频道📡",HBO HD
+http://150.138.77.132:10037/西瓜/HBO.php
+#EXTINF:-1 tvg-name="Tvn HD" tvg-logo="https://live.fanmingming.cn/tv/Tvn HD.png" group-title="🇭🇰香港频道📡",Tvn HD
+http://150.138.77.132:10037/西瓜/Tvn.php
+#EXTINF:-1 tvg-name="东风卫视" tvg-logo="https://live.fanmingming.cn/tv/东风卫视.png" group-title="🇭🇰香港频道📡",东风卫视
+http://150.138.77.132:10037/西瓜/东风卫视.php
+#EXTINF:-1 tvg-name="东森戏剧台" tvg-logo="https://live.fanmingming.cn/tv/东森戏剧台.png" group-title="🇭🇰香港频道📡",东森戏剧台
+http://150.138.77.132:10037/西瓜/东森戏剧台.php
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://live.fanmingming.cn/tv/美亚电影台.png" group-title="🇭🇰香港频道📡",美亚电影台
+http://150.138.77.132:10037/西瓜/美亚电影台.php
+#EXTINF:-1 tvg-name="龙翔电影台" tvg-logo="https://live.fanmingming.cn/tv/龙翔电影台.png" group-title="🇭🇰香港频道📡",龙翔电影台
+http://150.138.77.132:10037/西瓜/龙翔电影台.php
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://live.fanmingming.cn/tv/Now星影台.png" group-title="🇭🇰香港频道📡",Now星影台
+http://150.138.77.132:10037/西瓜/Now星影台.php
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://live.fanmingming.cn/tv/Now爆谷台.png" group-title="🇭🇰香港频道📡",Now爆谷台
+http://150.138.77.132:10037/西瓜/Now爆谷台.php
+#EXTINF:-1 tvg-name="中天娱乐台" tvg-logo="https://live.fanmingming.cn/tv/中天娱乐台.png" group-title="🇭🇰香港频道📡",中天娱乐台
+http://150.138.77.132:10037/西瓜/中天娱乐台.php
+#EXTINF:-1 tvg-name="TVB黄金华剧台" tvg-logo="https://live.fanmingming.cn/tv/TVB黄金华剧台.png" group-title="🇭🇰香港频道📡",TVB黄金华剧台
+http://150.138.77.132:10037/西瓜/黄金华剧台.php
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
