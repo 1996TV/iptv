@@ -318,7 +318,11 @@ https://mytv.jscz.de/mytvsuper/CNHK
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
 https://mytv.jscz.de/mytvsuper/CARI
 
-
+#EXTM3U #EXTINF:-1 tvg-id="CC1" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png" group-title="央视国际" ,CCTV-1综合香港 
+#KODIPROP:inputstream.adaptive.manifest_type=mpd 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2 
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=4a8680d675ef944c372c8702c0d3100d&ext_start_limit=1747549820&int_start_limit=1747549820&ts=1747549820&c=339313918
 
 
 
