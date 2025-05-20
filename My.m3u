@@ -128,7 +128,7 @@ http://148.135.93.213/live.php?id=CCTV9
 http://148.135.93.213/live.php?id=CCTV10
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="📡央视频道📺",CCTV11
 http://148.135.93.213/live.php?id=CCTV11
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📡央视频道📺,CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="📡央视频道📺",CCTV12
 http://148.135.93.213/live.php?id=CCTV12
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="📡央视频道📺",CCTV13
 http://148.135.93.213/live.php?id=CCTV13
@@ -150,7 +150,7 @@ https://0472.org/hls/cgtnx.m3u8
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.cn/tv/CGTN阿语.png" group-title="📡央视频道📺",CGTN阿语
 https://0472.org/hls/cgtna.m3u8
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="📡央视频道📺#genre#",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.cn/tv/CGTN俄语.png" group-title="📡央视频道📺",CGTN俄语
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.cn/tv/五星体育.png" group-title="📡卫视频道📺",五星体育
 http://148.135.93.213/live.php?id=五星体育
