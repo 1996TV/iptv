@@ -191,3 +191,150 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226472/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226147/.m3u8
 #EXTINF:-1 tvg-name="晴彩篮球" tvg-logo="https://live.fanmingming.cn/tv/晴彩篮球.png" group-title="🇨🇳地方频道📡",晴彩篮球
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
+
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🇨🇳香港频道📡",翡翠台
+http://120.53.103.239/五七.php?id=1
+#EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🇨🇳香港频道📡",明珠台
+http://120.53.103.239/五七.php?id=2
+#EXTINF:-1,tvg-id="无线新闻台png" tvg-name="无线新闻台png" tvg-logo="https://epg.v1.mk/logo/无线新闻台png.png" group-title="🇨🇳香港频道📡",无线新闻台
+http://120.53.103.239/五七.php?id=3
+#EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="🇨🇳香港频道📡",HOY78
+http://120.53.103.239/五七.php?id=4
+#EXTINF:-1,tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="🇨🇳香港频道📡",HOY77
+http://120.53.103.239/五七.php?id=5
+#EXTINF:-1,tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="🇨🇳香港频道📡",HOY76
+http://120.53.103.239/五七.php?id=6
+#EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="🇨🇳香港频道📡",Now新闻台
+http://120.53.103.239/五七.php?id=8
+#EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="🇨🇳香港频道📡",Now财经台
+http://120.53.103.239/五七.php?id=9
+#EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="🇨🇳香港频道📡",Viutv
+http://120.53.103.239/五七.php?id=10
+#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="🇨🇳香港频道📡",ViuTV6
+http://120.53.103.239/五七.php?id=11
+#EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="🇨🇳香港频道📡",TVB Plus
+http://120.53.103.239/五七.php?id=13
+#EXTINF:-1,tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="🇨🇳香港频道📡",RTHK31
+http://120.53.103.239/五七.php?id=14
+#EXTINF:-1,tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="🇨🇳香港频道📡",RTHK32
+http://120.53.103.239/五七.php?id=15
+#EXTINF:-1,tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://epg.v1.mk/logo/凤凰卫视.png" group-title="🇨🇳香港频道📡",凤凰卫视
+http://120.53.103.239/五七.php?id=16
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="🇨🇳香港频道📡",凤凰资讯
+http://120.53.103.239/五七.php?id=17
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="🇨🇳香港频道📡",凤凰香港
+http://120.53.103.239/五七.php?id=18
+#EXTINF:-1,tvg-id="有线8台" tvg-name="有线18台" tvg-logo="https://epg.v1.mk/logo/有线18台.png" group-title="🇨🇳香港频道📡",有线18台
+http://120.53.103.239/五七.php?id=19
+#EXTINF:-1,tvg-id="HKC18" tvg-name="HKC18" tvg-logo="https://epg.v1.mk/logo/HKC18.png" group-title="🇨🇳香港频道📡",C18跑马
+http://120.53.103.239/五七.php?id=20
+#EXTINF:-1,tvg-id="黄金翡翠台" tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="🇨🇳香港频道📡",黄金翡翠台
+http://120.53.103.239/五七.php?id=21
+#EXTINF:-1,tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="🇨🇳香港频道📡",千禧经典台
+http://120.53.103.239/五七.php?id=22
+#EXTINF:-1,tvg-id="TVB亚洲剧" tvg-name="TVB亚洲剧" tvg-logo="https://epg.v1.mk/logo/TVB亚洲剧.png" group-title="🇨🇳香港频道📡",亚洲剧台
+http://120.53.103.239/五七.php?id=23
+#EXTINF:-1,tvg-id="TVB华语剧" tvg-name="TVB华语剧" tvg-logo="https://epg.v1.mk/logo/TVB华语剧.png" group-title="🇨🇳香港频道📡",华语剧台
+http://120.53.103.239/五七.php?id=24
+#EXTINF:-1,tvg-id="kix" tvg-name="kix" tvg-logo="https://epg.v1.mk/logo/kix.png" group-title="🇨🇳香港频道📡",KIX
+http://120.53.103.239/五七.php?id=25
+#EXTINF:-1,tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="🇨🇳香港频道📡",娱乐新闻台
+http://120.53.103.239/五七.php?id=26
+#EXTINF:-1,tvg-id="亚洲综合" tvg-name="亚洲综合" tvg-logo="https://epg.v1.mk/logo/TVB华剧台.png" group-title="🇨🇳香港频道📡",亚洲综合娱乐台
+http://120.53.103.239/五七.php?id=27
+#EXTINF:-1,tvg-id="TVB戏曲台" tvg-name="TVB戏曲台" tvg-logo="https://epg.v1.mk/logo/TVB华剧台png" group-title="🇨🇳香港频道📡",戏曲台
+http://120.53.103.239/五七.php?id=28
+#EXTINF:-1,tvg-id="HANDSUP" tvg-name="HANDSUP" tvg-logo="https://epg.v1.mk/logo/HANDSUP.png" group-title="🇨🇳香港频道📡",Hands UP
+http://120.53.103.239/五七.php?id=29
+#EXTINF:-1,tvg-id="TVB粤语片" tvg-name="TVB粤语片" tvg-logo="https://epg.v1.mk/logo/TVB粤语片.png" group-title="🇨🇳香港频道📡",粤语片台
+http://120.53.103.239/五七.php?id=30
+#EXTINF:-1,tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="🇨🇳香港频道📡",美亚电影
+http://120.53.103.239/五七.php?id=31
+#EXTINF:-1,tvg-id="ALL THE K-POP" tvg-name="ALL THE K-POP" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="🇨🇳香港频道📡",Popc
+http://120.53.103.239/五七.php?id=1210
+#EXTINF:-1,tvg-id="animax" tvg-name="animax" tvg-logo="https://epg.v1.mk/logo/animax.png" group-title="🇨🇳香港频道📡",Animax
+http://120.53.103.239/五七.php?id=32
+#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="🇨🇳香港频道📡",Now爆谷台(国语)
+http://120.53.103.239/五七.php?id=44
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="🇨🇳香港频道📡",Now星影台(国语)
+http://120.53.103.239/五七.php?id=43
+#EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="🇨🇳香港频道📡",Now星影台
+http://120.53.103.239/五七.php?id=1175
+#EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="🇨🇳香港频道📡",Now爆谷台
+http://120.53.103.239/五七.php?id=1176
+#EXTINF:-1,tvg-id="XMYS" tvg-name="XMYS" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="🇨🇳香港频道📡",mySUPER直播足球3台
+http://120.53.103.239/五七.php?id=33
+#EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="🇨🇳香港频道📡",Now Sports 精選
+http://120.53.103.239/五七.php?id=34
+#EXTINF:-1,tvg-id="NOWSPORTS英超1台" tvg-name="NOWSPORTS英超1台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1台.png" group-title="🇨🇳香港频道📡",Now Sports 英超1台
+http://120.53.103.239/五七.php?id=35
+#EXTINF:-1,tvg-id="NOWSPORTS英超2台" tvg-name="NOWSPORTS英超2台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2台.png" group-title="🇨🇳香港频道📡",Now Sports 英超2台
+http://120.53.103.239/五七.php?id=502
+#EXTINF:-1,tvg-id="NOWSPORTS英超3台" tvg-name="NOWSPORTS英超3台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3台.png" group-title="🇨🇳香港频道📡",Now Sports 英超3台
+http://120.53.103.239/五七.php?id=503
+#EXTINF:-1,tvg-id="NOWSPORTS英超4台" tvg-name="NOWSPORTS英超4台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4台.png" group-title="🇨🇳香港频道📡",Now Sports 英超4台
+http://120.53.103.239/五七.php?id=504
+#EXTINF:-1,tvg-id="NOWSPORTS英超5台" tvg-name="NOWSPORTS英超5台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5台.png" group-title="🇨🇳香港频道📡",Now Sports 英超5台
+http://120.53.103.239/五七.php?id=505
+#EXTINF:-1,tvg-id="NOWSPORTS英超6台" tvg-name="NOWSPORTS英超6台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6台.png" group-title="🇨🇳香港频道📡",Now Sports 英超6台
+http://120.53.103.239/五七.php?id=508
+#EXTINF:-1,tvg-id="NOWSPORTS1" tvg-name="NOWSPORTS1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS1.png" group-title="🇨🇳香港频道📡",Now Sports 1
+http://120.53.103.239/五七.php?id=36
+#EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="🇨🇳香港频道📡",Now Sports 2
+http://120.53.103.239/五七.php?id=37
+#EXTINF:-1,tvg-id="NOWSPORTS3" tvg-name="NOWSPORTS3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS3.png" group-title="🇨🇳香港频道📡",Now Sports 3
+http://120.53.103.239/五七.php?id=38
+#EXTINF:-1,tvg-id="NOWSPORTS4" tvg-name="NOWSPORTS4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS4.png" group-title="🇨🇳香港频道📡",Now Sports 4
+http://120.53.103.239/五七.php?id=39
+#EXTINF:-1,tvg-id="NOWSPORTS5" tvg-name="NOWSPORTS5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS5.png" group-title="🇨🇳香港频道📡",Now Sports 5
+http://120.53.103.239/五七.php?id=40
+#EXTINF:-1,tvg-id="NOWSPORTS6" tvg-name="NOWSPORTS6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS6.png" group-title="🇨🇳香港频道📡",Now Sports 6
+http://120.53.103.239/五七.php?id=41
+#EXTINF:-1,tvg-id="NOWSPORTS7" tvg-name="NOWSPORTS7" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS7.png" group-title="🇨🇳香港频道📡",Now Sports 7
+http://120.53.103.239/五七.php?id=42
+#EXTINF:-1,tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="🇨🇳香港频道📡",黄金华剧台
+http://120.53.103.239/五七.php?id=501
+#EXTINF:-1,tvg-id="tvb功夫台" tvg-name="tvb功夫台" tvg-logo="https://epg.v1.mk/logo/tvb功夫台.png" group-title="🇨🇳香港频道📡",TVB功夫台
+http://120.53.103.239/五七.php?id=500
+#EXTINF:-1,tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="🇨🇳香港频道📡",Now华剧台
+http://120.53.103.239/五七.php?id=46
+#EXTINF:-1,tvg-id="NOWJELLI" tvg-name="NOWJELLI" tvg-logo="https://epg.v1.mk/logo/NOWJELLI.png" group-title="🇨🇳香港频道📡",NowJelli紫金国际台
+http://120.53.103.239/五七.php?id=47
+#EXTINF:-1,tvg-id="Now剧集台" tvg-name="Now剧集台" tvg-logo="https://epg.v1.mk/logo/Now剧集台.png" group-title="🇨🇳香港频道📡",Now剧集台
+http://120.53.103.239/五七.php?id=45
+#EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="🇨🇳香港频道📡",Now Sports Plus
+http://120.53.103.239/五七.php?id=1177
+#EXTINF:-1,tvg-id="ASIAZONGHE" tvg-name="ASIAZONGHE" tvg-logo="https://epg.v1.mk/logo/ASIAZONGHE.png" group-title="🇨🇳香港频道📡",ZooMoo
+http://120.53.103.239/五七.php?id=1178
+#EXTINF:-1,tvg-id="NICKELODEON" tvg-name="NICKELODEON" tvg-logo="https://epg.v1.mk/logo/NICKELODEON.png" group-title="🇨🇳香港频道📡",Nickelodeon
+http://120.53.103.239/五七.php?id=1179
+#EXTINF:-1,tvg-id="NICKJR" tvg-name="NICKJR" tvg-logo="https://epg.v1.mk/logo/NICKJR.png" group-title="🇨🇳香港频道📡",NickJr儿童频道
+http://120.53.103.239/五七.php?id=1180
+#EXTINF:-1,tvg-id="thrill" tvg-name="thrill" tvg-logo="https://epg.v1.mk/logo/thrill.png" group-title="🇨🇳香港频道📡",Thrill
+http://120.53.103.239/五七.php?id=1181
+#EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🇨🇳香港频道📡",天映经典
+http://120.53.103.239/五七.php?id=1182
+#EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="🇨🇳香港频道📡",ROCK超级娱乐
+http://120.53.103.239/五七.php?id=1183
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="🇨🇳香港频道📡",Love Nature
+http://120.53.103.239/五七.php?id=1184
+#EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="🇨🇳香港频道📡",Love Nature
+http://120.53.103.239/五七.php?id=1185
+#EXTINF:-1,tvg-id="GLOBAL-NEWS" tvg-name="GLOBAL-NEWS" tvg-logo="https://epg.v1.mk/logo/GLOBAL-NEWS.png" group-title="🇨🇳香港频道📡",Global Trekker
+http://120.53.103.239/五七.php?id=1186
+#EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="🇨🇳香港频道📡",ROCK综艺娱乐
+http://120.53.103.239/五七.php?id=1187
+#EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="🇨🇳香港频道📡",AXN
+http://120.53.103.239/五七.php?id=1188
+#EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="🇨🇳香港频道📡",Tvn
+http://120.53.103.239/五七.php?id=1189
+#EXTINF:-1,tvg-id="GEM" tvg-name="GEM" tvg-logo="https://epg.v1.mk/logo/GEM.png" group-title="🇨🇳香港频道📡",GEM
+http://120.53.103.239/五七.php?id=1191
+#EXTINF:-1,tvg-id="NOWSPORTS618" tvg-name="NOWSPORTS618" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS618.png" group-title="🇨🇳香港频道📡",Now sports641
+http://120.53.103.239/五七.php?id=1171
+#EXTINF:-1,tvg-id="NBATV" tvg-name="NBATV" tvg-logo="https://epg.v1.mk/logo/NBATV.png" group-title="🇨🇳香港频道📡",NBA TV
+http://120.53.103.239/五七.php?id=1172
+#EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="🇨🇳香港频道📡",ViuTV6
+http://120.53.103.239/五七.php?id=1209
+#EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="🇨🇳香港频道📡",Now直播台
+http://120.53.103.239/五七.php?id=7
