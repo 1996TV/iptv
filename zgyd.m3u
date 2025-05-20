@@ -240,9 +240,9 @@ http://120.53.103.239/五七.php?id=24
 http://120.53.103.239/五七.php?id=25
 #EXTINF:-1,tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="🇨🇳香港频道📡",娱乐新闻台
 http://120.53.103.239/五七.php?id=26
-#EXTINF:-1,tvg-id="亚洲综合" tvg-name="亚洲综合" tvg-logo="https://epg.v1.mk/logo/TVB华剧台.png" group-title="🇨🇳香港频道📡",亚洲综合娱乐台
+#EXTINF:-1,tvg-id="亚洲综合" tvg-name="亚洲综合" tvg-logo="https://epg.v1.mk/logo/TVB粤语片.png" group-title="🇨🇳香港频道📡",亚洲综合娱乐台
 http://120.53.103.239/五七.php?id=27
-#EXTINF:-1,tvg-id="TVB戏曲台" tvg-name="TVB戏曲台" tvg-logo="https://epg.v1.mk/logo/TVB华剧台png" group-title="🇨🇳香港频道📡",戏曲台
+#EXTINF:-1,tvg-id="TVB戏曲台" tvg-name="TVB戏曲台" tvg-logo="https://epg.v1.mk/logo/TVB粤语片.png" group-title="🇨🇳香港频道📡",戏曲台
 http://120.53.103.239/五七.php?id=28
 #EXTINF:-1,tvg-id="HANDSUP" tvg-name="HANDSUP" tvg-logo="https://epg.v1.mk/logo/HANDSUP.png" group-title="🇨🇳香港频道📡",Hands UP
 http://120.53.103.239/五七.php?id=29
