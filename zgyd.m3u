@@ -339,7 +339,8 @@ http://120.53.103.239/五七.php?id=1209
 #EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="🇨🇳香港频道📡",Now直播台
 http://120.53.103.239/五七.php?id=7
 
-
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台4K(字幕版)
+http://o12.1678520.xyz/hls/fct4k/playlist.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台4K
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台(字幕版)
