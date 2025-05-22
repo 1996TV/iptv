@@ -16,7 +16,7 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbjade
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
 
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河
-http://php.jdshipin.com:8880/smt.php?id=Xinhe
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🇭🇰香港频道📡",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="🇭🇰香港频道📡",TVB Plus
