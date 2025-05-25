@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml"
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台4K(字幕版)
 http://o12.1678520.xyz/hls/fct4k/playlist.m3u8
