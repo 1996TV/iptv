@@ -57,6 +57,8 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225612/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225613/.m3u8
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.cn/tv/安徽卫视.png" group-title="🇨🇳卫视频道📡",安徽卫视
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226391/.m3u8
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://live.fanmingming.cn/tv/广东卫视.png" group-title="🇨🇳卫视频道📡",广东卫视
+http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221227161/1.m3u8
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.cn/tv/辽宁卫视.png" group-title="🇨🇳卫视频道📡",辽宁卫视
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225619/.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://live.fanmingming.cn/tv/江西卫视.png" group-title="🇨🇳卫视频道📡",江西卫视
@@ -196,7 +198,7 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
 http://120.53.103.239/五七.php?id=1
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🇨🇳香港频道📡",明珠台
 http://120.53.103.239/五七.php?id=2
-#EXTINF:-1,tvg-id="无线新闻台png" tvg-name="无线新闻台png" tvg-logo="https://epg.v1.mk/logo/无线新闻台png.png" group-title="🇨🇳香港频道📡",无线新闻台
+#EXTINF:-1,tvg-id="无线新闻台png" tvg-name="无线新闻台png" tvg-logo="https://epg.v1.mk/logo/无线新闻png.png" group-title="🇨🇳香港频道📡",无线新闻台
 http://120.53.103.239/五七.php?id=3
 #EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="🇨🇳香港频道📡",HOY78
 http://120.53.103.239/五七.php?id=4
