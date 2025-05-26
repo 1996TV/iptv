@@ -198,7 +198,7 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
 http://120.53.103.239/五七.php?id=1
 #EXTINF:-1,tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🇨🇳香港频道📡",明珠台
 http://120.53.103.239/五七.php?id=2
-#EXTINF:-1,tvg-id="无线新闻台png" tvg-name="无线新闻台png" tvg-logo="https://epg.v1.mk/logo/无线新闻png.png" group-title="🇨🇳香港频道📡",无线新闻台
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="🇨🇳香港频道📡",无线新闻
 http://120.53.103.239/五七.php?id=3
 #EXTINF:-1,tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="🇨🇳香港频道📡",HOY78
 http://120.53.103.239/五七.php?id=4
