@@ -1731,40 +1731,7 @@ http://hdtvtw.com/hstvs.php?pid=1839
 http://hdtvtw.com/hstvs.php?pid=1840
 #EXTINF:-1 tvg-name="ミュージック・エア" tvg-logo="https://epg.v1.mk/logo/ミュージック・エア.png" group-title="HS日本",ミュージック・エア
 http://hdtvtw.com/hstvs.php?pid=1841
-#EXTINF:-1 tvg-name="松视1台" tvg-logo="https://epg.v1.mk/logo/松视1台.png" group-title="HS休闲",松视1台
-http://hdtvtw.com/hstvs.php?pid=1280
-#EXTINF:-1 tvg-name="松视2台" tvg-logo="https://epg.v1.mk/logo/松视2台.png" group-title="HS休闲",松视2台
-http://hdtvtw.com/hstvs.php?pid=1281
-#EXTINF:-1 tvg-name="松视3台" tvg-logo="https://epg.v1.mk/logo/松视3台.png" group-title="HS休闲",松视3台
-http://hdtvtw.com/hstvs.php?pid=1282
-#EXTINF:-1 tvg-name="潘多拉" tvg-logo="https://epg.v1.mk/logo/潘多拉.png" group-title="HS休闲",潘多拉
-http://hdtvtw.com/hstvs.php?pid=1286
-#EXTINF:-1 tvg-name="香蕉台" tvg-logo="https://epg.v1.mk/logo/香蕉台.png" group-title="HS休闲",香蕉台
-http://hdtvtw.com/hstvs.php?pid=1288
-#EXTINF:-1 tvg-name="惊艳台" tvg-logo="https://epg.v1.mk/logo/惊艳台.png" group-title="HS休闲",惊艳台
-http://hdtvtw.com/hstvs.php?pid=1287
-#EXTINF:-1 tvg-name="彩虹E" tvg-logo="https://epg.v1.mk/logo/彩虹E.png" group-title="HS休闲",彩虹E
-http://hdtvtw.com/hstvs.php?pid=1283
-#EXTINF:-1 tvg-name="彩虹K" tvg-logo="https://epg.v1.mk/logo/彩虹K.png" group-title="HS休闲",彩虹K
-http://hdtvtw.com/hstvs.php?pid=1284
-#EXTINF:-1 tvg-name="彩虹电影" tvg-logo="https://epg.v1.mk/logo/彩虹电影.png" group-title="HS休闲",彩虹电影
-http://hdtvtw.com/hstvs.php?pid=1285
-#EXTINF:-1 tvg-name="极限电影" tvg-logo="https://epg.v1.mk/logo/极限电影.png" group-title="HS休闲",极限电影
-http://hdtvtw.com/hstvs.php?pid=1292
-#EXTINF:-1 tvg-name="Happy" tvg-logo="https://epg.v1.mk/logo/HAPPY.png" group-title="HS休闲",Happy
-http://hdtvtw.com/hstvs.php?pid=1291
-#EXTINF:-1 tvg-name="奥视1台" tvg-logo="https://epg.v1.mk/logo/奥视1台.png" group-title="HS休闲",奥视1台
-http://hdtvtw.com/hstvs.php?pid=1289
-#EXTINF:-1 tvg-name="奥视3台" tvg-logo="https://epg.v1.mk/logo/奥视3台.png" group-title="HS休闲",奥视3台
-http://hdtvtw.com/hstvs.php?pid=1290
-#EXTINF:-1 tvg-name="Playboy KR" tvg-logo="https://epg.v1.mk/logo/Playboy KR.png" group-title="HS休闲",Playboy KR
-http://hdtvtw.com/hstvs.php?pid=1293
-#EXTINF:-1 tvg-name="Midnight" tvg-logo="https://epg.v1.mk/logo/Midnight.png" group-title="HS休闲",Midnight
-http://hdtvtw.com/hstvs.php?pid=1294
-#EXTINF:-1 tvg-name="Viki HD" tvg-logo="https://epg.v1.mk/logo/Viki HD.png" group-title="HS休闲",Viki HD
-http://hdtvtw.com/hstvs.php?pid=1295
-#EXTINF:-1 tvg-name="PIGOO" tvg-logo="https://epg.v1.mk/logo/PIGOO.png" group-title="HS休闲",PIGOO
-http://hdtvtw.com/hstvs.php?pid=1297
+
 
 
 
