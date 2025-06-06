@@ -329,13 +329,13 @@ http://hdtvtw.com/hstvs.php?pid=1279
 http://hdtvtw.com/hstvs.php?pid=1
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="HS香港",明珠台
 http://hdtvtw.com/hstvs.php?pid=2
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="HS香港",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="HS香港",无线新闻台
 http://hdtvtw.com/hstvs.php?pid=3
-#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://epg.v1.mk/logo/HOY资讯台.png" group-title="HS香港",HOY资讯台
+#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="HS香港",HOY78
 http://hdtvtw.com/hstvs.php?pid=4
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://epg.v1.mk/logo/HOYTV.png" group-title="HS香港",HOYTV
+#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HS香港",HOY77
 http://hdtvtw.com/hstvs.php?pid=5
-#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://epg.v1.mk/logo/香港国际财经台.png" group-title="HS香港",香港国际财经台
+#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="HS香港",HOY76
 http://hdtvtw.com/hstvs.php?pid=6
 #EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://epg.v1.mk/logo/Now新闻台.png" group-title="HS香港",Now新闻台
 http://hdtvtw.com/hstvs.php?pid=8
@@ -343,13 +343,13 @@ http://hdtvtw.com/hstvs.php?pid=8
 http://hdtvtw.com/hstvs.php?pid=9
 #EXTINF:-1 tvg-name="Viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="HS香港",Viutv
 http://hdtvtw.com/hstvs.php?pid=10
-#EXTINF:-1 tvg-name="Viutv 6" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="HS香港",Viutv 6
+#EXTINF:-1 tvg-name="Viutv 6" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="HS香港",Viutvsix
 http://hdtvtw.com/hstvs.php?pid=11
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="HS香港",TVB Plus
 http://hdtvtw.com/hstvs.php?pid=13
-#EXTINF:-1 tvg-name="港台31" tvg-logo="https://epg.v1.mk/logo/港台31.png" group-title="HS香港",港台31
+#EXTINF:-1 tvg-name="港台31" tvg-logo="https://epg.v1.mk/logo/港台31.png" group-title="HS香港",RTHK31
 http://hdtvtw.com/hstvs.php?pid=14
-#EXTINF:-1 tvg-name="港台32" tvg-logo="https://epg.v1.mk/logo/港台32.png" group-title="HS香港",港台32
+#EXTINF:-1 tvg-name="港台32" tvg-logo="https://epg.v1.mk/logo/港台32.png" group-title="HS香港",RTHK32
 http://hdtvtw.com/hstvs.php?pid=15
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="HS香港",凤凰中文
 http://hdtvtw.com/hstvs.php?pid=16
@@ -371,7 +371,7 @@ http://hdtvtw.com/hstvs.php?pid=23
 http://hdtvtw.com/hstvs.php?pid=24
 #EXTINF:-1 tvg-name="KIX" tvg-logo="https://epg.v1.mk/logo/KIX.png" group-title="HS香港",KIX
 http://hdtvtw.com/hstvs.php?pid=25
-#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="HS香港",娱乐新闻台
+#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="HS香港",TVB娱乐新闻
 http://hdtvtw.com/hstvs.php?pid=26
 #EXTINF:-1 tvg-name="亚洲综合娱乐台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",亚洲综合娱乐台
 http://hdtvtw.com/hstvs.php?pid=27
@@ -381,9 +381,9 @@ http://hdtvtw.com/hstvs.php?pid=28
 http://hdtvtw.com/hstvs.php?pid=29
 #EXTINF:-1 tvg-name="粤语片台" tvg-logo="https://epg.v1.mk/logo/粤语片台.png" group-title="HS香港",粤语片台
 http://hdtvtw.com/hstvs.php?pid=30
-#EXTINF:-1 tvg-name="美亚电影HK" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="HS香港",美亚电影HK
+#EXTINF:-1 tvg-name="美亚电影HK" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="HS香港",美亚电影
 http://hdtvtw.com/hstvs.php?pid=31
-#EXTINF:-1 tvg-name="POPC中国网络电影频道" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="HS香港",POPC中国网络电影频道
+#EXTINF:-1 tvg-name="POPC中国网络电影频道" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="HS香港",POPC
 http://hdtvtw.com/hstvs.php?pid=1210
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.v1.mk/logo/Animax.png" group-title="HS香港",Animax
 http://hdtvtw.com/hstvs.php?pid=32
@@ -391,9 +391,9 @@ http://hdtvtw.com/hstvs.php?pid=32
 http://hdtvtw.com/hstvs.php?pid=44
 #EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="HS香港",Now星影台
 http://hdtvtw.com/hstvs.php?pid=43
-#EXTINF:-1 tvg-name="Now星影台CN" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="HS香港",Now星影台CN
+#EXTINF:-1 tvg-name="Now星影台CN" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="HS香港",Now星影台(粤)
 http://hdtvtw.com/hstvs.php?pid=1175
-#EXTINF:-1 tvg-name="Now爆谷台CN" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="HS香港",Now爆谷台CN
+#EXTINF:-1 tvg-name="Now爆谷台CN" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="HS香港",Now爆谷台(粤)
 http://hdtvtw.com/hstvs.php?pid=1176
 #EXTINF:-1 tvg-name="SUPER直播足球3台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER直播足球3台
 http://hdtvtw.com/hstvs.php?pid=33
@@ -1265,11 +1265,11 @@ http://hdtvtw.com/hstvs.php?pid=1425
 http://hdtvtw.com/hstvs.php?pid=1426
 #EXTINF:-1 tvg-name="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="HS新加坡",Ch U
 http://hdtvtw.com/hstvs.php?pid=1427
-#EXTINF:-1 tvg-name="TVB Jade [SG]" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HS新加坡",TVB Jade [SG]
+#EXTINF:-1 tvg-name="TVB Jade [SG]" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HS新加坡",华丽翡翠台
 http://hdtvtw.com/hstvs.php?pid=1428
-#EXTINF:-1 tvg-name="TVB Xing He [SG]" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="HS新加坡",TVB Xing He [SG]
+#EXTINF:-1 tvg-name="TVB Xing He [SG]" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="HS新加坡",TVB星问
 http://hdtvtw.com/hstvs.php?pid=1429
-#EXTINF:-1 tvg-name="Celestial Movies [SG]" tvg-logo="https://epg.v1.mk/logo/Celestial Movies [SG].png" group-title="HS新加坡",Celestial Movies [SG]
+#EXTINF:-1 tvg-name="Celestial Movies [SG]" tvg-logo="https://epg.v1.mk/logo/Celestial Movies [SG].png" group-title="HS新加坡",Celestial Movies 
 http://hdtvtw.com/hstvs.php?pid=1430
 #EXTINF:-1 tvg-name="娱家台" tvg-logo="https://epg.v1.mk/logo/娱家台.png" group-title="HS新加坡",娱家台
 http://hdtvtw.com/hstvs.php?pid=1431
@@ -1279,15 +1279,15 @@ http://hdtvtw.com/hstvs.php?pid=1432
 http://hdtvtw.com/hstvs.php?pid=1433
 #EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://epg.v1.mk/logo/Vasantham.png" group-title="HS新加坡",Vasantham
 http://hdtvtw.com/hstvs.php?pid=1434
-#EXTINF:-1 tvg-name="HBO [SG]" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="HS新加坡",HBO [SG]
+#EXTINF:-1 tvg-name="HBO [SG]" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="HS新加坡",HBO 
 http://hdtvtw.com/hstvs.php?pid=1435
-#EXTINF:-1 tvg-name="HBO Family [SG]" tvg-logo="https://epg.v1.mk/logo/HBOFamily.png" group-title="HS新加坡",HBO Family [SG]
+#EXTINF:-1 tvg-name="HBO Family [SG]" tvg-logo="https://epg.v1.mk/logo/HBOFamily.png" group-title="HS新加坡",HBO Family 
 http://hdtvtw.com/hstvs.php?pid=1436
-#EXTINF:-1 tvg-name="HBO Hits [SG]" tvg-logo="https://epg.v1.mk/logo/HBOHits.png" group-title="HS新加坡",HBO Hits [SG]
+#EXTINF:-1 tvg-name="HBO Hits [SG]" tvg-logo="https://epg.v1.mk/logo/HBOHits.png" group-title="HS新加坡",HBO Hits 
 http://hdtvtw.com/hstvs.php?pid=1437
 #EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://epg.v1.mk/logo/HBO Signature.png" group-title="HS新加坡",HBO Signature
 http://hdtvtw.com/hstvs.php?pid=1438
-#EXTINF:-1 tvg-name="CINEMAX [SG]" tvg-logo="https://epg.v1.mk/logo/CINEMAX.png" group-title="HS新加坡",CINEMAX [SG]
+#EXTINF:-1 tvg-name="CINEMAX [SG]" tvg-logo="https://epg.v1.mk/logo/CINEMAX.png" group-title="HS新加坡",CINEMAX 
 http://hdtvtw.com/hstvs.php?pid=1439
 #EXTINF:-1 tvg-name="Travelxp" tvg-logo="https://epg.v1.mk/logo/TRAVELXP.png" group-title="HS新加坡",Travelxp
 http://hdtvtw.com/hstvs.php?pid=1440
@@ -1397,25 +1397,25 @@ http://hdtvtw.com/hstvs.php?pid=1331
 http://hdtvtw.com/hstvs.php?pid=1332
 #EXTINF:-1 tvg-name="iQIYI爱奇艺" tvg-logo="https://epg.v1.mk/logo/iQIYI.png" group-title="HS马来",iQIYI爱奇艺
 http://hdtvtw.com/hstvs.php?pid=1333
-#EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://epg.v1.mk/logo/TVB Classic.png" group-title="HS马来",TVB Classic
+#EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://epg.v1.mk/logo/千禧经典.png" group-title="HS马来",千禧经典
 http://hdtvtw.com/hstvs.php?pid=1334
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.v1.mk/logo/Astro AEC.png" group-title="HS马来",Astro AEC
 http://hdtvtw.com/hstvs.php?pid=1335
 #EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="HS马来",Astro QJ
 http://hdtvtw.com/hstvs.php?pid=1336
-#EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="https://epg.v1.mk/logo/Celestial Movies.png" group-title="HS马来",Celestial Movies
+#EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="https://epg.v1.mk/logo/Celestial Movies.png" group-title="HS马来",天映频道
 http://hdtvtw.com/hstvs.php?pid=1337
-#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://epg.v1.mk/logo/TVB Jade.png" group-title="HS马来",TVB Jade
+#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://epg.v1.mk/logo/TVB Jade.png" group-title="HS马来",华丽翡翠台
 http://hdtvtw.com/hstvs.php?pid=1338
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.v1.mk/logo/ASTROAOD.png" group-title="HS马来",Astro AOD
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.v1.mk/logo/ASTROAOD.png" group-title="HS马来",AstroAOD
 http://hdtvtw.com/hstvs.php?pid=1339
 #EXTINF:-1 tvg-name="CTI Asia" tvg-logo="https://epg.v1.mk/logo/CTI Asia.png" group-title="HS马来",CTI Asia
 http://hdtvtw.com/hstvs.php?pid=1340
-#EXTINF:-1 tvg-name="TVB Entertainment News" tvg-logo="https://epg.v1.mk/logo/TVB Entertainment News.png" group-title="HS马来",TVB Entertainment News
+#EXTINF:-1 tvg-name="TVB Entertainment News" tvg-logo="https://epg.v1.mk/logo/TVB Entertainment News.png" group-title="HS马来",TVB娱乐新闻
 http://hdtvtw.com/hstvs.php?pid=1341
-#EXTINF:-1 tvg-name="TVB Xing He" tvg-logo="https://epg.v1.mk/logo/TVB Xing He.png" group-title="HS马来",TVB Xing He
+#EXTINF:-1 tvg-name="TVB Xing He" tvg-logo="https://epg.v1.mk/logo/TVB Xing He.png" group-title="HS马来",TVB星河
 http://hdtvtw.com/hstvs.php?pid=1342
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.v1.mk/logo/TVBS Asia.png" group-title="HS马来",TVBS Asia
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.v1.mk/logo/TVBS Asia.png" group-title="HS马来",TVBSAsia
 http://hdtvtw.com/hstvs.php?pid=1343
 #EXTINF:-1 tvg-name="Celestial Classic Movies" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="HS马来",Celestial Classic Movies
 http://hdtvtw.com/hstvs.php?pid=1344
