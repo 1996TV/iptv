@@ -195,1542 +195,783 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226147/.m3u8
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226469/.m3u8
 
 
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="HS大陆",CHC影迷电影
-http://hdtvtw.com/hstvs.php?pid=1237
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="HS大陆",CHC动作电影
-http://hdtvtw.com/hstvs.php?pid=1238
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="HS大陆",CHC家庭影院
-http://hdtvtw.com/hstvs.php?pid=1239
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="HS大陆",CCTV1
-http://hdtvtw.com/hstvs.php?pid=1215
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.v1.mk/logo/CCTV2.png" group-title="HS大陆",CCTV2
-http://hdtvtw.com/hstvs.php?pid=1216
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.v1.mk/logo/CCTV3.png" group-title="HS大陆",CCTV3
-http://hdtvtw.com/hstvs.php?pid=1217
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.v1.mk/logo/CCTV4.png" group-title="HS大陆",CCTV4
-http://hdtvtw.com/hstvs.php?pid=1218
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.v1.mk/logo/CCTV5.png" group-title="HS大陆",CCTV5
-http://hdtvtw.com/hstvs.php?pid=1219
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.v1.mk/logo/CCTV5+.png" group-title="HS大陆",CCTV5+
-http://hdtvtw.com/hstvs.php?pid=1220
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.v1.mk/logo/CCTV6.png" group-title="HS大陆",CCTV6
-http://hdtvtw.com/hstvs.php?pid=1221
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="HS大陆",CCTV7
-http://hdtvtw.com/hstvs.php?pid=1222
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.v1.mk/logo/CCTV8.png" group-title="HS大陆",CCTV8
-http://hdtvtw.com/hstvs.php?pid=1223
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.v1.mk/logo/CCTV9.png" group-title="HS大陆",CCTV9
-http://hdtvtw.com/hstvs.php?pid=1224
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.v1.mk/logo/CCTV10.png" group-title="HS大陆",CCTV10
-http://hdtvtw.com/hstvs.php?pid=1225
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.v1.mk/logo/CCTV11.png" group-title="HS大陆",CCTV11
-http://hdtvtw.com/hstvs.php?pid=1226
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.v1.mk/logo/CCTV12.png" group-title="HS大陆",CCTV12
-http://hdtvtw.com/hstvs.php?pid=1227
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.v1.mk/logo/CCTV13.png" group-title="HS大陆",CCTV13
-http://hdtvtw.com/hstvs.php?pid=1228
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.v1.mk/logo/CCTV14.png" group-title="HS大陆",CCTV14
-http://hdtvtw.com/hstvs.php?pid=1229
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.v1.mk/logo/CCTV15.png" group-title="HS大陆",CCTV15
-http://hdtvtw.com/hstvs.php?pid=1230
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.v1.mk/logo/CCTV16.png" group-title="HS大陆",CCTV16
-http://hdtvtw.com/hstvs.php?pid=1231
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.v1.mk/logo/CCTV17.png" group-title="HS大陆",CCTV17
-http://hdtvtw.com/hstvs.php?pid=1232
-#EXTINF:-1 tvg-name="CCTV娱乐" tvg-logo="https://epg.v1.mk/logo/CCTV娱乐.png" group-title="HS大陆",CCTV娱乐
-http://hdtvtw.com/hstvs.php?pid=1233
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/CETV1.png" group-title="HS大陆",CETV1
-http://hdtvtw.com/hstvs.php?pid=1234
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.v1.mk/logo/CETV2.png" group-title="HS大陆",CETV2
-http://hdtvtw.com/hstvs.php?pid=1235
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.v1.mk/logo/CETV4.png" group-title="HS大陆",CETV4
-http://hdtvtw.com/hstvs.php?pid=1236
-#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="HS大陆",五星体育
-http://hdtvtw.com/hstvs.php?pid=1240
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="HS大陆",湖南卫视
-http://hdtvtw.com/hstvs.php?pid=1241
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="HS大陆",浙江卫视
-http://hdtvtw.com/hstvs.php?pid=1242
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="HS大陆",江苏卫视
-http://hdtvtw.com/hstvs.php?pid=1243
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="HS大陆",深圳卫视
-http://hdtvtw.com/hstvs.php?pid=1244
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="HS大陆",湖北卫视
-http://hdtvtw.com/hstvs.php?pid=1245
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="HS大陆",广西卫视
-http://hdtvtw.com/hstvs.php?pid=1246
-#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="HS大陆",东南卫视
-http://hdtvtw.com/hstvs.php?pid=1247
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="HS大陆",江西卫视
-http://hdtvtw.com/hstvs.php?pid=1248
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="HS大陆",北京卫视
-http://hdtvtw.com/hstvs.php?pid=1249
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="HS大陆",东方卫视
-http://hdtvtw.com/hstvs.php?pid=1250
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="HS大陆",辽宁卫视
-http://hdtvtw.com/hstvs.php?pid=1251
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="HS大陆",重庆卫视
-http://hdtvtw.com/hstvs.php?pid=1252
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="HS大陆",天津卫视
-http://hdtvtw.com/hstvs.php?pid=1253
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="HS大陆",安徽卫视
-http://hdtvtw.com/hstvs.php?pid=1254
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="HS大陆",贵州卫视
-http://hdtvtw.com/hstvs.php?pid=1255
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="HS大陆",四川卫视
-http://hdtvtw.com/hstvs.php?pid=1256
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="HS大陆",山东卫视
-http://hdtvtw.com/hstvs.php?pid=1257
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="HS大陆",吉林卫视
-http://hdtvtw.com/hstvs.php?pid=1258
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="HS大陆",黑龙江卫视
-http://hdtvtw.com/hstvs.php?pid=1259
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="HS大陆",河北卫视
-http://hdtvtw.com/hstvs.php?pid=1260
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="HS大陆",河南卫视
-http://hdtvtw.com/hstvs.php?pid=1261
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="HS大陆",内蒙古卫视
-http://hdtvtw.com/hstvs.php?pid=1262
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="HS大陆",宁夏卫视
-http://hdtvtw.com/hstvs.php?pid=1263
-#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="HS大陆",甘肃卫视
-http://hdtvtw.com/hstvs.php?pid=1264
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="HS大陆",海南卫视
-http://hdtvtw.com/hstvs.php?pid=1265
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="HS大陆",新疆卫视
-http://hdtvtw.com/hstvs.php?pid=1266
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="HS大陆",西藏卫视
-http://hdtvtw.com/hstvs.php?pid=1267
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="HS大陆",陕西卫视
-http://hdtvtw.com/hstvs.php?pid=1268
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="HS大陆",山西卫视
-http://hdtvtw.com/hstvs.php?pid=1269
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="HS大陆",青海卫视
-http://hdtvtw.com/hstvs.php?pid=1270
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="HS大陆",广东卫视
-http://hdtvtw.com/hstvs.php?pid=1271
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="HS大陆",广东珠江
-http://hdtvtw.com/hstvs.php?pid=1272
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="HS大陆",广东体育
-http://hdtvtw.com/hstvs.php?pid=1273
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="HS大陆",大湾区卫视
-http://hdtvtw.com/hstvs.php?pid=1274
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://epg.v1.mk/logo/嘉佳卡通.png" group-title="HS大陆",嘉佳卡通
-http://hdtvtw.com/hstvs.php?pid=1275
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="HS大陆",金鹰卡通
-http://hdtvtw.com/hstvs.php?pid=1276
-#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="HS大陆",卡酷少儿
-http://hdtvtw.com/hstvs.php?pid=1277
-#EXTINF:-1 tvg-name="哈哈炫动" tvg-logo="https://epg.v1.mk/logo/哈哈炫动.png" group-title="HS大陆",哈哈炫动
-http://hdtvtw.com/hstvs.php?pid=1278
-#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://epg.v1.mk/logo/优漫卡通.png" group-title="HS大陆",优漫卡通
-http://hdtvtw.com/hstvs.php?pid=1279
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HS香港",翡翠台
+#EXTM3U
+#EXT-X-APP APTV
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="📡香港频道📺",翡翠台
 http://hdtvtw.com/hstvs.php?pid=1
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="HS香港",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="📡香港频道📺",明珠台
 http://hdtvtw.com/hstvs.php?pid=2
-#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="HS香港",无线新闻台
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="📡香港频道📺",无线新闻
 http://hdtvtw.com/hstvs.php?pid=3
-#EXTINF:-1 tvg-name="HOY资讯台" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="HS香港",HOY78
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://epg.112114.xyz/logo/HOY78.png" group-title="📡香港频道📺",HOY78
 http://hdtvtw.com/hstvs.php?pid=4
-#EXTINF:-1 tvg-name="HOYTV" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="HS香港",HOY77
+#EXTINF:-1 tvg-name="HOY77" tvg-logo="https://epg.112114.xyz/logo/HOY77.png" group-title="📡香港频道📺",HOY77
 http://hdtvtw.com/hstvs.php?pid=5
-#EXTINF:-1 tvg-name="香港国际财经台" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="HS香港",HOY76
+#EXTINF:-1 tvg-name="HOY76" tvg-logo="https://epg.112114.xyz/logo/HOY76.png" group-title="📡香港频道📺",HOY76
 http://hdtvtw.com/hstvs.php?pid=6
-#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://epg.v1.mk/logo/Now新闻台.png" group-title="HS香港",Now新闻台
+#EXTINF:-1 tvg-name="Now新闻台" tvg-logo="https://epg.112114.xyz/logo/Now新闻台.png" group-title="📡香港频道📺",Now新闻台
 http://hdtvtw.com/hstvs.php?pid=8
-#EXTINF:-1 tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="HS香港",Now财经台
+#EXTINF:-1 tvg-name="Now财经台" tvg-logo="https://epg.112114.xyz/logo/Now财经台.png" group-title="📡香港频道📺",Now财经台
 http://hdtvtw.com/hstvs.php?pid=9
-#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="HS香港",Viutv
+#EXTINF:-1 tvg-name="Viutv" tvg-logo="https://epg.112114.xyz/logo/viutv.png" group-title="📡香港频道📺",Viutv
 http://hdtvtw.com/hstvs.php?pid=10
-#EXTINF:-1 tvg-name="Viutv 6" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="HS香港",Viutvsix
+#EXTINF:-1 tvg-name="VIUTVSIX" tvg-logo="https://epg.112114.xyz/logo/VIUTVSIX.png" group-title="📡香港频道📺",VIUTVSIX
 http://hdtvtw.com/hstvs.php?pid=11
-#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="HS香港",TVB Plus
+#EXTINF:-1 tvg-name="tvbplus" tvg-logo="https://epg.112114.xyz/logo/tvbplus.png" group-title="📡香港频道📺",tvbplus
 http://hdtvtw.com/hstvs.php?pid=13
-#EXTINF:-1 tvg-name="港台31" tvg-logo="https://epg.v1.mk/logo/港台31.png" group-title="HS香港",RTHK31
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://epg.112114.xyz/logo/RTHK31.png" group-title="📡香港频道📺",RTHK31
 http://hdtvtw.com/hstvs.php?pid=14
-#EXTINF:-1 tvg-name="港台32" tvg-logo="https://epg.v1.mk/logo/港台32.png" group-title="HS香港",RTHK32
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://epg.112114.xyz/logo/RTHK32.png" group-title="📡香港频道📺",RTHK32
 http://hdtvtw.com/hstvs.php?pid=15
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="HS香港",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="📡香港频道📺",凤凰中文
 http://hdtvtw.com/hstvs.php?pid=16
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="HS香港",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="📡香港频道📺",凤凰资讯
 http://hdtvtw.com/hstvs.php?pid=17
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="HS香港",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="📡香港频道📺",凤凰香港
 http://hdtvtw.com/hstvs.php?pid=18
-#EXTINF:-1 tvg-name="有线18" tvg-logo="https://epg.v1.mk/logo/有线18.png" group-title="HS香港",有线18
+#EXTINF:-1 tvg-name="有线18" tvg-logo="https://epg.112114.xyz/logo/有线18.png" group-title="📡香港频道📺",有线18
 http://hdtvtw.com/hstvs.php?pid=19
-#EXTINF:-1 tvg-name="MYTV18跑马" tvg-logo="https://media.karousell.com/media/photos/products/2020/10/30/_mytv_super_18_12app_1604030523_50244168_progressive.jpg" group-title="HS香港",MYTV18跑马
+#EXTINF:-1 tvg-name="MYTV18跑马" tvg-logo="https://media.karousell.com/media/photos/products/2020/10/30/_mytv_super_18_12app_1604030523_50244168_progressive.jpg" group-title="📡香港频道📺",MYTV18跑马
 http://hdtvtw.com/hstvs.php?pid=20
-#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://epg.v1.mk/logo/黄金翡翠台.png" group-title="HS香港",黄金翡翠台
+#EXTINF:-1 tvg-name="黄金翡翠台" tvg-logo="https://epg.112114.xyz/logo/黄金翡翠台.png" group-title="📡香港频道📺",黄金翡翠台
 http://hdtvtw.com/hstvs.php?pid=21
-#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",千禧经典台
+#EXTINF:-1 tvg-name="千禧经典台" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",千禧经典台
 http://hdtvtw.com/hstvs.php?pid=22
-#EXTINF:-1 tvg-name="亚洲剧台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",亚洲剧台
+#EXTINF:-1 tvg-name="亚洲剧台" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",亚洲剧台
 http://hdtvtw.com/hstvs.php?pid=23
-#EXTINF:-1 tvg-name="华语剧台" tvg-logo="https://epg.v1.mk/logo/华语剧台.png" group-title="HS香港",华语剧台
+#EXTINF:-1 tvg-name="华语剧台" tvg-logo="https://epg.112114.xyz/logo/华语剧台.png" group-title="📡香港频道📺",华语剧台
 http://hdtvtw.com/hstvs.php?pid=24
-#EXTINF:-1 tvg-name="KIX" tvg-logo="https://epg.v1.mk/logo/KIX.png" group-title="HS香港",KIX
+#EXTINF:-1 tvg-name="KIX" tvg-logo="https://epg.112114.xyz/logo/KIX.png" group-title="📡香港频道📺",KIX
 http://hdtvtw.com/hstvs.php?pid=25
-#EXTINF:-1 tvg-name="娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/娱乐新闻台.png" group-title="HS香港",TVB娱乐新闻
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻.png" group-title="📡香港频道📺",TVB娱乐新闻
 http://hdtvtw.com/hstvs.php?pid=26
-#EXTINF:-1 tvg-name="亚洲综合娱乐台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",亚洲综合娱乐台
+#EXTINF:-1 tvg-name="亚洲综合娱乐台" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",亚洲综合娱乐台
 http://hdtvtw.com/hstvs.php?pid=27
-#EXTINF:-1 tvg-name="戏曲台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",戏曲台
+#EXTINF:-1 tvg-name="戏曲台" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",戏曲台
 http://hdtvtw.com/hstvs.php?pid=28
-#EXTINF:-1 tvg-name="Hands UP" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",Hands UP
+#EXTINF:-1 tvg-name="Hands UP" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",Hands UP
 http://hdtvtw.com/hstvs.php?pid=29
-#EXTINF:-1 tvg-name="粤语片台" tvg-logo="https://epg.v1.mk/logo/粤语片台.png" group-title="HS香港",粤语片台
+#EXTINF:-1 tvg-name="粤语片台" tvg-logo="https://epg.112114.xyz/logo/粤语片台.png" group-title="📡香港频道📺",粤语片台
 http://hdtvtw.com/hstvs.php?pid=30
-#EXTINF:-1 tvg-name="美亚电影HK" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="HS香港",美亚电影
+#EXTINF:-1 tvg-name="美亚电影" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="📡香港频道📺",美亚电影
 http://hdtvtw.com/hstvs.php?pid=31
-#EXTINF:-1 tvg-name="POPC中国网络电影频道" tvg-logo="https://epg.v1.mk/logo/POPC.png" group-title="HS香港",POPC
+#EXTINF:-1 tvg-name="POPC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="📡香港频道📺",POPC
 http://hdtvtw.com/hstvs.php?pid=1210
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.v1.mk/logo/Animax.png" group-title="HS香港",Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" group-title="📡香港频道📺",Animax
 http://hdtvtw.com/hstvs.php?pid=32
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="HS香港",Now爆谷台
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://epg.112114.xyz/logo/Now爆谷台.png" group-title="📡香港频道📺",Now爆谷台
 http://hdtvtw.com/hstvs.php?pid=44
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="HS香港",Now星影台
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="📡香港频道📺",Now星影台
 http://hdtvtw.com/hstvs.php?pid=43
-#EXTINF:-1 tvg-name="Now星影台CN" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="HS香港",Now星影台(粤)
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="📡香港频道📺",Now星影台
 http://hdtvtw.com/hstvs.php?pid=1175
-#EXTINF:-1 tvg-name="Now爆谷台CN" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="HS香港",Now爆谷台(粤)
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://epg.112114.xyz/logo/Now爆谷台.png" group-title="📡香港频道📺",Now爆谷台
 http://hdtvtw.com/hstvs.php?pid=1176
-#EXTINF:-1 tvg-name="SUPER直播足球3台" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER直播足球3台
+#EXTINF:-1 tvg-name="SUPER直播足球3台" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER直播足球3台
 http://hdtvtw.com/hstvs.php?pid=33
-#EXTINF:-1 tvg-name="Now Sports 精選" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="HS香港",Now Sports 精選
+#EXTINF:-1 tvg-name="Now Sports 精選" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/04/600-dbg-c.png" group-title="📡香港频道📺",Now Sports 精選
 http://hdtvtw.com/hstvs.php?pid=34
-#EXTINF:-1 tvg-name="Now英超1台" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1台.png" group-title="HS香港",Now英超1台
+#EXTINF:-1 tvg-name="/NOWSPORTS英超1台" tvg-logo="https://epg.112114.xyz/logo//NOWSPORTS英超1台.png" group-title="📡香港频道📺",/NOWSPORTS英超1台
 http://hdtvtw.com/hstvs.php?pid=35
-#EXTINF:-1 tvg-name="Now英超2 球赛开启直播" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超2台.png" group-title="HS香港",Now英超2 球赛开启直播
+#EXTINF:-1 tvg-name="/NOWSPORTS英超2台" tvg-logo="https://epg.112114.xyz/logo//NOWSPORTS英超2台.png" group-title="📡香港频道📺",/NOWSPORTS英超2台
 http://hdtvtw.com/hstvs.php?pid=502
-#EXTINF:-1 tvg-name="Now英超3 球赛开启直播" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超3台.png" group-title="HS香港",Now英超3 球赛开启直播
+#EXTINF:-1 tvg-name="/NOWSPORTS英超3台" tvg-logo="https://epg.112114.xyz/logo//NOWSPORTS英超3台.png" group-title="📡香港频道📺",/NOWSPORTS英超3台
 http://hdtvtw.com/hstvs.php?pid=503
-#EXTINF:-1 tvg-name="Now英超4 球赛开启直播" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超4台.png" group-title="HS香港",Now英超4 球赛开启直播
+#EXTINF:-1 tvg-name="/NOWSPORTS英超4台" tvg-logo="https://epg.112114.xyz/logo//NOWSPORTS英超4台.png" group-title="📡香港频道📺",/NOWSPORTS英超4台
 http://hdtvtw.com/hstvs.php?pid=504
-#EXTINF:-1 tvg-name="Now英超5 球赛开启直播" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超5台.png" group-title="HS香港",Now英超5 球赛开启直播
+#EXTINF:-1 tvg-name="/NOWSPORTS英超5台" tvg-logo="https://epg.112114.xyz/logo//NOWSPORTS英超5台.png" group-title="📡香港频道📺",/NOWSPORTS英超5台
 http://hdtvtw.com/hstvs.php?pid=505
-#EXTINF:-1 tvg-name="Now英超6 球赛开启直播" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超6台.png" group-title="HS香港",Now英超6 球赛开启直播
+#EXTINF:-1 tvg-name="/NOWSPORTS英超6台" tvg-logo="https://epg.112114.xyz/logo//NOWSPORTS英超6台.png" group-title="📡香港频道📺",/NOWSPORTS英超6台
 http://hdtvtw.com/hstvs.php?pid=508
-#EXTINF:-1 tvg-name="Now Sport1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS1.png" group-title="HS香港",Now Sport1
+#EXTINF:-1 tvg-name="NOWSPORTS1" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS1.png" group-title="📡香港频道📺",NOWSPORTS1
 http://hdtvtw.com/hstvs.php?pid=36
-#EXTINF:-1 tvg-name="Now Sport2" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS2.png" group-title="HS香港",Now Sport2
+#EXTINF:-1 tvg-name="NOWSPORTS2" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS2.png" group-title="📡香港频道📺",NOWSPORTS2
 http://hdtvtw.com/hstvs.php?pid=37
-#EXTINF:-1 tvg-name="Now Sport3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS3.png" group-title="HS香港",Now Sport3
+#EXTINF:-1 tvg-name="NOWSPORTS3" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS3.png" group-title="📡香港频道📺",NOWSPORTS3
 http://hdtvtw.com/hstvs.php?pid=38
-#EXTINF:-1 tvg-name="Now Sport4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS4.png" group-title="HS香港",Now Sport4
+#EXTINF:-1 tvg-name="NOWSPORTS4" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS4.png" group-title="📡香港频道📺",NOWSPORTS4
 http://hdtvtw.com/hstvs.php?pid=39
-#EXTINF:-1 tvg-name="Now Sport5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS5.png" group-title="HS香港",Now Sport5
+#EXTINF:-1 tvg-name="NOWSPORTS5" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS5.png" group-title="📡香港频道📺",NOWSPORTS5
 http://hdtvtw.com/hstvs.php?pid=40
-#EXTINF:-1 tvg-name="Now Sport6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS6.png" group-title="HS香港",Now Sport6
+#EXTINF:-1 tvg-name="NOWSPORTS6" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS6.png" group-title="📡香港频道📺",NOWSPORTS6
 http://hdtvtw.com/hstvs.php?pid=41
-#EXTINF:-1 tvg-name="Now Sport7" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS7.png" group-title="HS香港",Now Sport7
+#EXTINF:-1 tvg-name="NOWSPORTS7" tvg-logo="https://epg.112114.xyz/logo/NOWSPORTS7.png" group-title="📡香港频道📺",NOWSPORTS7
 http://hdtvtw.com/hstvs.php?pid=42
-#EXTINF:-1 tvg-name="黄金华剧台" tvg-logo="https://epg.v1.mk/logo/黄金华剧台.png" group-title="HS香港",黄金华剧台
+#EXTINF:-1 tvg-name="黄金华剧台" tvg-logo="https://epg.112114.xyz/logo/黄金华剧台.png" group-title="📡香港频道📺",黄金华剧台
 http://hdtvtw.com/hstvs.php?pid=501
-#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://epg.v1.mk/logo/TVB功夫台.png" group-title="HS香港",TVB功夫台
+#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://epg.112114.xyz/logo/TVB功夫台.png" group-title="📡香港频道📺",TVB功夫台
 http://hdtvtw.com/hstvs.php?pid=500
-#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="HS香港",Now华剧台
+#EXTINF:-1 tvg-name="Now华剧台" tvg-logo="https://epg.112114.xyz/logo/Now华剧台.png" group-title="📡香港频道📺",Now华剧台
 http://hdtvtw.com/hstvs.php?pid=46
-#EXTINF:-1 tvg-name="NowJelli" tvg-logo="https://epg.v1.mk/logo/NowJelli.png" group-title="HS香港",NowJelli
+#EXTINF:-1 tvg-name="NowJelli" tvg-logo="https://epg.112114.xyz/logo/NowJelli.png" group-title="📡香港频道📺",NowJelli
 http://hdtvtw.com/hstvs.php?pid=47
-#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://epg.v1.mk/logo/Now剧集台.png" group-title="HS香港",Now剧集台
+#EXTINF:-1 tvg-name="Now剧集台" tvg-logo="https://epg.112114.xyz/logo/Now剧集台.png" group-title="📡香港频道📺",Now剧集台
 http://hdtvtw.com/hstvs.php?pid=45
-#EXTINF:-1 tvg-name="Now Sports Plus" tvg-logo="https://epg.v1.mk/logo/Now Sports Plus.png" group-title="HS香港",Now Sports Plus
+#EXTINF:-1 tvg-name="Now Sports Plus" tvg-logo="https://epg.112114.xyz/logo/Now Sports Plus.png" group-title="📡香港频道📺",Now Sports Plus
 http://hdtvtw.com/hstvs.php?pid=1177
-#EXTINF:-1 tvg-name="ZooMoo" tvg-logo="https://epg.v1.mk/logo/ZOOMOO.png" group-title="HS香港",ZooMoo
+#EXTINF:-1 tvg-name="ZOOMOO" tvg-logo="https://epg.112114.xyz/logo/ZOOMOO.png" group-title="📡香港频道📺",ZOOMOO
 http://hdtvtw.com/hstvs.php?pid=1178
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://epg.v1.mk/logo/Nickelodeon.png" group-title="HS香港",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://epg.112114.xyz/logo/Nickelodeon.png" group-title="📡香港频道📺",Nickelodeon
 http://hdtvtw.com/hstvs.php?pid=1179
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="https://epg.v1.mk/logo/NICKJR.png" group-title="HS香港",Nick Jr
+#EXTINF:-1 tvg-name="NICKJR" tvg-logo="https://epg.112114.xyz/logo/NICKJR.png" group-title="📡香港频道📺",NICKJR
 http://hdtvtw.com/hstvs.php?pid=1180
-#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://epg.v1.mk/logo/Thrill.png" group-title="HS香港",Thrill
+#EXTINF:-1 tvg-name="Thrill" tvg-logo="https://epg.112114.xyz/logo/Thrill.png" group-title="📡香港频道📺",Thrill
 http://hdtvtw.com/hstvs.php?pid=1181
-#EXTINF:-1 tvg-name="天映經典頻道" tvg-logo="https://epg.v1.mk/logo/天映經典.png" group-title="HS香港",天映經典頻道
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="📡香港频道📺",天映经典
 http://hdtvtw.com/hstvs.php?pid=1182
-#EXTINF:-1 tvg-name="ROCK Action" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="HS香港",ROCK Action
+#EXTINF:-1 tvg-name="ROCKACTION" tvg-logo="https://epg.112114.xyz/logo/ROCKACTION.png" group-title="📡香港频道📺",ROCKACTION
 http://hdtvtw.com/hstvs.php?pid=1183
-#EXTINF:-1 tvg-name="Love Nature HD" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="HS香港",Love Nature HD
+#EXTINF:-1 tvg-name="LOVENATURE" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="📡香港频道📺",LOVENATURE
 http://hdtvtw.com/hstvs.php?pid=1184
-#EXTINF:-1 tvg-name="Love Nature 4K" tvg-logo="https://epg.v1.mk/logo/LOVENATURE4K.png" group-title="HS香港",Love Nature 4K
+#EXTINF:-1 tvg-name="LOVENATURE4K" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE4K.png" group-title="📡香港频道📺",LOVENATURE4K
 http://hdtvtw.com/hstvs.php?pid=1185
-#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://epg.v1.mk/logo/GLOBALTREKKER.png" group-title="HS香港",Global Trekker
+#EXTINF:-1 tvg-name="GLOBALTREKKER" tvg-logo="https://epg.112114.xyz/logo/GLOBALTREKKER.png" group-title="📡香港频道📺",GLOBALTREKKER
 http://hdtvtw.com/hstvs.php?pid=1186
-#EXTINF:-1 tvg-name="ROCK綜藝娛樂" tvg-logo="https://epg.v1.mk/logo/ROCK.png" group-title="HS香港",ROCK綜藝娛樂
+#EXTINF:-1 tvg-name="ROCK" tvg-logo="https://epg.112114.xyz/logo/ROCK.png" group-title="📡香港频道📺",ROCK
 http://hdtvtw.com/hstvs.php?pid=1187
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/AXN.png" group-title="HS香港",AXN
+#EXTINF:-1 tvg-name="AXN" tvg-logo="https://epg.112114.xyz/logo/AXN.png" group-title="📡香港频道📺",AXN
 http://hdtvtw.com/hstvs.php?pid=1188
-#EXTINF:-1 tvg-name="Tvn" tvg-logo="https://epg.v1.mk/logo/TVN.png" group-title="HS香港",Tvn
+#EXTINF:-1 tvg-name="TVN" tvg-logo="https://epg.112114.xyz/logo/TVN.png" group-title="📡香港频道📺",TVN
 http://hdtvtw.com/hstvs.php?pid=1189
-#EXTINF:-1 tvg-name="GEM" tvg-logo="https://epg.v1.mk/logo/GEM.png" group-title="HS香港",GEM
+#EXTINF:-1 tvg-name="GEM" tvg-logo="https://epg.112114.xyz/logo/GEM.png" group-title="📡香港频道📺",GEM
 http://hdtvtw.com/hstvs.php?pid=1191
-#EXTINF:-1 tvg-name="Now sport641" tvg-logo="https://epg.v1.mk/logo/NOWSPORT641.png" group-title="HS香港",Now sport641
+#EXTINF:-1 tvg-name="Now sport641" tvg-logo="https://epg.112114.xyz/logo/NOWTV.png" group-title="📡香港频道📺",Now sport641
 http://hdtvtw.com/hstvs.php?pid=1171
-#EXTINF:-1 tvg-name="NOW NBA TV" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2023/10/NowTV_website_732x712-1-1.png" group-title="HS香港",NOW NBA TV
+#EXTINF:-1 tvg-name="NOW NBA TV" tvg-logo="https://epg.112114.xyz/logo/NOWTV.png" group-title="📡香港频道📺",NOW NBA TV
 http://hdtvtw.com/hstvs.php?pid=1172
-#EXTINF:-1 tvg-name="DreamWorks 頻道" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png" group-title="HS香港",DreamWorks 頻道
+#EXTINF:-1 tvg-name="DREAMWORKS" tvg-logo="https://epg.112114.xyz/logo/DREAMWORKS.png" group-title="📡香港频道📺",DREAMWORKS
 http://hdtvtw.com/hstvs.php?pid=1209
-#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="HS香港",Now直播台
+#EXTINF:-1 tvg-name="Now直播台" tvg-logo="https://epg.112114.xyz/logo/Now直播台.png" group-title="📡香港频道📺",Now直播台
 http://hdtvtw.com/hstvs.php?pid=7
-#EXTINF:-1 tvg-name="SUPER獎門人" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER獎門人
+#EXTINF:-1 tvg-name="SUPER獎門人" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER獎門人
 http://hdtvtw.com/hstvs.php?pid=1853
-#EXTINF:-1 tvg-name="SUPER EYT" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER EYT
+#EXTINF:-1 tvg-name="SUPER EYT" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER EYT
 http://hdtvtw.com/hstvs.php?pid=1854
-#EXTINF:-1 tvg-name="SUPER識食" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER識食
+#EXTINF:-1 tvg-name="SUPER識食" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER識食
 http://hdtvtw.com/hstvs.php?pid=1855
-#EXTINF:-1 tvg-name="SUPER識嘆" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER識嘆
+#EXTINF:-1 tvg-name="SUPER識嘆" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER識嘆
 http://hdtvtw.com/hstvs.php?pid=1856
-#EXTINF:-1 tvg-name="SUPER音乐" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER音乐
+#EXTINF:-1 tvg-name="SUPER音乐" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER音乐
 http://hdtvtw.com/hstvs.php?pid=1857
-#EXTINF:-1 tvg-name="SUPER金曲" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER金曲
+#EXTINF:-1 tvg-name="SUPER金曲" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER金曲
 http://hdtvtw.com/hstvs.php?pid=1858
-#EXTINF:-1 tvg-name="SUPER煲剧" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER煲剧
+#EXTINF:-1 tvg-name="SUPER煲剧" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER煲剧
 http://hdtvtw.com/hstvs.php?pid=1859
-#EXTINF:-1 tvg-name="SUPER剧场" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER剧场
+#EXTINF:-1 tvg-name="SUPER剧场" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER剧场
 http://hdtvtw.com/hstvs.php?pid=1860
-#EXTINF:-1 tvg-name="SUPER话当年" tvg-logo="https://epg.v1.mk/logo/千禧经典台.png" group-title="HS香港",SUPER话当年
+#EXTINF:-1 tvg-name="SUPER话当年" tvg-logo="https://epg.112114.xyz/logo/千禧经典台.png" group-title="📡香港频道📺",SUPER话当年
 http://hdtvtw.com/hstvs.php?pid=1861
-#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="HS台湾",中视
-http://hdtvtw.com/hstvs.php?pid=1458
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="HS台湾",中视新闻
-http://hdtvtw.com/hstvs.php?pid=1459
-#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://epg.v1.mk/logo/中视经典.png" group-title="HS台湾",中视经典
-http://hdtvtw.com/hstvs.php?pid=1460
-#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://epg.v1.mk/logo/中视菁采.png" group-title="HS台湾",中视菁采
-http://hdtvtw.com/hstvs.php?pid=1461
-#EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="HS台湾",公视
-http://hdtvtw.com/hstvs.php?pid=1462
-#EXTINF:-1 tvg-name="小公视" tvg-logo="https://epg.v1.mk/logo/小公视.png" group-title="HS台湾",小公视
-http://hdtvtw.com/hstvs.php?pid=1463
-#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://epg.v1.mk/logo/公视戏剧.png" group-title="HS台湾",公视戏剧
-http://hdtvtw.com/hstvs.php?pid=1464
-#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://epg.v1.mk/logo/公视台语台.png" group-title="HS台湾",公视台语台
-http://hdtvtw.com/hstvs.php?pid=1465
-#EXTINF:-1 tvg-name="公视新闻网" tvg-logo="https://epg.v1.mk/logo/公视新闻网.png" group-title="HS台湾",公视新闻网
-http://hdtvtw.com/hstvs.php?pid=1466
-#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="HS台湾",民视
-http://hdtvtw.com/hstvs.php?pid=1467
-#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="HS台湾",民视第一台
-http://hdtvtw.com/hstvs.php?pid=1468
-#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="HS台湾",民视台湾台
-http://hdtvtw.com/hstvs.php?pid=1469
-#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="HS台湾",民视新闻台
-http://hdtvtw.com/hstvs.php?pid=1470
-#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://epg.v1.mk/logo/民视影剧台.png" group-title="HS台湾",民视影剧台
-http://hdtvtw.com/hstvs.php?pid=1471
-#EXTINF:-1 tvg-name="民视旅游台" tvg-logo="https://epg.v1.mk/logo/民视旅游台.png" group-title="HS台湾",民视旅游台
-http://hdtvtw.com/hstvs.php?pid=1472
-#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://epg.v1.mk/logo/民视综艺台.png" group-title="HS台湾",民视综艺台
-http://hdtvtw.com/hstvs.php?pid=1473
-#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="HS台湾",台视
-http://hdtvtw.com/hstvs.php?pid=1474
-#EXTINF:-1 tvg-name="台视新闻HD" tvg-logo="https://epg.v1.mk/logo/台视新闻HD.png" group-title="HS台湾",台视新闻HD
-http://hdtvtw.com/hstvs.php?pid=1475
-#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://epg.v1.mk/logo/台视综合台.png" group-title="HS台湾",台视综合
-http://hdtvtw.com/hstvs.php?pid=1476
-#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://epg.v1.mk/logo/台视财经.png" group-title="HS台湾",台视财经
-http://hdtvtw.com/hstvs.php?pid=1477
-#EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://epg.v1.mk/logo/台湾戏剧.png" group-title="HS台湾",台湾戏剧
-http://hdtvtw.com/hstvs.php?pid=1478
-#EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="HS台湾",华视
-http://hdtvtw.com/hstvs.php?pid=1479
-#EXTINF:-1 tvg-name="CTS华视新闻资讯" tvg-logo="https://epg.v1.mk/logo/华视新闻资讯.png" group-title="HS台湾",CTS华视新闻资讯
-http://hdtvtw.com/hstvs.php?pid=1480
-#EXTINF:-1 tvg-name="霹雳台湾台" tvg-logo="https://epg.v1.mk/logo/霹雳台湾台.png" group-title="HS台湾",霹雳台湾台
-http://hdtvtw.com/hstvs.php?pid=1481
-#EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://epg.v1.mk/logo/壹新闻.png" group-title="HS台湾",壹新闻
-http://hdtvtw.com/hstvs.php?pid=1482
-#EXTINF:-1 tvg-name="壹电影" tvg-logo="https://epg.v1.mk/logo/壹电影.png" group-title="HS台湾",壹电影
-http://hdtvtw.com/hstvs.php?pid=1483
-#EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://epg.v1.mk/logo/JET综合台.png" group-title="HS台湾",JET综合台
-http://hdtvtw.com/hstvs.php?pid=1484
-#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.v1.mk/logo/年代新闻.png" group-title="HS台湾",年代新闻
-http://hdtvtw.com/hstvs.php?pid=1485
-#EXTINF:-1 tvg-name="年代Much" tvg-logo="https://epg.v1.mk/logo/年代MUCH.png" group-title="HS台湾",年代Much
-http://hdtvtw.com/hstvs.php?pid=1486
-#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="HS台湾",非凡新闻
-http://hdtvtw.com/hstvs.php?pid=1487
-#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://epg.v1.mk/logo/非凡商业.png" group-title="HS台湾",非凡商业
-http://hdtvtw.com/hstvs.php?pid=1488
-#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://epg.v1.mk/logo/寰宇新闻.png" group-title="HS台湾",寰宇新闻
-http://hdtvtw.com/hstvs.php?pid=1489
-#EXTINF:-1 tvg-name="寰宇新闻台湾" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾.png" group-title="HS台湾",寰宇新闻台湾
-http://hdtvtw.com/hstvs.php?pid=1490
-#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://epg.v1.mk/logo/寰宇财经.png" group-title="HS台湾",寰宇财经
-http://hdtvtw.com/hstvs.php?pid=1491
-#EXTINF:-1 tvg-name="鏡新闻" tvg-logo="https://epg.v1.mk/logo镜新闻.png" group-title="HS台湾",鏡新闻
-http://hdtvtw.com/hstvs.php?pid=1492
-#EXTINF:-1 tvg-name="东森超视美洲" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="HS台湾",东森超视美洲
-http://hdtvtw.com/hstvs.php?pid=1493
-#EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://epg.v1.mk/logo/东森美洲.png" group-title="HS台湾",东森美洲
-http://hdtvtw.com/hstvs.php?pid=1494
-#EXTINF:-1 tvg-name="东森美洲卫视" tvg-logo="https://epg.v1.mk/logo/东森美洲卫视.png" group-title="HS台湾",东森美洲卫视
-http://hdtvtw.com/hstvs.php?pid=1495
-#EXTINF:-1 tvg-name="东森中国台" tvg-logo="https://epg.v1.mk/logo/东森中国.png" group-title="HS台湾",东森中国台
-http://hdtvtw.com/hstvs.php?pid=1496
-#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="HS台湾",东森超视
-http://hdtvtw.com/hstvs.php?pid=1497
-#EXTINF:-1 tvg-name="东森亚洲" tvg-logo="https://epg.v1.mk/logo/东森亚洲.png" group-title="HS台湾",东森亚洲
-http://hdtvtw.com/hstvs.php?pid=1498
-#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://epg.v1.mk/logo/东森综合.png" group-title="HS台湾",东森综合
-http://hdtvtw.com/hstvs.php?pid=1499
-#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="HS台湾",东森新闻
-http://hdtvtw.com/hstvs.php?pid=1500
-#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://epg.v1.mk/logo/东森财经.png" group-title="HS台湾",东森财经
-http://hdtvtw.com/hstvs.php?pid=1501
-#EXTINF:-1 tvg-name="东森LIVE" tvg-logo="https://epg.v1.mk/logo/东森LIVE.png" group-title="HS台湾",东森LIVE
-http://hdtvtw.com/hstvs.php?pid=1502
-#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="HS台湾",东森电影
-http://hdtvtw.com/hstvs.php?pid=1503
-#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="HS台湾",东森洋片
-http://hdtvtw.com/hstvs.php?pid=1504
-#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://epg.v1.mk/logo/东森戏剧.png" group-title="HS台湾",东森戏剧
-http://hdtvtw.com/hstvs.php?pid=1505
-#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://epg.v1.mk/logo/东森幼幼.png" group-title="HS台湾",东森幼幼
-http://hdtvtw.com/hstvs.php?pid=1506
-#EXTINF:-1 tvg-name="东森亚洲幼幼" tvg-logo="https://epg.v1.mk/logo/东森亚洲幼幼.png" group-title="HS台湾",东森亚洲幼幼
-http://hdtvtw.com/hstvs.php?pid=1507
-#EXTINF:-1 tvg-name="MOMO綜合台" tvg-logo="https://epg.v1.mk/logo/MOMO綜合台.png" group-title="HS台湾",MOMO綜合台
-http://hdtvtw.com/hstvs.php?pid=1508
-#EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://epg.v1.mk/logo/MOMO亲子台.png" group-title="HS台湾",MOMO亲子台
-http://hdtvtw.com/hstvs.php?pid=1509
-#EXTINF:-1 tvg-name="MOMO台" tvg-logo="https://epg.v1.mk/logo/MOMO台.png" group-title="HS台湾",MOMO台
-http://hdtvtw.com/hstvs.php?pid=1510
-#EXTINF:-1 tvg-name="国兴卫视" tvg-logo="https://epg.v1.mk/logo/国兴卫视.png" group-title="HS台湾",国兴卫视
-http://hdtvtw.com/hstvs.php?pid=1511
-#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://epg.v1.mk/logo/龙祥时代.png" group-title="HS台湾",龙祥时代
-http://hdtvtw.com/hstvs.php?pid=1512
-#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://epg.v1.mk/logo/龙华偶像.png" group-title="HS台湾",龙华偶像
-http://hdtvtw.com/hstvs.php?pid=1513
-#EXTINF:-1 tvg-name="龙华电视" tvg-logo="https://epg.v1.mk/logo/龙华电视.png" group-title="HS台湾",龙华电视
-http://hdtvtw.com/hstvs.php?pid=1514
-#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://epg.v1.mk/logo/龙华戏剧.png" group-title="HS台湾",龙华戏剧
-http://hdtvtw.com/hstvs.php?pid=1515
-#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://epg.v1.mk/logo/龙华日韩.png" group-title="HS台湾",龙华日韩
-http://hdtvtw.com/hstvs.php?pid=1516
-#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://epg.v1.mk/logo/龙华电影.png" group-title="HS台湾",龙华电影
-http://hdtvtw.com/hstvs.php?pid=1517
-#EXTINF:-1 tvg-name="龙华影剧" tvg-logo="https://epg.v1.mk/logo/龙华影剧.png" group-title="HS台湾",龙华影剧
-http://hdtvtw.com/hstvs.php?pid=1518
-#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://epg.v1.mk/logo/龙华洋片.png" group-title="HS台湾",龙华洋片
-http://hdtvtw.com/hstvs.php?pid=1519
-#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://epg.v1.mk/logo/龙华卡通.png" group-title="HS台湾",龙华卡通
-http://hdtvtw.com/hstvs.php?pid=1520
-#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://epg.v1.mk/logo/龙华经典.png" group-title="HS台湾",龙华经典
-http://hdtvtw.com/hstvs.php?pid=1521
-#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://epg.v1.mk/logo/三立都会台.png" group-title="HS台湾",三立都会台
-http://hdtvtw.com/hstvs.php?pid=1522
-#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合台.png" group-title="HS台湾",三立综合台
-http://hdtvtw.com/hstvs.php?pid=1523
-#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://epg.v1.mk/logo/三立台湾台.png" group-title="HS台湾",三立台湾台
-http://hdtvtw.com/hstvs.php?pid=1524
-#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://epg.v1.mk/logo/三立戏剧台.png" group-title="HS台湾",三立戏剧台
-http://hdtvtw.com/hstvs.php?pid=1525
-#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://epg.v1.mk/logo/三立新闻台.png" group-title="HS台湾",三立新闻台
-http://hdtvtw.com/hstvs.php?pid=1526
-#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://epg.v1.mk/logo/三立iNEWS.png" group-title="HS台湾",三立iNEWS
-http://hdtvtw.com/hstvs.php?pid=1527
-#EXTINF:-1 tvg-name="三立国际台" tvg-logo="https://epg.v1.mk/logo/三立国际台.png" group-title="HS台湾",三立国际台
-http://hdtvtw.com/hstvs.php?pid=1528
-#EXTINF:-1 tvg-name="LIVE三立" tvg-logo="https://epg.v1.mk/logo/LIVE三立.png" group-title="HS台湾",LIVE三立
-http://hdtvtw.com/hstvs.php?pid=1529
-#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="HS台湾",中天新闻
-http://hdtvtw.com/hstvs.php?pid=1530
-#EXTINF:-1 tvg-name="CTI+中天2台" tvg-logo="https://epg.v1.mk/logo/CTI+中天2台.png" group-title="HS台湾",CTI+中天2台
-http://hdtvtw.com/hstvs.php?pid=1531
-#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://epg.v1.mk/logo/中天综合.png" group-title="HS台湾",中天综合
-http://hdtvtw.com/hstvs.php?pid=1532
-#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://epg.v1.mk/logo/中天娱乐.png" group-title="HS台湾",中天娱乐
-http://hdtvtw.com/hstvs.php?pid=1533
-#EXTINF:-1 tvg-name="纬来综合" tvg-logo="https://epg.v1.mk/logo/纬来综合.png" group-title="HS台湾",纬来综合
-http://hdtvtw.com/hstvs.php?pid=1534
-#EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://epg.v1.mk/logo/纬来精彩.png" group-title="HS台湾",纬来精彩
-http://hdtvtw.com/hstvs.php?pid=1535
-#EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://epg.v1.mk/logo/纬来戏剧.png" group-title="HS台湾",纬来戏剧
-http://hdtvtw.com/hstvs.php?pid=1536
-#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="HS台湾",纬来日本
-http://hdtvtw.com/hstvs.php?pid=1537
-#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.v1.mk/logo/纬来育乐.png" group-title="HS台湾",纬来育乐
-http://hdtvtw.com/hstvs.php?pid=1538
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://epg.v1.mk/logo/纬来电影.png" group-title="HS台湾",纬来电影
-http://hdtvtw.com/hstvs.php?pid=1539
-#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="HS台湾",纬来体育
-http://hdtvtw.com/hstvs.php?pid=1540
-#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://epg.v1.mk/logo/八大第一台.png" group-title="HS台湾",八大第一台
-http://hdtvtw.com/hstvs.php?pid=1541
-#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://epg.v1.mk/logo/八大戏剧台.png" group-title="HS台湾",八大戏剧台
-http://hdtvtw.com/hstvs.php?pid=1542
-#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://epg.v1.mk/logo/八大综合台.png" group-title="HS台湾",八大综合台
-http://hdtvtw.com/hstvs.php?pid=1543
-#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://epg.v1.mk/logo/八大精彩台.png" group-title="HS台湾",八大精彩台
-http://hdtvtw.com/hstvs.php?pid=1544
-#EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://epg.v1.mk/logo/八大娱乐台.png" group-title="HS台湾",八大娱乐台
-http://hdtvtw.com/hstvs.php?pid=1545
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="HS台湾",TVBS新闻台
-http://hdtvtw.com/hstvs.php?pid=1546
-#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://epg.v1.mk/logo/TVBS精采台.png" group-title="HS台湾",TVBS精采台
-http://hdtvtw.com/hstvs.php?pid=1547
-#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐台.png" group-title="HS台湾",TVBS欢乐台
-http://hdtvtw.com/hstvs.php?pid=1548
-#EXTINF:-1 tvg-name="TVBSHD" tvg-logo="https://epg.v1.mk/logo/TVBSHD.png" group-title="HS台湾",TVBSHD
-http://hdtvtw.com/hstvs.php?pid=1549
-#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://epg.v1.mk/logo/TVBS NEWS.png" group-title="HS台湾",TVBS NEWS
-http://hdtvtw.com/hstvs.php?pid=1550
-#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://epg.v1.mk/logo/靖天综合台.png" group-title="HS台湾",靖天综合台
-http://hdtvtw.com/hstvs.php?pid=1551
-#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://epg.v1.mk/logo/靖天日本台.png" group-title="HS台湾",靖天日本台
-http://hdtvtw.com/hstvs.php?pid=1552
-#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.v1.mk/logo/靖天卡通台.png" group-title="HS台湾",靖天卡通台
-http://hdtvtw.com/hstvs.php?pid=1553
-#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://epg.v1.mk/logo/靖洋卡通台.png" group-title="HS台湾",靖洋卡通台
-http://hdtvtw.com/hstvs.php?pid=1554
-#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="HS台湾",靖天电影台
-http://hdtvtw.com/hstvs.php?pid=1555
-#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://epg.v1.mk/logo/靖天资讯台.png" group-title="HS台湾",靖天资讯台
-http://hdtvtw.com/hstvs.php?pid=1556
-#EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://epg.v1.mk/logo/靖天国际台.png" group-title="HS台湾",靖天国际台
-http://hdtvtw.com/hstvs.php?pid=1557
-#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://epg.v1.mk/logo/靖天戏剧台.png" group-title="HS台湾",靖天戏剧台
-http://hdtvtw.com/hstvs.php?pid=1558
-#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.v1.mk/logo/靖洋戏剧台.png" group-title="HS台湾",靖洋戏剧台
-http://hdtvtw.com/hstvs.php?pid=1559
-#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://epg.v1.mk/logo/靖天育乐台.png" group-title="HS台湾",靖天育乐台
-http://hdtvtw.com/hstvs.php?pid=1560
-#EXTINF:-1 tvg-name="靖天映画台" tvg-logo="https://epg.v1.mk/logo/靖天映画台.png" group-title="HS台湾",靖天映画台
-http://hdtvtw.com/hstvs.php?pid=1561
-#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://epg.v1.mk/logo/靖天欢乐台.png" group-title="HS台湾",靖天欢乐台
-http://hdtvtw.com/hstvs.php?pid=1562
-#EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-logo="https://epg.v1.mk/logo/華藝MBC綜合台.png" group-title="HS台湾",華藝MBC綜合台
-http://hdtvtw.com/hstvs.php?pid=1563
-#EXTINF:-1 tvg-name="LUXE TV" tvg-logo="https://epg.v1.mk/logo/LUXE TV.png" group-title="HS台湾",LUXE TV
-http://hdtvtw.com/hstvs.php?pid=1564
-#EXTINF:-1 tvg-name="Trvl旅游台" tvg-logo="https://epg.v1.mk/logo/Trvl旅游台.png" group-title="HS台湾",Trvl旅游台
-http://hdtvtw.com/hstvs.php?pid=1565
-#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://epg.v1.mk/logo/美食星球.png" group-title="HS台湾",美食星球
-http://hdtvtw.com/hstvs.php?pid=1566
-#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://epg.v1.mk/logo/亚洲旅游台.png" group-title="HS台湾",亚洲旅游台
-http://hdtvtw.com/hstvs.php?pid=1567
-#EXTINF:-1 tvg-name="台湾Plus" tvg-logo="https://epg.v1.mk/logo/台湾Plus.png" group-title="HS台湾",台湾Plus
-http://hdtvtw.com/hstvs.php?pid=1568
-#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://epg.v1.mk/logo/EYETV旅游.png" group-title="HS台湾",EYETV旅游
-http://hdtvtw.com/hstvs.php?pid=1569
-#EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://epg.v1.mk/logo/EYETV戏剧.png" group-title="HS台湾",EYETV戏剧
-http://hdtvtw.com/hstvs.php?pid=1570
-#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://epg.v1.mk/logo/NBA TV.png" group-title="HS台湾",NBA TV
-http://hdtvtw.com/hstvs.php?pid=1571
-#EXTINF:-1 tvg-name="ELEVEN1" tvg-logo="https://epg.v1.mk/logo/ELEVEN1.png" group-title="HS台湾",ELEVEN1
-http://hdtvtw.com/hstvs.php?pid=1572
-#EXTINF:-1 tvg-name="ELEVEN2" tvg-logo="https://epg.v1.mk/logo/ELEVEN2.png" group-title="HS台湾",ELEVEN2
-http://hdtvtw.com/hstvs.php?pid=1573
-#EXTINF:-1 tvg-name="ELTA日韩" tvg-logo="https://epg.v1.mk/logo/ELTA日韩.png" group-title="HS台湾",ELTA日韩
-http://hdtvtw.com/hstvs.php?pid=1574
-#EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://epg.v1.mk/logo/ELTA影剧.png" group-title="HS台湾",ELTA影剧
-http://hdtvtw.com/hstvs.php?pid=1575
-#EXTINF:-1 tvg-name="ELTA综合" tvg-logo="https://epg.v1.mk/logo/ELTA综合.png" group-title="HS台湾",ELTA综合
-http://hdtvtw.com/hstvs.php?pid=1576
-#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://epg.v1.mk/logo/ELTA娱乐.png" group-title="HS台湾",ELTA娱乐
-http://hdtvtw.com/hstvs.php?pid=1577
-#EXTINF:-1 tvg-name="ELTA生活旅游" tvg-logo="https://epg.v1.mk/logo/ELTA生活旅游.png" group-title="HS台湾",ELTA生活旅游
-http://hdtvtw.com/hstvs.php?pid=1578
-#EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://epg.v1.mk/logo/ELTA体育1.png" group-title="HS台湾",ELTA体育1
-http://hdtvtw.com/hstvs.php?pid=1579
-#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://epg.v1.mk/logo/ELTA体育2.png" group-title="HS台湾",ELTA体育2
-http://hdtvtw.com/hstvs.php?pid=1580
-#EXTINF:-1 tvg-name="ELTA体育3" tvg-logo="https://epg.v1.mk/logo/ELTA体育3.png" group-title="HS台湾",ELTA体育3
-http://hdtvtw.com/hstvs.php?pid=1581
-#EXTINF:-1 tvg-name="ELTA体育4" tvg-logo="https://epg.v1.mk/logo/ELTA体育4.png" group-title="HS台湾",ELTA体育4
-http://hdtvtw.com/hstvs.php?pid=1582
-#EXTINF:-1 tvg-name="ELTA体育MAX1" tvg-logo="https://epg.v1.mk/logo/ELTA体育MAX1.png" group-title="HS台湾",ELTA体育MAX1
-http://hdtvtw.com/hstvs.php?pid=1583
-#EXTINF:-1 tvg-name="ELTA体育MAX2" tvg-logo="https://epg.v1.mk/logo/ELTA体育MAX2.png" group-title="HS台湾",ELTA体育MAX2
-http://hdtvtw.com/hstvs.php?pid=1584
-#EXTINF:-1 tvg-name="ELTA体育MAX3" tvg-logo="https://epg.v1.mk/logo/ELTA体育MAX3.png" group-title="HS台湾",ELTA体育MAX3
-http://hdtvtw.com/hstvs.php?pid=1585
-#EXTINF:-1 tvg-name="ELTA体育MAX4" tvg-logo="https://epg.v1.mk/logo/ELTA体育MAX4.png" group-title="HS台湾",ELTA体育MAX4
-http://hdtvtw.com/hstvs.php?pid=1586
-#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://epg.v1.mk/logo/GinxTV电竞频道.png" group-title="HS台湾",GinxTV电竞频道
-http://hdtvtw.com/hstvs.php?pid=1587
-#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://epg.v1.mk/logo/博斯运动1.png" group-title="HS台湾",博斯运动1
-http://hdtvtw.com/hstvs.php?pid=1588
-#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://epg.v1.mk/logo/博斯运动2.png" group-title="HS台湾",博斯运动2
-http://hdtvtw.com/hstvs.php?pid=1589
-#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://epg.v1.mk/logo/博斯高球1.png" group-title="HS台湾",博斯高球1
-http://hdtvtw.com/hstvs.php?pid=1590
-#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://epg.v1.mk/logo/博斯高球2.png" group-title="HS台湾",博斯高球2
-http://hdtvtw.com/hstvs.php?pid=1591
-#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://epg.v1.mk/logo/博斯网球.png" group-title="HS台湾",博斯网球
-http://hdtvtw.com/hstvs.php?pid=1592
-#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="HS台湾",博斯无限
-http://hdtvtw.com/hstvs.php?pid=1593
-#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://epg.v1.mk/logo/博斯无限2.png" group-title="HS台湾",博斯无限2
-http://hdtvtw.com/hstvs.php?pid=1594
-#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://epg.v1.mk/logo/博斯魅力.png" group-title="HS台湾",博斯魅力
-http://hdtvtw.com/hstvs.php?pid=1595
-#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://epg.v1.mk/logo/智林体育台.png" group-title="HS台湾",智林体育台
-http://hdtvtw.com/hstvs.php?pid=1596
-#EXTINF:-1 tvg-name="TRACESportStars" tvg-logo="https://epg.v1.mk/logo/TRACESportStars.png" group-title="HS台湾",TRACESportStars
-http://hdtvtw.com/hstvs.php?pid=1597
-#EXTINF:-1 tvg-name="i-Fun動漫台" tvg-logo="https://epg.v1.mk/logo/i-Fun動漫台.png" group-title="HS台湾",i-Fun動漫台
-http://hdtvtw.com/hstvs.php?pid=1598
-#EXTINF:-1 tvg-name="Z频道" tvg-logo="https://epg.v1.mk/logo/Z频道.png" group-title="HS台湾",Z频道
-http://hdtvtw.com/hstvs.php?pid=1599
-#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://epg.v1.mk/logo/Cartoonito.png" group-title="HS台湾",Cartoonito
-http://hdtvtw.com/hstvs.php?pid=1600
-#EXTINF:-1 tvg-name="CN卡通频道" tvg-logo="https://epg.v1.mk/logo/CN卡通频道.png" group-title="HS台湾",CN卡通频道
-http://hdtvtw.com/hstvs.php?pid=1601
-#EXTINF:-1 tvg-name="尼克儿童频道" tvg-logo="https://epg.v1.mk/logo/尼克儿童频道.png" group-title="HS台湾",尼克儿童频道
-http://hdtvtw.com/hstvs.php?pid=1602
-#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://epg.v1.mk/logo/Boomerang.png" group-title="HS台湾",Boomerang
-http://hdtvtw.com/hstvs.php?pid=1603
-#EXTINF:-1 tvg-name="NickJr儿童频道" tvg-logo="https://epg.v1.mk/logo/NickJr儿童频道.png" group-title="HS台湾",NickJr儿童频道
-http://hdtvtw.com/hstvs.php?pid=1604
-#EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="https://epg.v1.mk/logo/BBC Cbeebies.png" group-title="HS台湾",BBC Cbeebies
-http://hdtvtw.com/hstvs.php?pid=1605
-#EXTINF:-1 tvg-name="梦工厂动画" tvg-logo="https://epg.v1.mk/logo/梦工厂动画.png" group-title="HS台湾",梦工厂动画
-http://hdtvtw.com/hstvs.php?pid=1606
-#EXTINF:-1 tvg-name="PetClubTV" tvg-logo="https://epg.v1.mk/logo/PetClubTV.png" group-title="HS台湾",PetClubTV
-http://hdtvtw.com/hstvs.php?pid=1607
-#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://epg.v1.mk/logo/精选动漫台.png" group-title="HS台湾",精选动漫台
-http://hdtvtw.com/hstvs.php?pid=1608
-#EXTINF:-1 tvg-name="经典卡通台" tvg-logo="https://epg.v1.mk/logo/经典卡通台.png" group-title="HS台湾",经典卡通台
-http://hdtvtw.com/hstvs.php?pid=1609
-#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="HS台湾",美亚电影台
-http://hdtvtw.com/hstvs.php?pid=1610
-#EXTINF:-1 tvg-name="Thrill惊悚" tvg-logo="https://epg.v1.mk/logo/Thrill惊悚.png" group-title="HS台湾",Thrill惊悚
-http://hdtvtw.com/hstvs.php?pid=1611
-#EXTINF:-1 tvg-name="AXN頻道" tvg-logo="https://epg.v1.mk/logo/AXN頻道.png" group-title="HS台湾",AXN頻道
-http://hdtvtw.com/hstvs.php?pid=1612
-#EXTINF:-1 tvg-name="华纳电影" tvg-logo="https://epg.v1.mk/logo/华纳电影.png" group-title="HS台湾",华纳电影
-http://hdtvtw.com/hstvs.php?pid=1613
-#EXTINF:-1 tvg-name="tVN" tvg-logo="https://epg.v1.mk/logo/tVN.png" group-title="HS台湾",tVN
-http://hdtvtw.com/hstvs.php?pid=1614
-#EXTINF:-1 tvg-name="StarMovies" tvg-logo="https://epg.v1.mk/logo/StarMovies.png" group-title="HS台湾",StarMovies
-http://hdtvtw.com/hstvs.php?pid=1615
-#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://epg.v1.mk/logo/CinemaWorld.png" group-title="HS台湾",CinemaWorld
-http://hdtvtw.com/hstvs.php?pid=1616
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://epg.v1.mk/logo/CINEMAX.png" group-title="HS台湾",CINEMAX
-http://hdtvtw.com/hstvs.php?pid=1617
-#EXTINF:-1 tvg-name="HBO" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="HS台湾",HBO
-http://hdtvtw.com/hstvs.php?pid=1618
-#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://epg.v1.mk/logo/HBO HD.png" group-title="HS台湾",HBO HD
-http://hdtvtw.com/hstvs.php?pid=1619
-#EXTINF:-1 tvg-name="HBO原创" tvg-logo="https://epg.v1.mk/logo/HBO原创.png" group-title="HS台湾",HBO原创
-http://hdtvtw.com/hstvs.php?pid=1620
-#EXTINF:-1 tvg-name="HBO强档" tvg-logo="https://epg.v1.mk/logo/HBO强档.png" group-title="HS台湾",HBO强档
-http://hdtvtw.com/hstvs.php?pid=1621
-#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://epg.v1.mk/logo/HBO家庭.png" group-title="HS台湾",HBO家庭
-http://hdtvtw.com/hstvs.php?pid=1622
-#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://epg.v1.mk/logo/好莱坞电影.png" group-title="HS台湾",好莱坞电影
-http://hdtvtw.com/hstvs.php?pid=1623
-#EXTINF:-1 tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="HS台湾",amc最爱电影
-http://hdtvtw.com/hstvs.php?pid=1624
-#EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://epg.v1.mk/logo/CatchPlay电影台.png" group-title="HS台湾",CatchPlay电影台
-http://hdtvtw.com/hstvs.php?pid=1625
-#EXTINF:-1 tvg-name="RockEntertainment" tvg-logo="https://epg.v1.mk/logo/RockEntertainment.png" group-title="HS台湾",RockEntertainment
-http://hdtvtw.com/hstvs.php?pid=1626
-#EXTINF:-1 tvg-name="RockAction" tvg-logo="https://epg.v1.mk/logo/RockAction.png" group-title="HS台湾",RockAction
-http://hdtvtw.com/hstvs.php?pid=1627
-#EXTINF:-1 tvg-name="RockExtreme" tvg-logo="https://epg.v1.mk/logo/RockExtreme.png" group-title="HS台湾",RockExtreme
-http://hdtvtw.com/hstvs.php?pid=1628
-#EXTINF:-1 tvg-name="MyCinemaEurope" tvg-logo="https://epg.v1.mk/logo/MyCinemaEurope.png" group-title="HS台湾",MyCinemaEurope
-http://hdtvtw.com/hstvs.php?pid=1629
-#EXTINF:-1 tvg-name="经典电影台" tvg-logo="https://epg.v1.mk/logo/经典电影台.png" group-title="HS台湾",经典电影台
-http://hdtvtw.com/hstvs.php?pid=1630
-#EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://epg.v1.mk/logo/采昌影剧台.png" group-title="HS台湾",采昌影剧台
-http://hdtvtw.com/hstvs.php?pid=1631
-#EXTINF:-1 tvg-name="高点综合" tvg-logo="https://epg.v1.mk/logo/高点综合.png" group-title="HS台湾",高点综合
-http://hdtvtw.com/hstvs.php?pid=1632
-#EXTINF:-1 tvg-name="信吉" tvg-logo="https://epg.v1.mk/logo/信吉.png" group-title="HS台湾",信吉
-http://hdtvtw.com/hstvs.php?pid=1633
-#EXTINF:-1 tvg-name="信大" tvg-logo="https://epg.v1.mk/logo/信大.png" group-title="HS台湾",信大
-http://hdtvtw.com/hstvs.php?pid=1634
-#EXTINF:-1 tvg-name="东风卫视" tvg-logo="https://epg.v1.mk/logo/东风卫视.png" group-title="HS台湾",东风卫视
-http://hdtvtw.com/hstvs.php?pid=1635
-#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://epg.v1.mk/logo/达文西频道.png" group-title="HS台湾",达文西频道
-http://hdtvtw.com/hstvs.php?pid=1636
-#EXTINF:-1 tvg-name="Smart知识台" tvg-logo="https://epg.v1.mk/logo/Smart知识台.png" group-title="HS台湾",Smart知识台
-http://hdtvtw.com/hstvs.php?pid=1637
-#EXTINF:-1 tvg-name="电影原聲台" tvg-logo="https://epg.v1.mk/logo/电影原聲台.png" group-title="HS台湾",电影原聲台
-http://hdtvtw.com/hstvs.php?pid=1638
-#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="HS台湾",客家电视台
-http://hdtvtw.com/hstvs.php?pid=1639
-#EXTINF:-1 tvg-name="原住民频道" tvg-logo="https://epg.v1.mk/logo/原住民频道.png" group-title="HS台湾",原住民频道
-http://hdtvtw.com/hstvs.php?pid=1640
-#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/新唐人亞太台.png" group-title="HS台湾",新唐人亞太台
-http://hdtvtw.com/hstvs.php?pid=1641
-#EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://epg.v1.mk/logo/VOA美国之音.png" group-title="HS台湾",VOA美国之音
-http://hdtvtw.com/hstvs.php?pid=1642
-#EXTINF:-1 tvg-name="MTV音乐频道" tvg-logo="https://epg.v1.mk/logo/MTV音乐频道.png" group-title="HS台湾",MTV音乐频道
-http://hdtvtw.com/hstvs.php?pid=1643
-#EXTINF:-1 tvg-name="古典音樂台" tvg-logo="https://epg.v1.mk/logo/古典音樂台.png" group-title="HS台湾",古典音樂台
-http://hdtvtw.com/hstvs.php?pid=1644
-#EXTINF:-1 tvg-name="韩国娱乐台" tvg-logo="https://epg.v1.mk/logo/韩国娱乐台.png" group-title="HS台湾",韩国娱乐台
-http://hdtvtw.com/hstvs.php?pid=1645
-#EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.v1.mk/logo/猪哥亮歌厅秀.png" group-title="HS台湾",猪哥亮歌厅秀
-http://hdtvtw.com/hstvs.php?pid=1646
-#EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="https://epg.v1.mk/logo/幸福空间居家台.png" group-title="HS台湾",幸福空间居家台
-http://hdtvtw.com/hstvs.php?pid=1647
-#EXTINF:-1 tvg-name="空中英语教室" tvg-logo="https://epg.v1.mk/logo/空中英语教室.png" group-title="HS台湾",空中英语教室
-http://hdtvtw.com/hstvs.php?pid=1648
-#EXTINF:-1 tvg-name="ELTV生活英语台" tvg-logo="https://epg.v1.mk/logo/ELTV生活英语台.png" group-title="HS台湾",ELTV生活英语台
-http://hdtvtw.com/hstvs.php?pid=1649
-#EXTINF:-1 tvg-name="互动英语频道" tvg-logo="https://epg.v1.mk/logo/互动英语频道.png" group-title="HS台湾",互动英语频道
-http://hdtvtw.com/hstvs.php?pid=1650
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://epg.v1.mk/logo/BBC Earth.png" group-title="HS台湾",BBC Earth
-http://hdtvtw.com/hstvs.php?pid=1651
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://epg.v1.mk/logo/BBC Lifestyle.png" group-title="HS台湾",BBC Lifestyle
-http://hdtvtw.com/hstvs.php?pid=1652
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://epg.v1.mk/logo/BBC News.png" group-title="HS台湾",BBC News
-http://hdtvtw.com/hstvs.php?pid=1653
-#EXTINF:-1 tvg-name="HISTORY2" tvg-logo="https://epg.v1.mk/logo/HISTORY2.png" group-title="HS台湾",HISTORY2
-http://hdtvtw.com/hstvs.php?pid=1654
-#EXTINF:-1 tvg-name="INULTRA" tvg-logo="https://epg.v1.mk/logo/INULTRA.png" group-title="HS台湾",INULTRA
-http://hdtvtw.com/hstvs.php?pid=1655
-#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://epg.v1.mk/logo/国家地理.png" group-title="HS台湾",国家地理
-http://hdtvtw.com/hstvs.php?pid=1656
-#EXTINF:-1 tvg-name="国家地理野生海外版" tvg-logo="https://epg.v1.mk/logo/国家地理野生海外版.png" group-title="HS台湾",国家地理野生海外版
-http://hdtvtw.com/hstvs.php?pid=1657
-#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://epg.v1.mk/logo/动物星球.png" group-title="HS台湾",动物星球
-http://hdtvtw.com/hstvs.php?pid=1658
-#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://epg.v1.mk/logo/探索频道.png" group-title="HS台湾",探索频道
-http://hdtvtw.com/hstvs.php?pid=1659
-#EXTINF:-1 tvg-name="探索动力" tvg-logo="https://epg.v1.mk/logo/探索动力.png" group-title="HS台湾",探索动力
-http://hdtvtw.com/hstvs.php?pid=1660
-#EXTINF:-1 tvg-name="探索科学" tvg-logo="https://epg.v1.mk/logo/探索科学.png" group-title="HS台湾",探索科学
-http://hdtvtw.com/hstvs.php?pid=1661
-#EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://epg.v1.mk/logo/探索亚洲.png" group-title="HS台湾",探索亚洲
-http://hdtvtw.com/hstvs.php?pid=1662
-#EXTINF:-1 tvg-name="探索EVE" tvg-logo="https://epg.v1.mk/logo/探索EVE.png" group-title="HS台湾",探索EVE
-http://hdtvtw.com/hstvs.php?pid=1663
-#EXTINF:-1 tvg-name="居家乐活频道" tvg-logo="https://epg.v1.mk/logo/居家乐活频道.png" group-title="HS台湾",居家乐活频道
-http://hdtvtw.com/hstvs.php?pid=1664
-#EXTINF:-1 tvg-name="CI罪案偵查頻道" tvg-logo="https://epg.v1.mk/logo/CI罪案偵查頻道.png" group-title="HS台湾",CI罪案偵查頻道
-http://hdtvtw.com/hstvs.php?pid=1665
-#EXTINF:-1 tvg-name="亚洲美食频道" tvg-logo="https://epg.v1.mk/logo/亚洲美食频道.png" group-title="HS台湾",亚洲美食频道
-http://hdtvtw.com/hstvs.php?pid=1666
-#EXTINF:-1 tvg-name="CNEX频道" tvg-logo="https://epg.v1.mk/logo/CNEX频道.png" group-title="HS台湾",CNEX频道
-http://hdtvtw.com/hstvs.php?pid=1667
-#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.v1.mk/logo/人间卫视.png" group-title="HS台湾",人间卫视
-http://hdtvtw.com/hstvs.php?pid=1668
-#EXTINF:-1 tvg-name="大爱一台" tvg-logo="https://epg.v1.mk/logo/大爱一台.png" group-title="HS台湾",大爱一台
-http://hdtvtw.com/hstvs.php?pid=1669
-#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="HS台湾",大爱二台
-http://hdtvtw.com/hstvs.php?pid=1670
-#EXTINF:-1 tvg-name="生命电视台" tvg-logo="https://epg.v1.mk/logo/生命电视台.png" group-title="HS台湾",生命电视台
-http://hdtvtw.com/hstvs.php?pid=1671
-#EXTINF:-1 tvg-name="唯心电视" tvg-logo="https://epg.v1.mk/logo/唯心电视.png" group-title="HS台湾",唯心电视
-http://hdtvtw.com/hstvs.php?pid=1672
-#EXTINF:-1 tvg-name="创世电视" tvg-logo="https://epg.v1.mk/logo/创世电视.png" group-title="HS台湾",创世电视
-http://hdtvtw.com/hstvs.php?pid=1673
-#EXTINF:-1 tvg-name="好消息" tvg-logo="https://epg.v1.mk/logo/好消息.png" group-title="HS台湾",好消息
-http://hdtvtw.com/hstvs.php?pid=1674
-#EXTINF:-1 tvg-name="好消息2" tvg-logo="https://epg.v1.mk/logo/好消息2.png" group-title="HS台湾",好消息2
-http://hdtvtw.com/hstvs.php?pid=1675
-#EXTINF:-1 tvg-name="国会频道1" tvg-logo="https://epg.v1.mk/logo/国会频道1.png" group-title="HS台湾",国会频道1
-http://hdtvtw.com/hstvs.php?pid=1676
-#EXTINF:-1 tvg-name="国会频道2" tvg-logo="https://epg.v1.mk/logo/国会频道2.png" group-title="HS台湾",国会频道2
-http://hdtvtw.com/hstvs.php?pid=1677
-#EXTINF:-1 tvg-name="NHK総合ロゴ" tvg-logo="https://epg.v1.mk/logo/NHK総合ロゴ.png" group-title="HS日本",NHK総合ロゴ
-http://hdtvtw.com/hstvs.php?pid=1760
-#EXTINF:-1 tvg-name="NHKEテレロゴ" tvg-logo="https://epg.v1.mk/logo/NHKEテレロゴ.png" group-title="HS日本",NHKEテレロゴ
-http://hdtvtw.com/hstvs.php?pid=1761
-#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://epg.v1.mk/logo/日本テレビ.png" group-title="HS日本",日本テレビ
-http://hdtvtw.com/hstvs.php?pid=1762
-#EXTINF:-1 tvg-name="日テレプラス" tvg-logo="https://epg.v1.mk/logo/日テレプラス.png" group-title="HS日本",日テレプラス
-http://hdtvtw.com/hstvs.php?pid=1763
-#EXTINF:-1 tvg-name="日テレ News" tvg-logo="https://epg.v1.mk/logo/日テレ News.png" group-title="HS日本",日テレ News
-http://hdtvtw.com/hstvs.php?pid=1764
-#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://epg.v1.mk/logo/TBSテレビ.png" group-title="HS日本",TBSテレビ
-http://hdtvtw.com/hstvs.php?pid=1765
-#EXTINF:-1 tvg-name="ＴＢＳニュースバード" tvg-logo="https://epg.v1.mk/logo/ＴＢＳニュースバード.png" group-title="HS日本",ＴＢＳニュースバード
-http://hdtvtw.com/hstvs.php?pid=1766
-#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://epg.v1.mk/logo/フジテレビ.png" group-title="HS日本",フジテレビ
-http://hdtvtw.com/hstvs.php?pid=1767
-#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://epg.v1.mk/logo/テレビ朝日.png" group-title="HS日本",テレビ朝日
-http://hdtvtw.com/hstvs.php?pid=1768
-#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://epg.v1.mk/logo/テレビ東京.png" group-title="HS日本",テレビ東京
-http://hdtvtw.com/hstvs.php?pid=1769
-#EXTINF:-1 tvg-name="TOKYOMX1" tvg-logo="https://epg.v1.mk/logo/TOKYOMX1.png" group-title="HS日本",TOKYOMX1
-http://hdtvtw.com/hstvs.php?pid=1770
-#EXTINF:-1 tvg-name="TOKYOMX2" tvg-logo="https://epg.v1.mk/logo/TOKYOMX2.png" group-title="HS日本",TOKYOMX2
-http://hdtvtw.com/hstvs.php?pid=1771
-#EXTINF:-1 tvg-name="MBS毎日放送" tvg-logo="https://epg.v1.mk/logo/MBS毎日放送.png" group-title="HS日本",MBS毎日放送
-http://hdtvtw.com/hstvs.php?pid=1772
-#EXTINF:-1 tvg-name="ABCテレビ" tvg-logo="https://epg.v1.mk/logo/ABCテレビ.png" group-title="HS日本",ABCテレビ
-http://hdtvtw.com/hstvs.php?pid=1773
-#EXTINF:-1 tvg-name="ABCテレビ報道" tvg-logo="https://epg.v1.mk/logo/ABCテレビ報道.png" group-title="HS日本",ABCテレビ報道
-http://hdtvtw.com/hstvs.php?pid=1774
-#EXTINF:-1 tvg-name="関西テレビ" tvg-logo="https://epg.v1.mk/logo/関西テレビ.png" group-title="HS日本",関西テレビ
-http://hdtvtw.com/hstvs.php?pid=1775
-#EXTINF:-1 tvg-name="よみうりテレビ" tvg-logo="https://epg.v1.mk/logo/よみうりテレビ.png" group-title="HS日本",よみうりテレビ
-http://hdtvtw.com/hstvs.php?pid=1776
-#EXTINF:-1 tvg-name="テレビ大阪" tvg-logo="https://epg.v1.mk/logo/テレビ大阪.png" group-title="HS日本",テレビ大阪
-http://hdtvtw.com/hstvs.php?pid=1777
-#EXTINF:-1 tvg-name="サンテレビ" tvg-logo="https://epg.v1.mk/logo/サンテレビ.png" group-title="HS日本",サンテレビ
-http://hdtvtw.com/hstvs.php?pid=1778
-#EXTINF:-1 tvg-name="NHKBS" tvg-logo="https://epg.v1.mk/logo/NHKBS.png" group-title="HS日本",NHKBS
-http://hdtvtw.com/hstvs.php?pid=1779
-#EXTINF:-1 tvg-name="KBS京都" tvg-logo="https://epg.v1.mk/logo/KBS京都.png" group-title="HS日本",KBS京都
-http://hdtvtw.com/hstvs.php?pid=1780
-#EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://epg.v1.mk/logo/BS朝日.png" group-title="HS日本",BS朝日
-http://hdtvtw.com/hstvs.php?pid=1781
-#EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://epg.v1.mk/logo/BS-TBS.png" group-title="HS日本",BS-TBS
-http://hdtvtw.com/hstvs.php?pid=1782
-#EXTINF:-1 tvg-name="BSテレ東" tvg-logo="https://epg.v1.mk/logo/BSテレ東.png" group-title="HS日本",BSテレ東
-http://hdtvtw.com/hstvs.php?pid=1783
-#EXTINF:-1 tvg-name="BSジャパン" tvg-logo="https://epg.v1.mk/logo/BSジャパン.png" group-title="HS日本",BSジャパン
-http://hdtvtw.com/hstvs.php?pid=1784
-#EXTINF:-1 tvg-name="BSフジ" tvg-logo="https://epg.v1.mk/logo/BSフジ.png" group-title="HS日本",BSフジ
-http://hdtvtw.com/hstvs.php?pid=1785
-#EXTINF:-1 tvg-name="BS 11" tvg-logo="https://epg.v1.mk/logo/BS 11.png" group-title="HS日本",BS 11
-http://hdtvtw.com/hstvs.php?pid=1786
-#EXTINF:-1 tvg-name="BS 12トゥエルビ" tvg-logo="https://epg.v1.mk/logo/BS 12トゥエルビ.png" group-title="HS日本",BS 12トゥエルビ
-http://hdtvtw.com/hstvs.php?pid=1787
-#EXTINF:-1 tvg-name="WOWOWプライム" tvg-logo="https://epg.v1.mk/logo/WOWOWプライム.png" group-title="HS日本",WOWOWプライム
-http://hdtvtw.com/hstvs.php?pid=1788
-#EXTINF:-1 tvg-name="WOWOWライブ" tvg-logo="https://epg.v1.mk/logo/WOWOWライブ.png" group-title="HS日本",WOWOWライブ
-http://hdtvtw.com/hstvs.php?pid=1789
-#EXTINF:-1 tvg-name="WOWOWシネマ" tvg-logo="https://epg.v1.mk/logo/WOWOWシネマ.png" group-title="HS日本",WOWOWシネマ
-http://hdtvtw.com/hstvs.php?pid=1790
-#EXTINF:-1 tvg-name="WOWOWプラス" tvg-logo="https://epg.v1.mk/logo/WOWOWプラス.png" group-title="HS日本",WOWOWプラス
-http://hdtvtw.com/hstvs.php?pid=1791
-#EXTINF:-1 tvg-name="スターチャンネル1" tvg-logo="https://epg.v1.mk/logo/スターチャンネル1.png" group-title="HS日本",スターチャンネル1
-http://hdtvtw.com/hstvs.php?pid=1792
-#EXTINF:-1 tvg-name="ＴＢＳチャンネル１" tvg-logo="https://epg.v1.mk/logo/ＴＢＳチャンネル１.png" group-title="HS日本",ＴＢＳチャンネル１
-http://hdtvtw.com/hstvs.php?pid=1793
-#EXTINF:-1 tvg-name="ＴＢＳチャンネル２" tvg-logo="https://epg.v1.mk/logo/ＴＢＳチャンネル２.png" group-title="HS日本",ＴＢＳチャンネル２
-http://hdtvtw.com/hstvs.php?pid=1794
-#EXTINF:-1 tvg-name="テレ朝チャンネル１" tvg-logo="https://epg.v1.mk/logo/テレ朝チャンネル１.png" group-title="HS日本",テレ朝チャンネル１
-http://hdtvtw.com/hstvs.php?pid=1795
-#EXTINF:-1 tvg-name="テレ朝チャンネル２" tvg-logo="https://epg.v1.mk/logo/テレ朝チャンネル２.png" group-title="HS日本",テレ朝チャンネル２
-http://hdtvtw.com/hstvs.php?pid=1796
-#EXTINF:-1 tvg-name="フジテレビＯＮＥ" tvg-logo="https://epg.v1.mk/logo/フジテレビＯＮＥ.png" group-title="HS日本",フジテレビＯＮＥ
-http://hdtvtw.com/hstvs.php?pid=1797
-#EXTINF:-1 tvg-name="フジテレビＴＷＯ" tvg-logo="https://epg.v1.mk/logo/フジテレビＴＷＯ.png" group-title="HS日本",フジテレビＴＷＯ
-http://hdtvtw.com/hstvs.php?pid=1798
-#EXTINF:-1 tvg-name="フジテレビＮＥＸＴ" tvg-logo="https://epg.v1.mk/logo/フジテレビＮＥＸＴ.png" group-title="HS日本",フジテレビＮＥＸＴ
-http://hdtvtw.com/hstvs.php?pid=1799
-#EXTINF:-1 tvg-name="グリーンチャンネル" tvg-logo="https://epg.v1.mk/logo/グリーンチャンネル.png" group-title="HS日本",グリーンチャンネル
-http://hdtvtw.com/hstvs.php?pid=1800
-#EXTINF:-1 tvg-name="チャンネル銀河" tvg-logo="https://epg.v1.mk/logo/チャンネル銀河.png" group-title="HS日本",チャンネル銀河
-http://hdtvtw.com/hstvs.php?pid=1801
-#EXTINF:-1 tvg-name="釣りビジョン" tvg-logo="https://epg.v1.mk/logo/釣りビジョン.png" group-title="HS日本",釣りビジョン
-http://hdtvtw.com/hstvs.php?pid=1802
-#EXTINF:-1 tvg-name="JSPORTS 1" tvg-logo="https://epg.v1.mk/logo/JSPORTS 1.png" group-title="HS日本",JSPORTS 1
-http://hdtvtw.com/hstvs.php?pid=1803
-#EXTINF:-1 tvg-name="JSPORTS 2" tvg-logo="https://epg.v1.mk/logo/JSPORTS 2.png" group-title="HS日本",JSPORTS 2
-http://hdtvtw.com/hstvs.php?pid=1804
-#EXTINF:-1 tvg-name="JSPORTS 3" tvg-logo="https://epg.v1.mk/logo/JSPORTS 3.png" group-title="HS日本",JSPORTS 3
-http://hdtvtw.com/hstvs.php?pid=1805
-#EXTINF:-1 tvg-name="JSPORTS 4" tvg-logo="https://epg.v1.mk/logo/JSPORTS 4.png" group-title="HS日本",JSPORTS 4
-http://hdtvtw.com/hstvs.php?pid=1806
-#EXTINF:-1 tvg-name="GaoraSports" tvg-logo="https://epg.v1.mk/logo/GaoraSports.png" group-title="HS日本",GaoraSports
-http://hdtvtw.com/hstvs.php?pid=1807
-#EXTINF:-1 tvg-name="GolfNetwork" tvg-logo="https://epg.v1.mk/logo/GolfNetwork.png" group-title="HS日本",GolfNetwork
-http://hdtvtw.com/hstvs.php?pid=1808
-#EXTINF:-1 tvg-name="スポーツライブ＋" tvg-logo="https://epg.v1.mk/logo/スポーツライブ＋.png" group-title="HS日本",スポーツライブ＋
-http://hdtvtw.com/hstvs.php?pid=1809
-#EXTINF:-1 tvg-name="日テレジータス" tvg-logo="https://epg.v1.mk/logo/日テレジータス.png" group-title="HS日本",日テレジータス
-http://hdtvtw.com/hstvs.php?pid=1810
-#EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://epg.v1.mk/logo/日本映画専門チャンネル.png" group-title="HS日本",日本映画専門チャンネル
-http://hdtvtw.com/hstvs.php?pid=1811
-#EXTINF:-1 tvg-name="旅チャンネル" tvg-logo="https://epg.v1.mk/logo/旅チャンネル.png" group-title="HS日本",旅チャンネル
-http://hdtvtw.com/hstvs.php?pid=1812
-#EXTINF:-1 tvg-name="ホームドラマチャンネル" tvg-logo="https://epg.v1.mk/logo/ホームドラマチャンネル.png" group-title="HS日本",ホームドラマチャンネル
-http://hdtvtw.com/hstvs.php?pid=1813
-#EXTINF:-1 tvg-name="鉄道チャンネル" tvg-logo="https://epg.v1.mk/logo/鉄道チャンネル.png" group-title="HS日本",鉄道チャンネル
-http://hdtvtw.com/hstvs.php?pid=1814
-#EXTINF:-1 tvg-name="東映チャンネル" tvg-logo="https://epg.v1.mk/logo/東映チャンネル.png" group-title="HS日本",東映チャンネル
-http://hdtvtw.com/hstvs.php?pid=1815
-#EXTINF:-1 tvg-name="衛星劇場" tvg-logo="https://epg.v1.mk/logo/衛星劇場.png" group-title="HS日本",衛星劇場
-http://hdtvtw.com/hstvs.php?pid=1816
-#EXTINF:-1 tvg-name="ファミリー劇場" tvg-logo="https://epg.v1.mk/logo/ファミリー劇場.png" group-title="HS日本",ファミリー劇場
-http://hdtvtw.com/hstvs.php?pid=1817
-#EXTINF:-1 tvg-name="時代劇専門チャンネル" tvg-logo="https://epg.v1.mk/logo/時代劇専門チャンネル.png" group-title="HS日本",時代劇専門チャンネル
-http://hdtvtw.com/hstvs.php?pid=1818
-#EXTINF:-1 tvg-name="MONDO TV" tvg-logo="https://epg.v1.mk/logo/MONDO TV.png" group-title="HS日本",MONDO TV
-http://hdtvtw.com/hstvs.php?pid=1819
-#EXTINF:-1 tvg-name="NHKBS1" tvg-logo="https://epg.v1.mk/logo/NHKBS1.png" group-title="HS日本",NHKBS1
-http://hdtvtw.com/hstvs.php?pid=1820
-#EXTINF:-1 tvg-name="スカイA" tvg-logo="https://epg.v1.mk/logo/スカイA.png" group-title="HS日本",スカイA
-http://hdtvtw.com/hstvs.php?pid=1821
-#EXTINF:-1 tvg-name="ザシネマ" tvg-logo="https://epg.v1.mk/logo/ザシネマ.png" group-title="HS日本",ザシネマ
-http://hdtvtw.com/hstvs.php?pid=1822
-#EXTINF:-1 tvg-name="NHK" tvg-logo="https://epg.v1.mk/logo/NHK.png" group-title="HS日本",NHK
-http://hdtvtw.com/hstvs.php?pid=1823
-#EXTINF:-1 tvg-name="NWorld Japan" tvg-logo="https://epg.v1.mk/logo/NWorld Japan.png" group-title="HS日本",NWorld Japan
-http://hdtvtw.com/hstvs.php?pid=1824
-#EXTINF:-1 tvg-name="NBSP4K" tvg-logo="https://epg.v1.mk/logo/NBSP4K.png" group-title="HS日本",NBSP4K
-http://hdtvtw.com/hstvs.php?pid=1825
-#EXTINF:-1 tvg-name="スーパー！ドラマＴＶ" tvg-logo="https://epg.v1.mk/logo/スーパー！ドラマＴＶ.png" group-title="HS日本",スーパー！ドラマＴＶ
-http://hdtvtw.com/hstvs.php?pid=1826
-#EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://epg.v1.mk/logo/ムービープラス.png" group-title="HS日本",ムービープラス
-http://hdtvtw.com/hstvs.php?pid=1827
-#EXTINF:-1 tvg-name="映画・チャンネルNECO" tvg-logo="https://epg.v1.mk/logo/映画・チャンネルNECO.png" group-title="HS日本",映画・チャンネルNECO
-http://hdtvtw.com/hstvs.php?pid=1828
-#EXTINF:-1 tvg-name="ＡＸＮ 海外ドラマ" tvg-logo="https://epg.v1.mk/logo/ＡＸＮ 海外ドラマ.png" group-title="HS日本",ＡＸＮ 海外ドラマ
-http://hdtvtw.com/hstvs.php?pid=1829
-#EXTINF:-1 tvg-name="AXNミステリー" tvg-logo="https://epg.v1.mk/logo/AXNミステリー.png" group-title="HS日本",AXNミステリー
-http://hdtvtw.com/hstvs.php?pid=1830
-#EXTINF:-1 tvg-name="DLife" tvg-logo="https://epg.v1.mk/logo/DLife.png" group-title="HS日本",DLife
-http://hdtvtw.com/hstvs.php?pid=1831
-#EXTINF:-1 tvg-name="FightingTV サムライ" tvg-logo="https://epg.v1.mk/logo/FightingTV サムライ.png" group-title="HS日本",FightingTV サムライ
-http://hdtvtw.com/hstvs.php?pid=1832
-#EXTINF:-1 tvg-name="ダンスチャンネル by エンタメ～テレ" tvg-logo="https://epg.v1.mk/logo/ダンスチャンネル by エンタメ～テレ.png" group-title="HS日本",ダンスチャンネル by エンタメ～テレ
-http://hdtvtw.com/hstvs.php?pid=1833
-#EXTINF:-1 tvg-name="エンタメ～テレ☆シネドラバラエティ" tvg-logo="https://epg.v1.mk/logo/エンタメ～テレ☆シネドラバラエティ.png" group-title="HS日本",エンタメ～テレ☆シネドラバラエティ
-http://hdtvtw.com/hstvs.php?pid=1834
-#EXTINF:-1 tvg-name="100％ヒッツ！スペースシャワーTV プラス" tvg-logo="https://epg.v1.mk/logo/100％ヒッツ！スペースシャワーTV プラス.png" group-title="HS日本",100％ヒッツ！スペースシャワーTV プラス
-http://hdtvtw.com/hstvs.php?pid=1835
-#EXTINF:-1 tvg-name="女性チャンネル♪LaLa TV" tvg-logo="https://epg.v1.mk/logo/女性チャンネル♪LaLa TV.png" group-title="HS日本",女性チャンネル♪LaLa TV
-http://hdtvtw.com/hstvs.php?pid=1836
-#EXTINF:-1 tvg-name="スカチャン1" tvg-logo="https://epg.v1.mk/logo/スカチャン1.png" group-title="HS日本",スカチャン1
-http://hdtvtw.com/hstvs.php?pid=1837
-#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" tvg-logo="https://epg.v1.mk/logo/歌謡ポップスチャンネル.png" group-title="HS日本",歌謡ポップスチャンネル
-http://hdtvtw.com/hstvs.php?pid=1838
-#EXTINF:-1 tvg-name="MusicJapanTV" tvg-logo="https://epg.v1.mk/logo/MusicJapanTV.png" group-title="HS日本",MusicJapanTV
-http://hdtvtw.com/hstvs.php?pid=1839
-#EXTINF:-1 tvg-name="MUSIC ON! TV（エムオン!）" tvg-logo="https://epg.v1.mk/logo/MUSIC ON! TV（エムオン!）.png" group-title="HS日本",MUSIC ON! TV（エムオン!）
-http://hdtvtw.com/hstvs.php?pid=1840
-#EXTINF:-1 tvg-name="ミュージック・エア" tvg-logo="https://epg.v1.mk/logo/ミュージック・エア.png" group-title="HS日本",ミュージック・エア
-http://hdtvtw.com/hstvs.php?pid=1841
-#EXTINF:-1 tvg-name="KBS 1" tvg-logo="https://epg.v1.mk/logo/KBS 1.png" group-title="HS韩国",KBS 1
-http://hdtvtw.com/hstvs.php?pid=1678
-#EXTINF:-1 tvg-name="KBS 2" tvg-logo="https://epg.v1.mk/logo/KBS 2.png" group-title="HS韩国",KBS 2
-http://hdtvtw.com/hstvs.php?pid=1679
-#EXTINF:-1 tvg-name="KBS Drama" tvg-logo="https://epg.v1.mk/logo/KBS Drama.png" group-title="HS韩国",KBS Drama
-http://hdtvtw.com/hstvs.php?pid=1680
-#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://epg.v1.mk/logo/KBS Story.png" group-title="HS韩国",KBS Story
-http://hdtvtw.com/hstvs.php?pid=1681
-#EXTINF:-1 tvg-name="KBS Life" tvg-logo="https://epg.v1.mk/logo/KBS Life.png" group-title="HS韩国",KBS Life
-http://hdtvtw.com/hstvs.php?pid=1682
-#EXTINF:-1 tvg-name="KBS Joy" tvg-logo="https://epg.v1.mk/logo/KBS Joy.png" group-title="HS韩国",KBS Joy
-http://hdtvtw.com/hstvs.php?pid=1683
-#EXTINF:-1 tvg-name="KBS Kids" tvg-logo="https://epg.v1.mk/logo/KBS Kids.png" group-title="HS韩国",KBS Kids
-http://hdtvtw.com/hstvs.php?pid=1684
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://epg.v1.mk/logo/KBS World.png" group-title="HS韩国",KBS World
-http://hdtvtw.com/hstvs.php?pid=1685
-#EXTINF:-1 tvg-name="KBS News" tvg-logo="https://epg.v1.mk/logo/KBS News.png" group-title="HS韩国",KBS News
-http://hdtvtw.com/hstvs.php?pid=1686
-#EXTINF:-1 tvg-name="KBC SBS" tvg-logo="https://epg.v1.mk/logo/KBC SBS.png" group-title="HS韩国",KBC SBS
-http://hdtvtw.com/hstvs.php?pid=1687
-#EXTINF:-1 tvg-name="K-Star" tvg-logo="https://epg.v1.mk/logo/K-Star.png" group-title="HS韩国",K-Star
-http://hdtvtw.com/hstvs.php?pid=1688
-#EXTINF:-1 tvg-name="KoreaTV" tvg-logo="https://epg.v1.mk/logo/KoreaTV.png" group-title="HS韩国",KoreaTV
-http://hdtvtw.com/hstvs.php?pid=1689
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://epg.v1.mk/logo/SBS.png" group-title="HS韩国",SBS
-http://hdtvtw.com/hstvs.php?pid=1690
-#EXTINF:-1 tvg-name="SBS Plus" tvg-logo="https://epg.v1.mk/logo/SBS Plus.png" group-title="HS韩国",SBS Plus
-http://hdtvtw.com/hstvs.php?pid=1691
-#EXTINF:-1 tvg-name="SBS funE" tvg-logo="https://epg.v1.mk/logo/SBS funE.png" group-title="HS韩国",SBS funE
-http://hdtvtw.com/hstvs.php?pid=1692
-#EXTINF:-1 tvg-name="SBS M" tvg-logo="https://epg.v1.mk/logo/SBS M.png" group-title="HS韩国",SBS M
-http://hdtvtw.com/hstvs.php?pid=1693
-#EXTINF:-1 tvg-name="SBS Biz" tvg-logo="https://epg.v1.mk/logo/SBS Biz.png" group-title="HS韩国",SBS Biz
-http://hdtvtw.com/hstvs.php?pid=1694
-#EXTINF:-1 tvg-name="SK Stoa" tvg-logo="https://epg.v1.mk/logo/SK Stoa.png" group-title="HS韩国",SK Stoa
-http://hdtvtw.com/hstvs.php?pid=1695
-#EXTINF:-1 tvg-name="MBC" tvg-logo="https://epg.v1.mk/logo/MBC.png" group-title="HS韩国",MBC
-http://hdtvtw.com/hstvs.php?pid=1696
-#EXTINF:-1 tvg-name="MBCEvery1" tvg-logo="https://epg.v1.mk/logo/MBCEvery1.png" group-title="HS韩国",MBCEvery1
-http://hdtvtw.com/hstvs.php?pid=1697
-#EXTINF:-1 tvg-name="MBC M" tvg-logo="https://epg.v1.mk/logo/MBC M.png" group-title="HS韩国",MBC M
-http://hdtvtw.com/hstvs.php?pid=1698
-#EXTINF:-1 tvg-name="MBCON" tvg-logo="https://epg.v1.mk/logo/MBCON.png" group-title="HS韩国",MBCON
-http://hdtvtw.com/hstvs.php?pid=1699
-#EXTINF:-1 tvg-name="MBCDrama" tvg-logo="https://epg.v1.mk/logo/MBCDrama.png" group-title="HS韩国",MBCDrama
-http://hdtvtw.com/hstvs.php?pid=1700
-#EXTINF:-1 tvg-name="MBCEntShow24" tvg-logo="https://epg.v1.mk/logo/MBCEntShow24.png" group-title="HS韩国",MBCEntShow24
-http://hdtvtw.com/hstvs.php?pid=1701
-#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://epg.v1.mk/logo/JTBC.png" group-title="HS韩国",JTBC
-http://hdtvtw.com/hstvs.php?pid=1702
-#EXTINF:-1 tvg-name="JTBC Drama" tvg-logo="https://epg.v1.mk/logo/JTBC Drama.png" group-title="HS韩国",JTBC Drama
-http://hdtvtw.com/hstvs.php?pid=1703
-#EXTINF:-1 tvg-name="ArirangKorea" tvg-logo="https://epg.v1.mk/logo/ArirangKorea.png" group-title="HS韩国",ArirangKorea
-http://hdtvtw.com/hstvs.php?pid=1704
-#EXTINF:-1 tvg-name="Channel A" tvg-logo="https://epg.v1.mk/logo/Channel A.png" group-title="HS韩国",Channel A
-http://hdtvtw.com/hstvs.php?pid=1705
-#EXTINF:-1 tvg-name="Channel A Plus" tvg-logo="https://epg.v1.mk/logo/Channel A Plus.png" group-title="HS韩国",Channel A Plus
-http://hdtvtw.com/hstvs.php?pid=1706
-#EXTINF:-1 tvg-name="MBN" tvg-logo="https://epg.v1.mk/logo/MBN.png" group-title="HS韩国",MBN
-http://hdtvtw.com/hstvs.php?pid=1707
-#EXTINF:-1 tvg-name="TV Chosun" tvg-logo="https://epg.v1.mk/logo/TV Chosun.png" group-title="HS韩国",TV Chosun
-http://hdtvtw.com/hstvs.php?pid=1708
-#EXTINF:-1 tvg-name="TV Chosun2" tvg-logo="https://epg.v1.mk/logo/TV Chosun2.png" group-title="HS韩国",TV Chosun2
-http://hdtvtw.com/hstvs.php?pid=1709
-#EXTINF:-1 tvg-name="YTN" tvg-logo="https://epg.v1.mk/logo/YTN.png" group-title="HS韩国",YTN
-http://hdtvtw.com/hstvs.php?pid=1710
-#EXTINF:-1 tvg-name="YonhapNewsTV" tvg-logo="https://epg.v1.mk/logo/YonhapNewsTV.png" group-title="HS韩国",YonhapNewsTV
-http://hdtvtw.com/hstvs.php?pid=1711
-#EXTINF:-1 tvg-name="tVN" tvg-logo="https://epg.v1.mk/logo/tVN.png" group-title="HS韩国",tVN
-http://hdtvtw.com/hstvs.php?pid=1712
-#EXTINF:-1 tvg-name="tVN Story" tvg-logo="https://epg.v1.mk/logo/tVN Story.png" group-title="HS韩国",tVN Story
-http://hdtvtw.com/hstvs.php?pid=1713
-#EXTINF:-1 tvg-name="tVN Show" tvg-logo="https://epg.v1.mk/logo/tVN Show.png" group-title="HS韩国",tVN Show
-http://hdtvtw.com/hstvs.php?pid=1714
-#EXTINF:-1 tvg-name="M NET" tvg-logo="https://epg.v1.mk/logo/M NET.png" group-title="HS韩国",M NET
-http://hdtvtw.com/hstvs.php?pid=1715
-#EXTINF:-1 tvg-name="OCN" tvg-logo="https://epg.v1.mk/logo/OCN.png" group-title="HS韩国",OCN
-http://hdtvtw.com/hstvs.php?pid=1716
-#EXTINF:-1 tvg-name="OMovies" tvg-logo="https://epg.v1.mk/logo/OMovies.png" group-title="HS韩国",OMovies
-http://hdtvtw.com/hstvs.php?pid=1717
-#EXTINF:-1 tvg-name="The Movie" tvg-logo="https://epg.v1.mk/logo/The Movie.png" group-title="HS韩国",The Movie
-http://hdtvtw.com/hstvs.php?pid=1718
-#EXTINF:-1 tvg-name="PLAYY Well" tvg-logo="https://epg.v1.mk/logo/PLAYY Well.png" group-title="HS韩国",PLAYY Well
-http://hdtvtw.com/hstvs.php?pid=1719
-#EXTINF:-1 tvg-name="PLAYY Action Movie" tvg-logo="https://epg.v1.mk/logo/PLAYY Action Movie.png" group-title="HS韩国",PLAYY Action Movie
-http://hdtvtw.com/hstvs.php?pid=1720
-#EXTINF:-1 tvg-name="PLAYY Premium Movie" tvg-logo="https://epg.v1.mk/logo/PLAYY Premium Movie.png" group-title="HS韩国",PLAYY Premium Movie
-http://hdtvtw.com/hstvs.php?pid=1721
-#EXTINF:-1 tvg-name="INDIE Film" tvg-logo="https://epg.v1.mk/logo/INDIE Film.png" group-title="HS韩国",INDIE Film
-http://hdtvtw.com/hstvs.php?pid=1722
-#EXTINF:-1 tvg-name="Catch ON" tvg-logo="https://epg.v1.mk/logo/Catch ON.png" group-title="HS韩国",Catch ON
-http://hdtvtw.com/hstvs.php?pid=1723
-#EXTINF:-1 tvg-name="FTV" tvg-logo="https://epg.v1.mk/logo/FTV.png" group-title="HS韩国",FTV
-http://hdtvtw.com/hstvs.php?pid=1724
-#EXTINF:-1 tvg-name="BadukTV" tvg-logo="https://epg.v1.mk/logo/BadukTV.png" group-title="HS韩国",BadukTV
-http://hdtvtw.com/hstvs.php?pid=1725
-#EXTINF:-1 tvg-name="TVAnimalFarm" tvg-logo="https://epg.v1.mk/logo/TVAnimalFarm.png" group-title="HS韩国",TVAnimalFarm
-http://hdtvtw.com/hstvs.php?pid=1726
-#EXTINF:-1 tvg-name="KBSN Sports" tvg-logo="https://epg.v1.mk/logo/KBSN Sports.png" group-title="HS韩国",KBSN Sports
-http://hdtvtw.com/hstvs.php?pid=1727
-#EXTINF:-1 tvg-name="MBC Sports+" tvg-logo="https://epg.v1.mk/logo/MBC Sports+.png" group-title="HS韩国",MBC Sports+
-http://hdtvtw.com/hstvs.php?pid=1728
-#EXTINF:-1 tvg-name="SBS Sports" tvg-logo="https://epg.v1.mk/logo/SBS Sports.png" group-title="HS韩国",SBS Sports
-http://hdtvtw.com/hstvs.php?pid=1729
-#EXTINF:-1 tvg-name="Spotv" tvg-logo="https://epg.v1.mk/logo/Spotv.png" group-title="HS韩国",Spotv
-http://hdtvtw.com/hstvs.php?pid=1730
-#EXTINF:-1 tvg-name="Spotv 2" tvg-logo="https://epg.v1.mk/logo/Spotv 2.png" group-title="HS韩国",Spotv 2
-http://hdtvtw.com/hstvs.php?pid=1731
-#EXTINF:-1 tvg-name="JTBC Golf&SP" tvg-logo="https://epg.v1.mk/logo/JTBC Golf&SP.png" group-title="HS韩国",JTBC Golf&SP
-http://hdtvtw.com/hstvs.php?pid=1732
-#EXTINF:-1 tvg-name="SKY Sports" tvg-logo="https://epg.v1.mk/logo/SKY Sports.png" group-title="HS韩国",SKY Sports
-http://hdtvtw.com/hstvs.php?pid=1733
-#EXTINF:-1 tvg-name="JTBC Golf" tvg-logo="https://epg.v1.mk/logo/JTBC Golf.png" group-title="HS韩国",JTBC Golf
-http://hdtvtw.com/hstvs.php?pid=1734
-#EXTINF:-1 tvg-name="SBS Golf" tvg-logo="https://epg.v1.mk/logo/SBS Golf.png" group-title="HS韩国",SBS Golf
-http://hdtvtw.com/hstvs.php?pid=1735
-#EXTINF:-1 tvg-name="SBS Golf2" tvg-logo="https://epg.v1.mk/logo/SBS Golf2.png" group-title="HS韩国",SBS Golf2
-http://hdtvtw.com/hstvs.php?pid=1736
-#EXTINF:-1 tvg-name="Anibox" tvg-logo="https://epg.v1.mk/logo/Anibox.png" group-title="HS韩国",Anibox
-http://hdtvtw.com/hstvs.php?pid=1737
-#EXTINF:-1 tvg-name="Anione" tvg-logo="https://epg.v1.mk/logo/Anione.png" group-title="HS韩国",Anione
-http://hdtvtw.com/hstvs.php?pid=1738
-#EXTINF:-1 tvg-name="Toon!verse" tvg-logo="https://epg.v1.mk/logo/Toon!verse.png" group-title="HS韩国",Toon!verse
-http://hdtvtw.com/hstvs.php?pid=1739
-#EXTINF:-1 tvg-name="KidsTalkTalk" tvg-logo="https://epg.v1.mk/logo/KidsTalkTalk.png" group-title="HS韩国",KidsTalkTalk
-http://hdtvtw.com/hstvs.php?pid=1740
-#EXTINF:-1 tvg-name="BoyaoTV" tvg-logo="https://epg.v1.mk/logo/BoyaoTV.png" group-title="HS韩国",BoyaoTV
-http://hdtvtw.com/hstvs.php?pid=1741
-#EXTINF:-1 tvg-name="BravoKids" tvg-logo="https://epg.v1.mk/logo/BravoKids.png" group-title="HS韩国",BravoKids
-http://hdtvtw.com/hstvs.php?pid=1742
-#EXTINF:-1 tvg-name="DaekyoChildrensTV" tvg-logo="https://epg.v1.mk/logo/DaekyoChildrensTV.png" group-title="HS韩国",DaekyoChildrensTV
-http://hdtvtw.com/hstvs.php?pid=1743
-#EXTINF:-1 tvg-name="BilliardsTV" tvg-logo="https://epg.v1.mk/logo/BilliardsTV.png" group-title="HS韩国",BilliardsTV
-http://hdtvtw.com/hstvs.php?pid=1744
-#EXTINF:-1 tvg-name="tVN Sports" tvg-logo="https://epg.v1.mk/logo/tVN Sports.png" group-title="HS韩国",tVN Sports
-http://hdtvtw.com/hstvs.php?pid=1745
-#EXTINF:-1 tvg-name="Spotv Prime" tvg-logo="https://epg.v1.mk/logo/Spotv Prime.png" group-title="HS韩国",Spotv Prime
-http://hdtvtw.com/hstvs.php?pid=1746
-#EXTINF:-1 tvg-name="Inet" tvg-logo="https://epg.v1.mk/logo/Inet.png" group-title="HS韩国",Inet
-http://hdtvtw.com/hstvs.php?pid=1747
-#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://epg.v1.mk/logo/EBS 1.png" group-title="HS韩国",EBS 1
-http://hdtvtw.com/hstvs.php?pid=1748
-#EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://epg.v1.mk/logo/EBS 2.png" group-title="HS韩国",EBS 2
-http://hdtvtw.com/hstvs.php?pid=1749
-#EXTINF:-1 tvg-name="EBS Kids" tvg-logo="https://epg.v1.mk/logo/EBS Kids.png" group-title="HS韩国",EBS Kids
-http://hdtvtw.com/hstvs.php?pid=1750
-#EXTINF:-1 tvg-name="EBS+1" tvg-logo="https://epg.v1.mk/logo/EBS+1.png" group-title="HS韩国",EBS+1
-http://hdtvtw.com/hstvs.php?pid=1751
-#EXTINF:-1 tvg-name="EBS+2" tvg-logo="https://epg.v1.mk/logo/EBS+2.png" group-title="HS韩国",EBS+2
-http://hdtvtw.com/hstvs.php?pid=1752
-#EXTINF:-1 tvg-name="KoreanCentralTelevision" tvg-logo="https://epg.v1.mk/logo/KoreanCentralTelevision.png" group-title="HS韩国",KoreanCentralTelevision
-http://hdtvtw.com/hstvs.php?pid=1753
-#EXTINF:-1 tvg-name="ChannelChina" tvg-logo="https://epg.v1.mk/logo/ChannelChina.png" group-title="HS韩国",ChannelChina
-http://hdtvtw.com/hstvs.php?pid=1754
-#EXTINF:-1 tvg-name="Screen" tvg-logo="https://epg.v1.mk/logo/Screen.png" group-title="HS韩国",Screen
-http://hdtvtw.com/hstvs.php?pid=1755
-#EXTINF:-1 tvg-name="BrainTV" tvg-logo="https://epg.v1.mk/logo/BrainTV.png" group-title="HS韩国",BrainTV
-http://hdtvtw.com/hstvs.php?pid=1756
-#EXTINF:-1 tvg-name="BTN BuddhistTV" tvg-logo="https://epg.v1.mk/logo/BTN BuddhistTV.png" group-title="HS韩国",BTN BuddhistTV
-http://hdtvtw.com/hstvs.php?pid=1757
-#EXTINF:-1 tvg-name="CTS" tvg-logo="https://epg.v1.mk/logo/CTS.png" group-title="HS韩国",CTS
-http://hdtvtw.com/hstvs.php?pid=1758
-#EXTINF:-1 tvg-name="GTV Luxury" tvg-logo="https://epg.v1.mk/logo/GTV Luxury.png" group-title="HS韩国",GTV Luxury
-http://hdtvtw.com/hstvs.php?pid=1759
-#EXTINF:-1 tvg-name="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="HS新加坡",Suria
+#EXTINF:-1 tvg-name="Suria" tvg-logo="https://poster.starhubgo.com/Linear_channels2/104_1920x1080_HTV.png" group-title="📡新加坡频道📺",Suria
 http://hdtvtw.com/hstvs.php?pid=1424
-#EXTINF:-1 tvg-name="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="HS新加坡",Ch 5
+#EXTINF:-1 tvg-name="Ch 5" tvg-logo="https://poster.starhubgo.com/Linear_channels2/102_1920x1080_HTV.png" group-title="📡新加坡频道📺",Ch 5
 http://hdtvtw.com/hstvs.php?pid=1425
-#EXTINF:-1 tvg-name="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="HS新加坡",Ch 8
+#EXTINF:-1 tvg-name="Ch 8" tvg-logo="https://poster.starhubgo.com/Linear_channels2/103_1920x1080_HTV.png" group-title="📡新加坡频道📺",Ch 8
 http://hdtvtw.com/hstvs.php?pid=1426
-#EXTINF:-1 tvg-name="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="HS新加坡",Ch U
+#EXTINF:-1 tvg-name="Ch U" tvg-logo="https://poster.starhubgo.com/Linear_channels2/107_1920x1080_HTV.png" group-title="📡新加坡频道📺",Ch U
 http://hdtvtw.com/hstvs.php?pid=1427
-#EXTINF:-1 tvg-name="TVB Jade [SG]" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="HS新加坡",华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.xyz/logo/华丽翡翠台.png" group-title="📡新加坡频道📺",华丽翡翠台
 http://hdtvtw.com/hstvs.php?pid=1428
-#EXTINF:-1 tvg-name="TVB Xing He [SG]" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="HS新加坡",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="📡新加坡频道📺",TVB星河
 http://hdtvtw.com/hstvs.php?pid=1429
-#EXTINF:-1 tvg-name="Celestial Movies [SG]" tvg-logo="https://epg.v1.mk/logo/Celestial Movies [SG].png" group-title="HS新加坡",Celestial Movies 
+#EXTINF:-1 tvg-name="Celestial Movies [SG]" tvg-logo="https://epg.112114.xyz/logo/Celestial Movies [SG].png" group-title="📡新加坡频道📺",Celestial Movies [SG]
 http://hdtvtw.com/hstvs.php?pid=1430
-#EXTINF:-1 tvg-name="娱家台" tvg-logo="https://epg.v1.mk/logo/娱家台.png" group-title="HS新加坡",娱家台
+#EXTINF:-1 tvg-name="娱家台" tvg-logo="https://epg.112114.xyz/logo/娱家台.png" group-title="📡新加坡频道📺",娱家台
 http://hdtvtw.com/hstvs.php?pid=1431
-#EXTINF:-1 tvg-name="都会台" tvg-logo="https://epg.v1.mk/logo/都会台.png" group-title="HS新加坡",都会台
+#EXTINF:-1 tvg-name="都会台" tvg-logo="https://epg.112114.xyz/logo/都会台.png" group-title="📡新加坡频道📺",都会台
 http://hdtvtw.com/hstvs.php?pid=1432
-#EXTINF:-1 tvg-name="Astro Sensasi" tvg-logo="https://epg.v1.mk/logo/Astro Sensasi.png" group-title="HS新加坡",Astro Sensasi
+#EXTINF:-1 tvg-name="Astro Sensasi" tvg-logo="https://epg.112114.xyz/logo/Astro Sensasi.png" group-title="📡新加坡频道📺",Astro Sensasi
 http://hdtvtw.com/hstvs.php?pid=1433
-#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://epg.v1.mk/logo/Vasantham.png" group-title="HS新加坡",Vasantham
+#EXTINF:-1 tvg-name="Vasantham" tvg-logo="https://epg.112114.xyz/logo/Vasantham.png" group-title="📡新加坡频道📺",Vasantham
 http://hdtvtw.com/hstvs.php?pid=1434
-#EXTINF:-1 tvg-name="HBO [SG]" tvg-logo="https://epg.v1.mk/logo/HBO.png" group-title="HS新加坡",HBO 
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="📡新加坡频道📺",HBO
 http://hdtvtw.com/hstvs.php?pid=1435
-#EXTINF:-1 tvg-name="HBO Family [SG]" tvg-logo="https://epg.v1.mk/logo/HBOFamily.png" group-title="HS新加坡",HBO Family 
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://epg.112114.xyz/logo/HBO Family.png" group-title="📡新加坡频道📺",HBO Family
 http://hdtvtw.com/hstvs.php?pid=1436
-#EXTINF:-1 tvg-name="HBO Hits [SG]" tvg-logo="https://epg.v1.mk/logo/HBOHits.png" group-title="HS新加坡",HBO Hits 
+#EXTINF:-1 tvg-name="HBO Hits" tvg-logo="https://epg.112114.xyz/logo/HBO Hits.png" group-title="📡新加坡频道📺",HBO Hits
 http://hdtvtw.com/hstvs.php?pid=1437
-#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://epg.v1.mk/logo/HBO Signature.png" group-title="HS新加坡",HBO Signature
+#EXTINF:-1 tvg-name="HBO Signature" tvg-logo="https://epg.112114.xyz/logo/HBO Signature.png" group-title="📡新加坡频道📺",HBO Signature
 http://hdtvtw.com/hstvs.php?pid=1438
-#EXTINF:-1 tvg-name="CINEMAX [SG]" tvg-logo="https://epg.v1.mk/logo/CINEMAX.png" group-title="HS新加坡",CINEMAX 
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="📡新加坡频道📺",CINEMAX
 http://hdtvtw.com/hstvs.php?pid=1439
-#EXTINF:-1 tvg-name="Travelxp" tvg-logo="https://epg.v1.mk/logo/TRAVELXP.png" group-title="HS新加坡",Travelxp
+#EXTINF:-1 tvg-name="Travelxp" tvg-logo="https://epg.112114.xyz/logo/Travelxp.png" group-title="📡新加坡频道📺",Travelxp
 http://hdtvtw.com/hstvs.php?pid=1440
-#EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.v1.mk/logo/Animax.png" group-title="HS新加坡",Animax
+#EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" group-title="📡新加坡频道📺",Animax
 http://hdtvtw.com/hstvs.php?pid=1441
-#EXTINF:-1 tvg-name="now70s" tvg-logo="https://epg.v1.mk/logo/now70s.png" group-title="HS新加坡",now70s
+#EXTINF:-1 tvg-name="now70s" tvg-logo="https://epg.112114.xyz/logo/NOW70s.png" group-title="📡新加坡频道📺",now70s
 http://hdtvtw.com/hstvs.php?pid=1442
-#EXTINF:-1 tvg-name="now80s" tvg-logo="https://epg.v1.mk/logo/now80s.png" group-title="HS新加坡",now80s
+#EXTINF:-1 tvg-name="now80s" tvg-logo="https://epg.112114.xyz/logo/now80s.png" group-title="📡新加坡频道📺",now80s
 http://hdtvtw.com/hstvs.php?pid=1443
-#EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://epg.v1.mk/logo/NOWROCK.png" group-title="HS新加坡",Now Rock
+#EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://epg.112114.xyz/logo/Now Rock.png" group-title="📡新加坡频道📺",Now Rock
 http://hdtvtw.com/hstvs.php?pid=1444
-#EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://epg.v1.mk/logo/TRACE Urban.png" group-title="HS新加坡",TRACE Urban
+#EXTINF:-1 tvg-name="TRACE Urban" tvg-logo="https://epg.112114.xyz/logo/TRACE Urban.png" group-title="📡新加坡频道📺",TRACE Urban
 http://hdtvtw.com/hstvs.php?pid=1445
-#EXTINF:-1 tvg-name="Hub Sports 1" tvg-logo="https://epg.v1.mk/logo/HUBSPORTS1.png" group-title="HS新加坡",Hub Sports 1
+#EXTINF:-1 tvg-name="Hub Sports 1" tvg-logo="https://epg.112114.xyz/logo/Hub Sports 1.png" group-title="📡新加坡频道📺",Hub Sports 1
 http://hdtvtw.com/hstvs.php?pid=1446
-#EXTINF:-1 tvg-name="Hub Sports 2" tvg-logo="https://epg.v1.mk/logo/HUBSPORTS2.png" group-title="HS新加坡",Hub Sports 2
+#EXTINF:-1 tvg-name="Hub Sports 2" tvg-logo="https://epg.112114.xyz/logo/Hub Sports 2.png" group-title="📡新加坡频道📺",Hub Sports 2
 http://hdtvtw.com/hstvs.php?pid=1447
-#EXTINF:-1 tvg-name="Hub Sports 3" tvg-logo="https://epg.v1.mk/logo/HUBSPORTS3.png" group-title="HS新加坡",Hub Sports 3
+#EXTINF:-1 tvg-name="Hub Sports 3" tvg-logo="https://epg.112114.xyz/logo/Hub Sports 3.png" group-title="📡新加坡频道📺",Hub Sports 3
 http://hdtvtw.com/hstvs.php?pid=1448
-#EXTINF:-1 tvg-name="Hub Sports 4" tvg-logo="https://epg.v1.mk/logo/HUBSPORTS4.png" group-title="HS新加坡",Hub Sports 4
+#EXTINF:-1 tvg-name="Hub Sports 4" tvg-logo="https://epg.112114.xyz/logo/Hub Sports 4.png" group-title="📡新加坡频道📺",Hub Sports 4
 http://hdtvtw.com/hstvs.php?pid=1449
-#EXTINF:-1 tvg-name="Hub Sports 5" tvg-logo="https://epg.v1.mk/logo/HUBSPORTS5.png" group-title="HS新加坡",Hub Sports 5
+#EXTINF:-1 tvg-name="Hub Sports 5" tvg-logo="https://epg.112114.xyz/logo/Hub Sports 5.png" group-title="📡新加坡频道📺",Hub Sports 5
 http://hdtvtw.com/hstvs.php?pid=1450
-#EXTINF:-1 tvg-name="Hub Premier 1" tvg-logo="https://epg.v1.mk/logo/Hub Premier 1.png" group-title="HS新加坡",Hub Premier 1
+#EXTINF:-1 tvg-name="Hub Premier 1" tvg-logo="https://epg.112114.xyz/logo/Hub Premier 1.png" group-title="📡新加坡频道📺",Hub Premier 1
 http://hdtvtw.com/hstvs.php?pid=1451
-#EXTINF:-1 tvg-name="Hub Premier 2" tvg-logo="https://epg.v1.mk/logo/Hub Premier 2.png" group-title="HS新加坡",Hub Premier 2
+#EXTINF:-1 tvg-name="Hub Premier 2" tvg-logo="https://epg.112114.xyz/logo/Hub Premier 2.png" group-title="📡新加坡频道📺",Hub Premier 2
 http://hdtvtw.com/hstvs.php?pid=1452
-#EXTINF:-1 tvg-name="Hub Premier 3" tvg-logo="https://epg.v1.mk/logo/Hub Premier 3.png" group-title="HS新加坡",Hub Premier 3
+#EXTINF:-1 tvg-name="Hub Premier 3" tvg-logo="https://epg.112114.xyz/logo/Hub Premier 3.png" group-title="📡新加坡频道📺",Hub Premier 3
 http://hdtvtw.com/hstvs.php?pid=1453
-#EXTINF:-1 tvg-name="Hub Premier 4" tvg-logo="https://epg.v1.mk/logo/Hub Premier 4.png" group-title="HS新加坡",Hub Premier 4
+#EXTINF:-1 tvg-name="Hub Premier 4" tvg-logo="https://epg.112114.xyz/logo/Hub Premier 4.png" group-title="📡新加坡频道📺",Hub Premier 4
 http://hdtvtw.com/hstvs.php?pid=1454
-#EXTINF:-1 tvg-name="Hub Premier 5" tvg-logo="https://epg.v1.mk/logo/Hub Premier 5.png" group-title="HS新加坡",Hub Premier 5
+#EXTINF:-1 tvg-name="Hub Premier 5" tvg-logo="https://epg.112114.xyz/logo/Hub Premier 5.png" group-title="📡新加坡频道📺",Hub Premier 5
 http://hdtvtw.com/hstvs.php?pid=1455
-#EXTINF:-1 tvg-name="Hub Premier 6" tvg-logo="https://epg.v1.mk/logo/Hub Premier 6.png" group-title="HS新加坡",Hub Premier 6
+#EXTINF:-1 tvg-name="Hub Premier 6" tvg-logo="https://epg.112114.xyz/logo/Hub Premier 6.png" group-title="📡新加坡频道📺",Hub Premier 6
 http://hdtvtw.com/hstvs.php?pid=1456
-#EXTINF:-1 tvg-name="Hub Premier 7" tvg-logo="https://epg.v1.mk/logo/Hub Premier 7.png" group-title="HS新加坡",Hub Premier 7
+#EXTINF:-1 tvg-name="Hub Premier 7" tvg-logo="https://epg.112114.xyz/logo/Hub Premier 7.png" group-title="📡新加坡频道📺",Hub Premier 7
 http://hdtvtw.com/hstvs.php?pid=1457
-#EXTINF:-1 tvg-name="TV1" tvg-logo="https://epg.v1.mk/logo/TV1.png" group-title="HS马来",TV1
+#EXTINF:-1 tvg-name="TV1" tvg-logo="https://epg.112114.xyz/logo/TV1.png" group-title="📡马来频道📺",TV1
 http://hdtvtw.com/hstvs.php?pid=1298
-#EXTINF:-1 tvg-name="TV2" tvg-logo="https://epg.v1.mk/logo/TV2.png" group-title="HS马来",TV2
+#EXTINF:-1 tvg-name="TV2" tvg-logo="https://epg.112114.xyz/logo/TV2.png" group-title="📡马来频道📺",TV2
 http://hdtvtw.com/hstvs.php?pid=1299
-#EXTINF:-1 tvg-name="TV3" tvg-logo="https://epg.v1.mk/logo/TV3.png" group-title="HS马来",TV3
+#EXTINF:-1 tvg-name="TV3" tvg-logo="https://epg.112114.xyz/logo/TV3.png" group-title="📡马来频道📺",TV3
 http://hdtvtw.com/hstvs.php?pid=1300
-#EXTINF:-1 tvg-name="RTM Asean" tvg-logo="https://epg.v1.mk/logo/RTM Asean.png" group-title="HS马来",RTM Asean
+#EXTINF:-1 tvg-name="RTM Asean" tvg-logo="https://epg.112114.xyz/logo/RTMASEAN.png" group-title="📡马来频道📺",RTM Asean
 http://hdtvtw.com/hstvs.php?pid=1301
-#EXTINF:-1 tvg-name="SukanRTM" tvg-logo="https://epg.v1.mk/logo/SukanRTM.png" group-title="HS马来",SukanRTM
+#EXTINF:-1 tvg-name="SukanRTM" tvg-logo="https://epg.112114.xyz/logo/SUKANRTM.png" group-title="📡马来频道📺",SukanRTM
 http://hdtvtw.com/hstvs.php?pid=1302
-#EXTINF:-1 tvg-name="BeritaRTM" tvg-logo="https://epg.v1.mk/logo/BeritaRTM.png" group-title="HS马来",BeritaRTM
+#EXTINF:-1 tvg-name="BeritaRTM" tvg-logo="https://epg.112114.xyz/logo/BERITARTM.png" group-title="📡马来频道📺",BeritaRTM
 http://hdtvtw.com/hstvs.php?pid=1303
-#EXTINF:-1 tvg-name="Drama Sangat" tvg-logo="https://epg.v1.mk/logo/Drama Sangat.png" group-title="HS马来",Drama Sangat
+#EXTINF:-1 tvg-name="Drama Sangat" tvg-logo="https://epg.112114.xyz/logo/Drama Sangat.png" group-title="📡马来频道📺",Drama Sangat
 http://hdtvtw.com/hstvs.php?pid=1304
-#EXTINF:-1 tvg-name="Home Of Kids" tvg-logo="https://epg.v1.mk/logo/Home Of Kids.png" group-title="HS马来",Home Of Kids
+#EXTINF:-1 tvg-name="Home Of Kids" tvg-logo="https://epg.112114.xyz/logo/Home Of Kids.png" group-title="📡马来频道📺",Home Of Kids
 http://hdtvtw.com/hstvs.php?pid=1305
-#EXTINF:-1 tvg-name="Astro Ria" tvg-logo="https://epg.v1.mk/logo/Astro Ria.png" group-title="HS马来",Astro Ria
+#EXTINF:-1 tvg-name="Astro Ria" tvg-logo="https://epg.112114.xyz/logo/Astro Ria.png" group-title="📡马来频道📺",Astro Ria
 http://hdtvtw.com/hstvs.php?pid=1306
-#EXTINF:-1 tvg-name="Astro Prima" tvg-logo="https://epg.v1.mk/logo/Astro Prima.png" group-title="HS马来",Astro Prima
+#EXTINF:-1 tvg-name="Astro Prima" tvg-logo="https://epg.112114.xyz/logo/Astro Prima.png" group-title="📡马来频道📺",Astro Prima
 http://hdtvtw.com/hstvs.php?pid=1307
-#EXTINF:-1 tvg-name="Astro Oasis" tvg-logo="https://epg.v1.mk/logo/Astro Oasis.png" group-title="HS马来",Astro Oasis
+#EXTINF:-1 tvg-name="Astro Oasis" tvg-logo="https://epg.112114.xyz/logo/Astro Oasis.png" group-title="📡马来频道📺",Astro Oasis
 http://hdtvtw.com/hstvs.php?pid=1308
-#EXTINF:-1 tvg-name="Astro Citra" tvg-logo="https://epg.v1.mk/logo/Astro Citra.png" group-title="HS马来",Astro Citra
+#EXTINF:-1 tvg-name="Astro Citra" tvg-logo="https://epg.112114.xyz/logo/Astro Citra.png" group-title="📡马来频道📺",Astro Citra
 http://hdtvtw.com/hstvs.php?pid=1309
-#EXTINF:-1 tvg-name="Astro Rania" tvg-logo="https://epg.v1.mk/logo/Astro Rania.png" group-title="HS马来",Astro Rania
+#EXTINF:-1 tvg-name="Astro Rania" tvg-logo="https://epg.112114.xyz/logo/Astro Rania.png" group-title="📡马来频道📺",Astro Rania
 http://hdtvtw.com/hstvs.php?pid=1310
-#EXTINF:-1 tvg-name="Astro Aura" tvg-logo="https://epg.v1.mk/logo/Astro Aura.png" group-title="HS马来",Astro Aura
+#EXTINF:-1 tvg-name="Astro Aura" tvg-logo="https://epg.112114.xyz/logo/Astro Aura.png" group-title="📡马来频道📺",Astro Aura
 http://hdtvtw.com/hstvs.php?pid=1311
-#EXTINF:-1 tvg-name="Al-Hijrah" tvg-logo="https://epg.v1.mk/logo/Al-Hijrah.png" group-title="HS马来",Al-Hijrah
+#EXTINF:-1 tvg-name="Al-Hijrah" tvg-logo="https://epg.112114.xyz/logo/Al-Hijrah.png" group-title="📡马来频道📺",Al-Hijrah
 http://hdtvtw.com/hstvs.php?pid=1312
-#EXTINF:-1 tvg-name="Colors Hindi" tvg-logo="https://epg.v1.mk/logo/Colors Hindi.png" group-title="HS马来",Colors Hindi
+#EXTINF:-1 tvg-name="Colors Hindi" tvg-logo="https://epg.112114.xyz/logo/Colors Hindi.png" group-title="📡马来频道📺",Colors Hindi
 http://hdtvtw.com/hstvs.php?pid=1313
-#EXTINF:-1 tvg-name="TV Sarawak" tvg-logo="https://epg.v1.mk/logo/TV Sarawak.png" group-title="HS马来",TV Sarawak
+#EXTINF:-1 tvg-name="TV Sarawak" tvg-logo="https://epg.112114.xyz/logo/TV Sarawak.png" group-title="📡马来频道📺",TV Sarawak
 http://hdtvtw.com/hstvs.php?pid=1314
-#EXTINF:-1 tvg-name="AwesomeTV" tvg-logo="https://epg.v1.mk/logo/AwesomeTV.png" group-title="HS马来",AwesomeTV
+#EXTINF:-1 tvg-name="AwesomeTV" tvg-logo="https://epg.112114.xyz/logo/AWESOMETV.png" group-title="📡马来频道📺",AwesomeTV
 http://hdtvtw.com/hstvs.php?pid=1315
-#EXTINF:-1 tvg-name="TV Okey" tvg-logo="https://epg.v1.mk/logo/TV Okey.png" group-title="HS马来",TV Okey
+#EXTINF:-1 tvg-name="TV Okey" tvg-logo="https://epg.112114.xyz/logo/TV Okey.png" group-title="📡马来频道📺",TV Okey
 http://hdtvtw.com/hstvs.php?pid=1316
-#EXTINF:-1 tvg-name="DidikTV7" tvg-logo="https://epg.v1.mk/logo/TV7.png" group-title="HS马来",DidikTV7
+#EXTINF:-1 tvg-name="DidikTV7" tvg-logo="https://epg.112114.xyz/logo/DidikTV7.png" group-title="📡马来频道📺",DidikTV7
 http://hdtvtw.com/hstvs.php?pid=1317
-#EXTINF:-1 tvg-name="8TV 八度空间" tvg-logo="https://epg.v1.mk/logo/8TV.png" group-title="HS马来",8TV 八度空间
+#EXTINF:-1 tvg-name="8TV" tvg-logo="https://epg.112114.xyz/logo/8TV.png" group-title="📡马来频道📺",8TV
 http://hdtvtw.com/hstvs.php?pid=1318
-#EXTINF:-1 tvg-name="9TV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV9_v1.png" group-title="HS马来",9TV
+#EXTINF:-1 tvg-name="9TV" tvg-logo="https://epg.112114.xyz/logo/9TV.png" group-title="📡马来频道📺",9TV
 http://hdtvtw.com/hstvs.php?pid=1319
-#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="https://epg.v1.mk/logo/Astro Vaanavil.png" group-title="HS马来",Astro Vaanavil
+#EXTINF:-1 tvg-name="Astro Vaanavil" tvg-logo="https://epg.112114.xyz/logo/Astro Vaanavil.png" group-title="📡马来频道📺",Astro Vaanavil
 http://hdtvtw.com/hstvs.php?pid=1320
-#EXTINF:-1 tvg-name="Astro Vinmeen" tvg-logo="https://epg.v1.mk/logo/Astro Vinmeen.png" group-title="HS马来",Astro Vinmeen
+#EXTINF:-1 tvg-name="Astro Vinmeen" tvg-logo="https://epg.112114.xyz/logo/Astro Vinmeen.png" group-title="📡马来频道📺",Astro Vinmeen
 http://hdtvtw.com/hstvs.php?pid=1321
-#EXTINF:-1 tvg-name="Astro Vellithirai" tvg-logo="https://epg.v1.mk/logo/Astro Vellithirai.png" group-title="HS马来",Astro Vellithirai
+#EXTINF:-1 tvg-name="Astro Vellithirai" tvg-logo="https://epg.112114.xyz/logo/Astro Vellithirai.png" group-title="📡马来频道📺",Astro Vellithirai
 http://hdtvtw.com/hstvs.php?pid=1322
-#EXTINF:-1 tvg-name="Sun TV" tvg-logo="https://epg.v1.mk/logo/SUNTV.png" group-title="HS马来",Sun TV
+#EXTINF:-1 tvg-name="SUNTV" tvg-logo="https://epg.112114.xyz/logo/SUNTV.png" group-title="📡马来频道📺",SUNTV
 http://hdtvtw.com/hstvs.php?pid=1323
-#EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://epg.v1.mk/logo/Sun Music.png" group-title="HS马来",Sun Music
+#EXTINF:-1 tvg-name="Sun Music" tvg-logo="https://epg.112114.xyz/logo/Sun Music.png" group-title="📡马来频道📺",Sun Music
 http://hdtvtw.com/hstvs.php?pid=1324
-#EXTINF:-1 tvg-name="Sun News" tvg-logo="https://epg.v1.mk/logo/SUNNEWS.png" group-title="HS马来",Sun News
+#EXTINF:-1 tvg-name="Sun News" tvg-logo="https://epg.112114.xyz/logo/Sun News.png" group-title="📡马来频道📺",Sun News
 http://hdtvtw.com/hstvs.php?pid=1325
-#EXTINF:-1 tvg-name="KTV" tvg-logo="https://epg.v1.mk/logo/KTV.png" group-title="HS马来",KTV
+#EXTINF:-1 tvg-name="KTV" tvg-logo="https://epg.112114.xyz/logo/KTV.png" group-title="📡马来频道📺",KTV
 http://hdtvtw.com/hstvs.php?pid=1326
-#EXTINF:-1 tvg-name="Sun Life" tvg-logo="https://epg.v1.mk/logo/SUNLIFE.png" group-title="HS马来",Sun Life
+#EXTINF:-1 tvg-name="Sun Life" tvg-logo="https://epg.112114.xyz/logo/Sun Life.png" group-title="📡马来频道📺",Sun Life
 http://hdtvtw.com/hstvs.php?pid=1327
-#EXTINF:-1 tvg-name="Star Vijay" tvg-logo="https://epg.v1.mk/logo/Star Vijay.png" group-title="HS马来",Star Vijay
+#EXTINF:-1 tvg-name="Star Vijay" tvg-logo="https://epg.112114.xyz/logo/Star Vijay.png" group-title="📡马来频道📺",Star Vijay
 http://hdtvtw.com/hstvs.php?pid=1328
-#EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://epg.v1.mk/logo/Colors Tamil.png" group-title="HS马来",Colors Tamil
+#EXTINF:-1 tvg-name="Colors Tamil" tvg-logo="https://epg.112114.xyz/logo/Colors Tamil.png" group-title="📡马来频道📺",Colors Tamil
 http://hdtvtw.com/hstvs.php?pid=1329
-#EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://epg.v1.mk/logo/Zee Tamil.png" group-title="HS马来",Zee Tamil
+#EXTINF:-1 tvg-name="Zee Tamil" tvg-logo="https://epg.112114.xyz/logo/Zee Tamil.png" group-title="📡马来频道📺",Zee Tamil
 http://hdtvtw.com/hstvs.php?pid=1330
-#EXTINF:-1 tvg-name="Astro Thangathirai" tvg-logo="https://epg.v1.mk/logo/ASTROTHANGATHIRAI.png" group-title="HS马来",Astro Thangathirai
+#EXTINF:-1 tvg-name="Astro Thangathirai" tvg-logo="https://epg.112114.xyz/logo/Astro Thangathirai.png" group-title="📡马来频道📺",Astro Thangathirai
 http://hdtvtw.com/hstvs.php?pid=1331
-#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://epg.v1.mk/logo/ZEECINEMA.png" group-title="HS马来",Zee Cinema
+#EXTINF:-1 tvg-name="Zee Cinema" tvg-logo="https://epg.112114.xyz/logo/Zee Cinema.png" group-title="📡马来频道📺",Zee Cinema
 http://hdtvtw.com/hstvs.php?pid=1332
-#EXTINF:-1 tvg-name="iQIYI爱奇艺" tvg-logo="https://epg.v1.mk/logo/iQIYI.png" group-title="HS马来",iQIYI爱奇艺
+#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://epg.112114.xyz/logo/iQIYI.png" group-title="📡马来频道📺",iQIYI
 http://hdtvtw.com/hstvs.php?pid=1333
-#EXTINF:-1 tvg-name="TVB Classic" tvg-logo="https://epg.v1.mk/logo/千禧经典.png" group-title="HS马来",千禧经典
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://epg.112114.xyz/logo/千禧经典.png" group-title="📡马来频道📺",千禧经典
 http://hdtvtw.com/hstvs.php?pid=1334
-#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.v1.mk/logo/Astro AEC.png" group-title="HS马来",Astro AEC
+#EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.112114.xyz/logo/Astro AEC.png" group-title="📡马来频道📺",Astro AEC
 http://hdtvtw.com/hstvs.php?pid=1335
-#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/158_144.png" group-title="HS马来",Astro QJ
+#EXTINF:-1 tvg-name="Astro QJ" tvg-logo="https://epg.112114.xyz/logo/ASTROQJ.png" group-title="📡马来频道📺",Astro QJ
 http://hdtvtw.com/hstvs.php?pid=1336
-#EXTINF:-1 tvg-name="Celestial Movies" tvg-logo="https://epg.v1.mk/logo/Celestial Movies.png" group-title="HS马来",天映频道
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://epg.112114.xyz/logo/天映频道.png" group-title="📡马来频道📺",天映频道
 http://hdtvtw.com/hstvs.php?pid=1337
-#EXTINF:-1 tvg-name="TVB Jade" tvg-logo="https://epg.v1.mk/logo/TVB Jade.png" group-title="HS马来",华丽翡翠台
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://epg.112114.xyz/logo/华丽翡翠台.png" group-title="📡马来频道📺",华丽翡翠台
 http://hdtvtw.com/hstvs.php?pid=1338
-#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.v1.mk/logo/ASTROAOD.png" group-title="HS马来",AstroAOD
+#EXTINF:-1 tvg-name="Astro AOD" tvg-logo="https://epg.112114.xyz/logo/ASTROAOD.png" group-title="📡马来频道📺",Astro AOD
 http://hdtvtw.com/hstvs.php?pid=1339
-#EXTINF:-1 tvg-name="CTI Asia" tvg-logo="https://epg.v1.mk/logo/CTI Asia.png" group-title="HS马来",CTI Asia
+#EXTINF:-1 tvg-name="CTI Asia" tvg-logo="https://epg.112114.xyz/logo/CTI Asia.png" group-title="📡马来频道📺",CTI Asia
 http://hdtvtw.com/hstvs.php?pid=1340
-#EXTINF:-1 tvg-name="TVB Entertainment News" tvg-logo="https://epg.v1.mk/logo/TVB Entertainment News.png" group-title="HS马来",TVB娱乐新闻
+#EXTINF:-1 tvg-name="TVB娱乐新闻" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻.png" group-title="📡马来频道📺",TVB娱乐新闻
 http://hdtvtw.com/hstvs.php?pid=1341
-#EXTINF:-1 tvg-name="TVB Xing He" tvg-logo="https://epg.v1.mk/logo/TVB Xing He.png" group-title="HS马来",TVB星河
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://epg.112114.xyz/logo/TVB星河.png" group-title="📡马来频道📺",TVB星河
 http://hdtvtw.com/hstvs.php?pid=1342
-#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.v1.mk/logo/TVBS Asia.png" group-title="HS马来",TVBSAsia
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-logo="https://epg.112114.xyz/logo/TVBS Asia.png" group-title="📡马来频道📺",TVBS Asia
 http://hdtvtw.com/hstvs.php?pid=1343
-#EXTINF:-1 tvg-name="Celestial Classic Movies" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="HS马来",Celestial Classic Movies
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="📡马来频道📺",天映经典
 http://hdtvtw.com/hstvs.php?pid=1344
-#EXTINF:-1 tvg-name="Phoenix Chinese Channel" tvg-logo="https://epg.v1.mk/logo/Phoenix Chinese Channel.png" group-title="HS马来",Phoenix Chinese Channel
+#EXTINF:-1 tvg-name="Phoenix Chinese Channel" tvg-logo="https://epg.112114.xyz/logo/Phoenix Chinese Channel.png" group-title="📡马来频道📺",Phoenix Chinese Channel
 http://hdtvtw.com/hstvs.php?pid=1345
-#EXTINF:-1 tvg-name="Phoenix Info News" tvg-logo="https://epg.v1.mk/logo/Phoenix Info News.png" group-title="HS马来",Phoenix Info News
+#EXTINF:-1 tvg-name="Phoenix Info News" tvg-logo="https://epg.112114.xyz/logo/Phoenix Info News.png" group-title="📡马来频道📺",Phoenix Info News
 http://hdtvtw.com/hstvs.php?pid=1346
-#EXTINF:-1 tvg-name="Astro 欢喜台" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroHuaHeeDai_2024.png" group-title="HS马来",Astro 欢喜台
+#EXTINF:-1 tvg-name="ASTRO欢喜台" tvg-logo="https://epg.112114.xyz/logo/ASTRO欢喜台.png" group-title="📡马来频道📺",ASTRO欢喜台
 http://hdtvtw.com/hstvs.php?pid=1347
-#EXTINF:-1 tvg-name="KBS World" tvg-logo="https://epg.v1.mk/logo/KBS World.png" group-title="HS印尼",KBS World
-http://hdtvtw.com/hstvs.php?pid=1349
-#EXTINF:-1 tvg-name="ONE" tvg-logo="https://epg.v1.mk/logo/ONE.png" group-title="HS印尼",ONE
-http://hdtvtw.com/hstvs.php?pid=1350
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN.png" group-title="HS印尼",tvN
-http://hdtvtw.com/hstvs.php?pid=1351
-#EXTINF:-1 tvg-name="K-Plus" tvg-logo="https://epg.v1.mk/logo/K-Plus.png" group-title="HS印尼",K-Plus
-http://hdtvtw.com/hstvs.php?pid=1352
-#EXTINF:-1 tvg-name="NWorld Premium" tvg-logo="https://epg.v1.mk/logo/NWorld Premium.png" group-title="HS印尼",NWorld Premium
-http://hdtvtw.com/hstvs.php?pid=1353
-#EXTINF:-1 tvg-name="HITS Movies" tvg-logo="https://epg.v1.mk/logo/HITS Movies.png" group-title="HS印尼",HITS Movies
-http://hdtvtw.com/hstvs.php?pid=1354
-#EXTINF:-1 tvg-name="Astro Boo" tvg-logo="https://epg.v1.mk/logo/Astro Boo.png" group-title="HS印尼",Astro Boo
-http://hdtvtw.com/hstvs.php?pid=1355
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://epg.v1.mk/logo/CINEMAX.png" group-title="HS印尼",CINEMAX
-http://hdtvtw.com/hstvs.php?pid=1357
-#EXTINF:-1 tvg-name="Astro ShowCase" tvg-logo="https://epg.v1.mk/logo/Astro ShowCase.png" group-title="HS印尼",Astro ShowCase
-http://hdtvtw.com/hstvs.php?pid=1358
-#EXTINF:-1 tvg-name="tvN Movies" tvg-logo="https://epg.v1.mk/logo/tvN Movies.png" group-title="HS印尼",tvN Movies
-http://hdtvtw.com/hstvs.php?pid=1361
-#EXTINF:-1 tvg-name="Astro Awani" tvg-logo="https://epg.v1.mk/logo/Astro Awani.png" group-title="HS印尼",Astro Awani
-http://hdtvtw.com/hstvs.php?pid=1362
-#EXTINF:-1 tvg-name="Bernama" tvg-logo="https://epg.v1.mk/logo/Bernama.png" group-title="HS印尼",Bernama
-http://hdtvtw.com/hstvs.php?pid=1363
-#EXTINF:-1 tvg-name="CNN" tvg-logo="https://epg.v1.mk/logo/CNN.png" group-title="HS印尼",CNN
-http://hdtvtw.com/hstvs.php?pid=1365
-#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://epg.v1.mk/logo/BBC News.png" group-title="HS印尼",BBC News
-http://hdtvtw.com/hstvs.php?pid=1366
-#EXTINF:-1 tvg-name="Al Jazeera English" tvg-logo="https://epg.v1.mk/logo/Al Jazeera English.png" group-title="HS印尼",Al Jazeera English
-http://hdtvtw.com/hstvs.php?pid=1367
-#EXTINF:-1 tvg-name="Sky News" tvg-logo="https://epg.v1.mk/logo/Sky News.png" group-title="HS印尼",Sky News
-http://hdtvtw.com/hstvs.php?pid=1368
-#EXTINF:-1 tvg-name="CNA" tvg-logo="https://epg.v1.mk/logo/CNA.png" group-title="HS印尼",CNA
-http://hdtvtw.com/hstvs.php?pid=1369
-#EXTINF:-1 tvg-name="CNBC Asia" tvg-logo="https://epg.v1.mk/logo/CNBC Asia.png" group-title="HS印尼",CNBC Asia
-http://hdtvtw.com/hstvs.php?pid=1370
-#EXTINF:-1 tvg-name="Bloomberg Television" tvg-logo="https://epg.v1.mk/logo/Bloomberg Television.png" group-title="HS印尼",Bloomberg Television
-http://hdtvtw.com/hstvs.php?pid=1371
-#EXTINF:-1 tvg-name="ABC Australia" tvg-logo="https://epg.v1.mk/logo/ABC Australia.png" group-title="HS印尼",ABC Australia
-http://hdtvtw.com/hstvs.php?pid=1372
-#EXTINF:-1 tvg-name="DW English" tvg-logo="https://epg.v1.mk/logo/DW English.png" group-title="HS印尼",DW English
-http://hdtvtw.com/hstvs.php?pid=1373
-#EXTINF:-1 tvg-name="France24" tvg-logo="https://epg.v1.mk/logo/France24.png" group-title="HS印尼",France24
-http://hdtvtw.com/hstvs.php?pid=1374
-#EXTINF:-1 tvg-name="Love Nature" tvg-logo="https://epg.v1.mk/logo/Love Nature.png" group-title="HS印尼",Love Nature
-http://hdtvtw.com/hstvs.php?pid=1375
-#EXTINF:-1 tvg-name="Global Trekker" tvg-logo="https://epg.v1.mk/logo/Global Trekker.png" group-title="HS印尼",Global Trekker
-http://hdtvtw.com/hstvs.php?pid=1376
-#EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://epg.v1.mk/logo/Discovery Channel.png" group-title="HS印尼",Discovery Channel
-http://hdtvtw.com/hstvs.php?pid=1377
-#EXTINF:-1 tvg-name="Discovery Asia" tvg-logo="https://epg.v1.mk/logo/Discovery Asia.png" group-title="HS印尼",Discovery Asia
-http://hdtvtw.com/hstvs.php?pid=1378
-#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://epg.v1.mk/logo/BBC Earth.png" group-title="HS印尼",BBC Earth
-http://hdtvtw.com/hstvs.php?pid=1379
-#EXTINF:-1 tvg-name="History" tvg-logo="https://epg.v1.mk/logo/History.png" group-title="HS印尼",History
-http://hdtvtw.com/hstvs.php?pid=1380
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://epg.v1.mk/logo/Animal Planet.png" group-title="HS印尼",Animal Planet
-http://hdtvtw.com/hstvs.php?pid=1381
-#EXTINF:-1 tvg-name="Astro TutorTV" tvg-logo="https://epg.v1.mk/logo/Astro TutorTV.png" group-title="HS印尼",Astro TutorTV
-http://hdtvtw.com/hstvs.php?pid=1382
-#EXTINF:-1 tvg-name="Astro Ceria" tvg-logo="https://epg.v1.mk/logo/Astro Ceria.png" group-title="HS印尼",Astro Ceria
-http://hdtvtw.com/hstvs.php?pid=1383
-#EXTINF:-1 tvg-name="DreamWorks" tvg-logo="https://epg.v1.mk/logo/DreamWorks.png" group-title="HS印尼",DreamWorks
-http://hdtvtw.com/hstvs.php?pid=1384
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://epg.v1.mk/logo/Cartoon Network.png" group-title="HS印尼",Cartoon Network
-http://hdtvtw.com/hstvs.php?pid=1385
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-logo="https://epg.v1.mk/logo/Nickelodeon.png" group-title="HS印尼",Nickelodeon
-http://hdtvtw.com/hstvs.php?pid=1386
-#EXTINF:-1 tvg-name="Nick Jr." tvg-logo="https://epg.v1.mk/logo/Nick Jr..png" group-title="HS印尼",Nick Jr.
-http://hdtvtw.com/hstvs.php?pid=1387
-#EXTINF:-1 tvg-name="Moonbug" tvg-logo="https://epg.v1.mk/logo/Moonbug.png" group-title="HS印尼",Moonbug
-http://hdtvtw.com/hstvs.php?pid=1388
-#EXTINF:-1 tvg-name="Blippi Friends" tvg-logo="https://epg.v1.mk/logo/Blippi Friends.png" group-title="HS印尼",Blippi Friends
-http://hdtvtw.com/hstvs.php?pid=1389
-#EXTINF:-1 tvg-name="CBeebies" tvg-logo="https://epg.v1.mk/logo/CBeebies.png" group-title="HS印尼",CBeebies
-http://hdtvtw.com/hstvs.php?pid=1390
-#EXTINF:-1 tvg-name="AXN" tvg-logo="https://epg.v1.mk/logo/AXN.png" group-title="HS印尼",AXN
-http://hdtvtw.com/hstvs.php?pid=1391
-#EXTINF:-1 tvg-name="HITS NOW" tvg-logo="https://epg.v1.mk/logo/HITS NOW.png" group-title="HS印尼",HITS NOW
-http://hdtvtw.com/hstvs.php?pid=1392
-#EXTINF:-1 tvg-name="LifeTime" tvg-logo="https://epg.v1.mk/logo/LifeTime.png" group-title="HS印尼",LifeTime
-http://hdtvtw.com/hstvs.php?pid=1393
-#EXTINF:-1 tvg-name="Hits" tvg-logo="https://epg.v1.mk/logo/Hits.png" group-title="HS印尼",Hits
-http://hdtvtw.com/hstvs.php?pid=1394
-#EXTINF:-1 tvg-name="TLC" tvg-logo="https://epg.v1.mk/logo/TLC.png" group-title="HS印尼",TLC
-http://hdtvtw.com/hstvs.php?pid=1395
-#EXTINF:-1 tvg-name="Food Network" tvg-logo="https://epg.v1.mk/logo/Food Network.png" group-title="HS印尼",Food Network
-http://hdtvtw.com/hstvs.php?pid=1396
-#EXTINF:-1 tvg-name="Asian Food Network" tvg-logo="https://epg.v1.mk/logo/Asian Food Network.png" group-title="HS印尼",Asian Food Network
-http://hdtvtw.com/hstvs.php?pid=1397
-#EXTINF:-1 tvg-name="Warner TV" tvg-logo="https://epg.v1.mk/logo/Warner TV.png" group-title="HS印尼",Warner TV
-http://hdtvtw.com/hstvs.php?pid=1398
-#EXTINF:-1 tvg-name="Crime Investigation" tvg-logo="https://epg.v1.mk/logo/Crime Investigation.png" group-title="HS印尼",Crime Investigation
-http://hdtvtw.com/hstvs.php?pid=1399
-#EXTINF:-1 tvg-name="HGTV" tvg-logo="https://epg.v1.mk/logo/HGTV.png" group-title="HS印尼",HGTV
-http://hdtvtw.com/hstvs.php?pid=1400
-#EXTINF:-1 tvg-name="DMAX" tvg-logo="https://epg.v1.mk/logo/DMAX.png" group-title="HS印尼",DMAX
-http://hdtvtw.com/hstvs.php?pid=1401
-#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://epg.v1.mk/logo/BBC Lifestyle.png" group-title="HS印尼",BBC Lifestyle
-http://hdtvtw.com/hstvs.php?pid=1402
-#EXTINF:-1 tvg-name="MTV Live" tvg-logo="https://epg.v1.mk/logo/MTV Live.png" group-title="HS印尼",MTV Live
-http://hdtvtw.com/hstvs.php?pid=1403
-#EXTINF:-1 tvg-name="Astro Arena" tvg-logo="https://epg.v1.mk/logo/Astro Arena.png" group-title="HS印尼",Astro Arena
-http://hdtvtw.com/hstvs.php?pid=1404
-#EXTINF:-1 tvg-name="Astro Arena 2" tvg-logo="https://epg.v1.mk/logo/Astro Arena 2.png" group-title="HS印尼",Astro Arena 2
-http://hdtvtw.com/hstvs.php?pid=1405
-#EXTINF:-1 tvg-name="Astro ArenaBola" tvg-logo="https://epg.v1.mk/logo/Astro ArenaBola.png" group-title="HS印尼",Astro ArenaBola
-http://hdtvtw.com/hstvs.php?pid=1406
-#EXTINF:-1 tvg-name="Astro ArenaBola 2" tvg-logo="https://epg.v1.mk/logo/Astro ArenaBola 2.png" group-title="HS印尼",Astro ArenaBola 2
-http://hdtvtw.com/hstvs.php?pid=1407
-#EXTINF:-1 tvg-name="Astro Grandstand" tvg-logo="https://epg.v1.mk/logo/Astro Grandstand.png" group-title="HS印尼",Astro Grandstand
-http://hdtvtw.com/hstvs.php?pid=1408
-#EXTINF:-1 tvg-name="Astro Premier League" tvg-logo="https://epg.v1.mk/logo/Astro Premier League.png" group-title="HS印尼",Astro Premier League
-http://hdtvtw.com/hstvs.php?pid=1409
-#EXTINF:-1 tvg-name="Astro Premier League2" tvg-logo="https://epg.v1.mk/logo/Astro Premier League2.png" group-title="HS印尼",Astro Premier League2
-http://hdtvtw.com/hstvs.php?pid=1410
-#EXTINF:-1 tvg-name="Astro Football" tvg-logo="https://epg.v1.mk/logo/Astro Football.png" group-title="HS印尼",Astro Football
-http://hdtvtw.com/hstvs.php?pid=1411
-#EXTINF:-1 tvg-name="Astro Badminton" tvg-logo="https://epg.v1.mk/logo/Astro Badminton.png" group-title="HS印尼",Astro Badminton
-http://hdtvtw.com/hstvs.php?pid=1412
-#EXTINF:-1 tvg-name="Astro Sports Plus" tvg-logo="https://epg.v1.mk/logo/Astro Sports Plus.png" group-title="HS印尼",Astro Sports Plus
-http://hdtvtw.com/hstvs.php?pid=1413
-#EXTINF:-1 tvg-name="beIN Sports" tvg-logo="https://epg.v1.mk/logo/beIN Sports.png" group-title="HS印尼",beIN Sports
-http://hdtvtw.com/hstvs.php?pid=1414
-#EXTINF:-1 tvg-name="beIN Sports 2" tvg-logo="https://epg.v1.mk/logo/beIN Sports 2.png" group-title="HS印尼",beIN Sports 2
-http://hdtvtw.com/hstvs.php?pid=1415
-#EXTINF:-1 tvg-name="bEIN Sports 3" tvg-logo="https://epg.v1.mk/logo/bEIN Sports 3.png" group-title="HS印尼",bEIN Sports 3
-http://hdtvtw.com/hstvs.php?pid=1416
-#EXTINF:-1 tvg-name="SPOTV" tvg-logo="https://epg.v1.mk/logo/SPOTV.png" group-title="HS印尼",SPOTV
-http://hdtvtw.com/hstvs.php?pid=1417
-#EXTINF:-1 tvg-name="SPOTV 2" tvg-logo="https://epg.v1.mk/logo/SPOTV 2.png" group-title="HS印尼",SPOTV 2
-http://hdtvtw.com/hstvs.php?pid=1418
-#EXTINF:-1 tvg-name="Eurosport" tvg-logo="https://epg.v1.mk/logo/Eurosport.png" group-title="HS印尼",Eurosport
-http://hdtvtw.com/hstvs.php?pid=1419
-#EXTINF:-1 tvg-name="W-Sport" tvg-logo="https://epg.v1.mk/logo/W-Sport.png" group-title="HS印尼",W-Sport
-http://hdtvtw.com/hstvs.php?pid=1420
-#EXTINF:-1 tvg-name="Golf Channel" tvg-logo="https://epg.v1.mk/logo/Golf Channel.png" group-title="HS印尼",Golf Channel
-http://hdtvtw.com/hstvs.php?pid=1421
-#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="https://epg.v1.mk/logo/Astro Cricket.png" group-title="HS印尼",Astro Cricket
-http://hdtvtw.com/hstvs.php?pid=1422
-#EXTINF:-1 tvg-name="Premier Sports" tvg-logo="https://epg.v1.mk/logo/Premier Sports.png" group-title="HS印尼",Premier Sports
-http://hdtvtw.com/hstvs.php?pid=1423
-#EXTINF:-1 tvg-name="NHK総合ロゴ" tvg-logo="https://epg.v1.mk/logo/NHK総合ロゴ.png" group-title="HS日本",NHK総合ロゴ
-http://hdtvtw.com/hstvs.php?pid=1760
-#EXTINF:-1 tvg-name="NHKEテレロゴ" tvg-logo="https://epg.v1.mk/logo/NHKEテレロゴ.png" group-title="HS日本",NHKEテレロゴ
-http://hdtvtw.com/hstvs.php?pid=1761
-#EXTINF:-1 tvg-name="日本テレビ" tvg-logo="https://epg.v1.mk/logo/日本テレビ.png" group-title="HS日本",日本テレビ
-http://hdtvtw.com/hstvs.php?pid=1762
-#EXTINF:-1 tvg-name="日テレプラス" tvg-logo="https://epg.v1.mk/logo/日テレプラス.png" group-title="HS日本",日テレプラス
-http://hdtvtw.com/hstvs.php?pid=1763
-#EXTINF:-1 tvg-name="日テレ News" tvg-logo="https://epg.v1.mk/logo/日テレ News.png" group-title="HS日本",日テレ News
-http://hdtvtw.com/hstvs.php?pid=1764
-#EXTINF:-1 tvg-name="TBSテレビ" tvg-logo="https://epg.v1.mk/logo/TBSテレビ.png" group-title="HS日本",TBSテレビ
-http://hdtvtw.com/hstvs.php?pid=1765
-#EXTINF:-1 tvg-name="ＴＢＳニュースバード" tvg-logo="https://epg.v1.mk/logo/ＴＢＳニュースバード.png" group-title="HS日本",ＴＢＳニュースバード
-http://hdtvtw.com/hstvs.php?pid=1766
-#EXTINF:-1 tvg-name="フジテレビ" tvg-logo="https://epg.v1.mk/logo/フジテレビ.png" group-title="HS日本",フジテレビ
-http://hdtvtw.com/hstvs.php?pid=1767
-#EXTINF:-1 tvg-name="テレビ朝日" tvg-logo="https://epg.v1.mk/logo/テレビ朝日.png" group-title="HS日本",テレビ朝日
-http://hdtvtw.com/hstvs.php?pid=1768
-#EXTINF:-1 tvg-name="テレビ東京" tvg-logo="https://epg.v1.mk/logo/テレビ東京.png" group-title="HS日本",テレビ東京
-http://hdtvtw.com/hstvs.php?pid=1769
-#EXTINF:-1 tvg-name="TOKYOMX1" tvg-logo="https://epg.v1.mk/logo/TOKYOMX1.png" group-title="HS日本",TOKYOMX1
-http://hdtvtw.com/hstvs.php?pid=1770
-#EXTINF:-1 tvg-name="TOKYOMX2" tvg-logo="https://epg.v1.mk/logo/TOKYOMX2.png" group-title="HS日本",TOKYOMX2
-http://hdtvtw.com/hstvs.php?pid=1771
-#EXTINF:-1 tvg-name="MBS毎日放送" tvg-logo="https://epg.v1.mk/logo/MBS毎日放送.png" group-title="HS日本",MBS毎日放送
-http://hdtvtw.com/hstvs.php?pid=1772
-#EXTINF:-1 tvg-name="ABCテレビ" tvg-logo="https://epg.v1.mk/logo/ABCテレビ.png" group-title="HS日本",ABCテレビ
-http://hdtvtw.com/hstvs.php?pid=1773
-#EXTINF:-1 tvg-name="ABCテレビ報道" tvg-logo="https://epg.v1.mk/logo/ABCテレビ報道.png" group-title="HS日本",ABCテレビ報道
-http://hdtvtw.com/hstvs.php?pid=1774
-#EXTINF:-1 tvg-name="関西テレビ" tvg-logo="https://epg.v1.mk/logo/関西テレビ.png" group-title="HS日本",関西テレビ
-http://hdtvtw.com/hstvs.php?pid=1775
-#EXTINF:-1 tvg-name="よみうりテレビ" tvg-logo="https://epg.v1.mk/logo/よみうりテレビ.png" group-title="HS日本",よみうりテレビ
-http://hdtvtw.com/hstvs.php?pid=1776
-#EXTINF:-1 tvg-name="テレビ大阪" tvg-logo="https://epg.v1.mk/logo/テレビ大阪.png" group-title="HS日本",テレビ大阪
-http://hdtvtw.com/hstvs.php?pid=1777
-#EXTINF:-1 tvg-name="サンテレビ" tvg-logo="https://epg.v1.mk/logo/サンテレビ.png" group-title="HS日本",サンテレビ
-http://hdtvtw.com/hstvs.php?pid=1778
-#EXTINF:-1 tvg-name="NHKBS" tvg-logo="https://epg.v1.mk/logo/NHKBS.png" group-title="HS日本",NHKBS
-http://hdtvtw.com/hstvs.php?pid=1779
-#EXTINF:-1 tvg-name="KBS京都" tvg-logo="https://epg.v1.mk/logo/KBS京都.png" group-title="HS日本",KBS京都
-http://hdtvtw.com/hstvs.php?pid=1780
-#EXTINF:-1 tvg-name="BS朝日" tvg-logo="https://epg.v1.mk/logo/BS朝日.png" group-title="HS日本",BS朝日
-http://hdtvtw.com/hstvs.php?pid=1781
-#EXTINF:-1 tvg-name="BS-TBS" tvg-logo="https://epg.v1.mk/logo/BS-TBS.png" group-title="HS日本",BS-TBS
-http://hdtvtw.com/hstvs.php?pid=1782
-#EXTINF:-1 tvg-name="BSテレ東" tvg-logo="https://epg.v1.mk/logo/BSテレ東.png" group-title="HS日本",BSテレ東
-http://hdtvtw.com/hstvs.php?pid=1783
-#EXTINF:-1 tvg-name="BSジャパン" tvg-logo="https://epg.v1.mk/logo/BSジャパン.png" group-title="HS日本",BSジャパン
-http://hdtvtw.com/hstvs.php?pid=1784
-#EXTINF:-1 tvg-name="BSフジ" tvg-logo="https://epg.v1.mk/logo/BSフジ.png" group-title="HS日本",BSフジ
-http://hdtvtw.com/hstvs.php?pid=1785
-#EXTINF:-1 tvg-name="BS 11" tvg-logo="https://epg.v1.mk/logo/BS 11.png" group-title="HS日本",BS 11
-http://hdtvtw.com/hstvs.php?pid=1786
-#EXTINF:-1 tvg-name="BS 12トゥエルビ" tvg-logo="https://epg.v1.mk/logo/BS 12トゥエルビ.png" group-title="HS日本",BS 12トゥエルビ
-http://hdtvtw.com/hstvs.php?pid=1787
-#EXTINF:-1 tvg-name="WOWOWプライム" tvg-logo="https://epg.v1.mk/logo/WOWOWプライム.png" group-title="HS日本",WOWOWプライム
-http://hdtvtw.com/hstvs.php?pid=1788
-#EXTINF:-1 tvg-name="WOWOWライブ" tvg-logo="https://epg.v1.mk/logo/WOWOWライブ.png" group-title="HS日本",WOWOWライブ
-http://hdtvtw.com/hstvs.php?pid=1789
-#EXTINF:-1 tvg-name="WOWOWシネマ" tvg-logo="https://epg.v1.mk/logo/WOWOWシネマ.png" group-title="HS日本",WOWOWシネマ
-http://hdtvtw.com/hstvs.php?pid=1790
-#EXTINF:-1 tvg-name="WOWOWプラス" tvg-logo="https://epg.v1.mk/logo/WOWOWプラス.png" group-title="HS日本",WOWOWプラス
-http://hdtvtw.com/hstvs.php?pid=1791
-#EXTINF:-1 tvg-name="スターチャンネル1" tvg-logo="https://epg.v1.mk/logo/スターチャンネル1.png" group-title="HS日本",スターチャンネル1
-http://hdtvtw.com/hstvs.php?pid=1792
-#EXTINF:-1 tvg-name="ＴＢＳチャンネル１" tvg-logo="https://epg.v1.mk/logo/ＴＢＳチャンネル１.png" group-title="HS日本",ＴＢＳチャンネル１
-http://hdtvtw.com/hstvs.php?pid=1793
-#EXTINF:-1 tvg-name="ＴＢＳチャンネル２" tvg-logo="https://epg.v1.mk/logo/ＴＢＳチャンネル２.png" group-title="HS日本",ＴＢＳチャンネル２
-http://hdtvtw.com/hstvs.php?pid=1794
-#EXTINF:-1 tvg-name="テレ朝チャンネル１" tvg-logo="https://epg.v1.mk/logo/テレ朝チャンネル１.png" group-title="HS日本",テレ朝チャンネル１
-http://hdtvtw.com/hstvs.php?pid=1795
-#EXTINF:-1 tvg-name="テレ朝チャンネル２" tvg-logo="https://epg.v1.mk/logo/テレ朝チャンネル２.png" group-title="HS日本",テレ朝チャンネル２
-http://hdtvtw.com/hstvs.php?pid=1796
-#EXTINF:-1 tvg-name="フジテレビＯＮＥ" tvg-logo="https://epg.v1.mk/logo/フジテレビＯＮＥ.png" group-title="HS日本",フジテレビＯＮＥ
-http://hdtvtw.com/hstvs.php?pid=1797
-#EXTINF:-1 tvg-name="フジテレビＴＷＯ" tvg-logo="https://epg.v1.mk/logo/フジテレビＴＷＯ.png" group-title="HS日本",フジテレビＴＷＯ
-http://hdtvtw.com/hstvs.php?pid=1798
-#EXTINF:-1 tvg-name="フジテレビＮＥＸＴ" tvg-logo="https://epg.v1.mk/logo/フジテレビＮＥＸＴ.png" group-title="HS日本",フジテレビＮＥＸＴ
-http://hdtvtw.com/hstvs.php?pid=1799
-#EXTINF:-1 tvg-name="グリーンチャンネル" tvg-logo="https://epg.v1.mk/logo/グリーンチャンネル.png" group-title="HS日本",グリーンチャンネル
-http://hdtvtw.com/hstvs.php?pid=1800
-#EXTINF:-1 tvg-name="チャンネル銀河" tvg-logo="https://epg.v1.mk/logo/チャンネル銀河.png" group-title="HS日本",チャンネル銀河
-http://hdtvtw.com/hstvs.php?pid=1801
-#EXTINF:-1 tvg-name="釣りビジョン" tvg-logo="https://epg.v1.mk/logo/釣りビジョン.png" group-title="HS日本",釣りビジョン
-http://hdtvtw.com/hstvs.php?pid=1802
-#EXTINF:-1 tvg-name="JSPORTS 1" tvg-logo="https://epg.v1.mk/logo/JSPORTS 1.png" group-title="HS日本",JSPORTS 1
-http://hdtvtw.com/hstvs.php?pid=1803
-#EXTINF:-1 tvg-name="JSPORTS 2" tvg-logo="https://epg.v1.mk/logo/JSPORTS 2.png" group-title="HS日本",JSPORTS 2
-http://hdtvtw.com/hstvs.php?pid=1804
-#EXTINF:-1 tvg-name="JSPORTS 3" tvg-logo="https://epg.v1.mk/logo/JSPORTS 3.png" group-title="HS日本",JSPORTS 3
-http://hdtvtw.com/hstvs.php?pid=1805
-#EXTINF:-1 tvg-name="JSPORTS 4" tvg-logo="https://epg.v1.mk/logo/JSPORTS 4.png" group-title="HS日本",JSPORTS 4
-http://hdtvtw.com/hstvs.php?pid=1806
-#EXTINF:-1 tvg-name="GaoraSports" tvg-logo="https://epg.v1.mk/logo/GaoraSports.png" group-title="HS日本",GaoraSports
-http://hdtvtw.com/hstvs.php?pid=1807
-#EXTINF:-1 tvg-name="GolfNetwork" tvg-logo="https://epg.v1.mk/logo/GolfNetwork.png" group-title="HS日本",GolfNetwork
-http://hdtvtw.com/hstvs.php?pid=1808
-#EXTINF:-1 tvg-name="スポーツライブ＋" tvg-logo="https://epg.v1.mk/logo/スポーツライブ＋.png" group-title="HS日本",スポーツライブ＋
-http://hdtvtw.com/hstvs.php?pid=1809
-#EXTINF:-1 tvg-name="日テレジータス" tvg-logo="https://epg.v1.mk/logo/日テレジータス.png" group-title="HS日本",日テレジータス
-http://hdtvtw.com/hstvs.php?pid=1810
-#EXTINF:-1 tvg-name="日本映画専門チャンネル" tvg-logo="https://epg.v1.mk/logo/日本映画専門チャンネル.png" group-title="HS日本",日本映画専門チャンネル
-http://hdtvtw.com/hstvs.php?pid=1811
-#EXTINF:-1 tvg-name="旅チャンネル" tvg-logo="https://epg.v1.mk/logo/旅チャンネル.png" group-title="HS日本",旅チャンネル
-http://hdtvtw.com/hstvs.php?pid=1812
-#EXTINF:-1 tvg-name="ホームドラマチャンネル" tvg-logo="https://epg.v1.mk/logo/ホームドラマチャンネル.png" group-title="HS日本",ホームドラマチャンネル
-http://hdtvtw.com/hstvs.php?pid=1813
-#EXTINF:-1 tvg-name="鉄道チャンネル" tvg-logo="https://epg.v1.mk/logo/鉄道チャンネル.png" group-title="HS日本",鉄道チャンネル
-http://hdtvtw.com/hstvs.php?pid=1814
-#EXTINF:-1 tvg-name="東映チャンネル" tvg-logo="https://epg.v1.mk/logo/東映チャンネル.png" group-title="HS日本",東映チャンネル
-http://hdtvtw.com/hstvs.php?pid=1815
-#EXTINF:-1 tvg-name="衛星劇場" tvg-logo="https://epg.v1.mk/logo/衛星劇場.png" group-title="HS日本",衛星劇場
-http://hdtvtw.com/hstvs.php?pid=1816
-#EXTINF:-1 tvg-name="ファミリー劇場" tvg-logo="https://epg.v1.mk/logo/ファミリー劇場.png" group-title="HS日本",ファミリー劇場
-http://hdtvtw.com/hstvs.php?pid=1817
-#EXTINF:-1 tvg-name="時代劇専門チャンネル" tvg-logo="https://epg.v1.mk/logo/時代劇専門チャンネル.png" group-title="HS日本",時代劇専門チャンネル
-http://hdtvtw.com/hstvs.php?pid=1818
-#EXTINF:-1 tvg-name="MONDO TV" tvg-logo="https://epg.v1.mk/logo/MONDO TV.png" group-title="HS日本",MONDO TV
-http://hdtvtw.com/hstvs.php?pid=1819
-#EXTINF:-1 tvg-name="NHKBS1" tvg-logo="https://epg.v1.mk/logo/NHKBS1.png" group-title="HS日本",NHKBS1
-http://hdtvtw.com/hstvs.php?pid=1820
-#EXTINF:-1 tvg-name="スカイA" tvg-logo="https://epg.v1.mk/logo/スカイA.png" group-title="HS日本",スカイA
-http://hdtvtw.com/hstvs.php?pid=1821
-#EXTINF:-1 tvg-name="ザシネマ" tvg-logo="https://epg.v1.mk/logo/ザシネマ.png" group-title="HS日本",ザシネマ
-http://hdtvtw.com/hstvs.php?pid=1822
-#EXTINF:-1 tvg-name="NHK" tvg-logo="https://epg.v1.mk/logo/NHK.png" group-title="HS日本",NHK
-http://hdtvtw.com/hstvs.php?pid=1823
-#EXTINF:-1 tvg-name="NWorld Japan" tvg-logo="https://epg.v1.mk/logo/NWorld Japan.png" group-title="HS日本",NWorld Japan
-http://hdtvtw.com/hstvs.php?pid=1824
-#EXTINF:-1 tvg-name="NBSP4K" tvg-logo="https://epg.v1.mk/logo/NBSP4K.png" group-title="HS日本",NBSP4K
-http://hdtvtw.com/hstvs.php?pid=1825
-#EXTINF:-1 tvg-name="スーパー！ドラマＴＶ" tvg-logo="https://epg.v1.mk/logo/スーパー！ドラマＴＶ.png" group-title="HS日本",スーパー！ドラマＴＶ
-http://hdtvtw.com/hstvs.php?pid=1826
-#EXTINF:-1 tvg-name="ムービープラス" tvg-logo="https://epg.v1.mk/logo/ムービープラス.png" group-title="HS日本",ムービープラス
-http://hdtvtw.com/hstvs.php?pid=1827
-#EXTINF:-1 tvg-name="映画・チャンネルNECO" tvg-logo="https://epg.v1.mk/logo/映画・チャンネルNECO.png" group-title="HS日本",映画・チャンネルNECO
-http://hdtvtw.com/hstvs.php?pid=1828
-#EXTINF:-1 tvg-name="ＡＸＮ 海外ドラマ" tvg-logo="https://epg.v1.mk/logo/ＡＸＮ 海外ドラマ.png" group-title="HS日本",ＡＸＮ 海外ドラマ
-http://hdtvtw.com/hstvs.php?pid=1829
-#EXTINF:-1 tvg-name="AXNミステリー" tvg-logo="https://epg.v1.mk/logo/AXNミステリー.png" group-title="HS日本",AXNミステリー
-http://hdtvtw.com/hstvs.php?pid=1830
-#EXTINF:-1 tvg-name="DLife" tvg-logo="https://epg.v1.mk/logo/DLife.png" group-title="HS日本",DLife
-http://hdtvtw.com/hstvs.php?pid=1831
-#EXTINF:-1 tvg-name="FightingTV サムライ" tvg-logo="https://epg.v1.mk/logo/FightingTV サムライ.png" group-title="HS日本",FightingTV サムライ
-http://hdtvtw.com/hstvs.php?pid=1832
-#EXTINF:-1 tvg-name="ダンスチャンネル by エンタメ～テレ" tvg-logo="https://epg.v1.mk/logo/ダンスチャンネル by エンタメ～テレ.png" group-title="HS日本",ダンスチャンネル by エンタメ～テレ
-http://hdtvtw.com/hstvs.php?pid=1833
-#EXTINF:-1 tvg-name="エンタメ～テレ☆シネドラバラエティ" tvg-logo="https://epg.v1.mk/logo/エンタメ～テレ☆シネドラバラエティ.png" group-title="HS日本",エンタメ～テレ☆シネドラバラエティ
-http://hdtvtw.com/hstvs.php?pid=1834
-#EXTINF:-1 tvg-name="100％ヒッツ！スペースシャワーTV プラス" tvg-logo="https://epg.v1.mk/logo/100％ヒッツ！スペースシャワーTV プラス.png" group-title="HS日本",100％ヒッツ！スペースシャワーTV プラス
-http://hdtvtw.com/hstvs.php?pid=1835
-#EXTINF:-1 tvg-name="女性チャンネル♪LaLa TV" tvg-logo="https://epg.v1.mk/logo/女性チャンネル♪LaLa TV.png" group-title="HS日本",女性チャンネル♪LaLa TV
-http://hdtvtw.com/hstvs.php?pid=1836
-#EXTINF:-1 tvg-name="スカチャン1" tvg-logo="https://epg.v1.mk/logo/スカチャン1.png" group-title="HS日本",スカチャン1
-http://hdtvtw.com/hstvs.php?pid=1837
-#EXTINF:-1 tvg-name="歌謡ポップスチャンネル" tvg-logo="https://epg.v1.mk/logo/歌謡ポップスチャンネル.png" group-title="HS日本",歌謡ポップスチャンネル
-http://hdtvtw.com/hstvs.php?pid=1838
-#EXTINF:-1 tvg-name="MusicJapanTV" tvg-logo="https://epg.v1.mk/logo/MusicJapanTV.png" group-title="HS日本",MusicJapanTV
-http://hdtvtw.com/hstvs.php?pid=1839
-#EXTINF:-1 tvg-name="MUSIC ON! TV（エムオン!）" tvg-logo="https://epg.v1.mk/logo/MUSIC ON! TV（エムオン!）.png" group-title="HS日本",MUSIC ON! TV（エムオン!）
-http://hdtvtw.com/hstvs.php?pid=1840
-#EXTINF:-1 tvg-name="ミュージック・エア" tvg-logo="https://epg.v1.mk/logo/ミュージック・エア.png" group-title="HS日本",ミュージック・エア
-http://hdtvtw.com/hstvs.php?pid=1841
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://epg.112114.xyz/logo/中视.png" group-title="📡台湾频道📺",中视
+http://hdtvtw.com/hstvs.php?pid=1458
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://epg.112114.xyz/logo/中视新闻.png" group-title="📡台湾频道📺",中视新闻
+http://hdtvtw.com/hstvs.php?pid=1459
+#EXTINF:-1 tvg-name="中视经典" tvg-logo="https://epg.112114.xyz/logo/中视经典.png" group-title="📡台湾频道📺",中视经典
+http://hdtvtw.com/hstvs.php?pid=1460
+#EXTINF:-1 tvg-name="中视菁采" tvg-logo="https://epg.112114.xyz/logo/中视菁采.png" group-title="📡台湾频道📺",中视菁采
+http://hdtvtw.com/hstvs.php?pid=1461
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://epg.112114.xyz/logo/公视.png" group-title="📡台湾频道📺",公视
+http://hdtvtw.com/hstvs.php?pid=1462
+#EXTINF:-1 tvg-name="小公视" tvg-logo="https://epg.112114.xyz/logo/小公视.png" group-title="📡台湾频道📺",小公视
+http://hdtvtw.com/hstvs.php?pid=1463
+#EXTINF:-1 tvg-name="公视戏剧" tvg-logo="https://epg.112114.xyz/logo/公视戏剧.png" group-title="📡台湾频道📺",公视戏剧
+http://hdtvtw.com/hstvs.php?pid=1464
+#EXTINF:-1 tvg-name="公视台语台" tvg-logo="https://epg.112114.xyz/logo/公视台语台.png" group-title="📡台湾频道📺",公视台语台
+http://hdtvtw.com/hstvs.php?pid=1465
+#EXTINF:-1 tvg-name="公视新闻网" tvg-logo="https://epg.112114.xyz/logo/公视新闻网.png" group-title="📡台湾频道📺",公视新闻网
+http://hdtvtw.com/hstvs.php?pid=1466
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://epg.112114.xyz/logo/民视.png" group-title="📡台湾频道📺",民视
+http://hdtvtw.com/hstvs.php?pid=1467
+#EXTINF:-1 tvg-name="民视第一台" tvg-logo="https://epg.112114.xyz/logo/民视第一台.png" group-title="📡台湾频道📺",民视第一台
+http://hdtvtw.com/hstvs.php?pid=1468
+#EXTINF:-1 tvg-name="民视台湾台" tvg-logo="https://epg.112114.xyz/logo/民视台湾台.png" group-title="📡台湾频道📺",民视台湾台
+http://hdtvtw.com/hstvs.php?pid=1469
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://epg.112114.xyz/logo/民视新闻台.png" group-title="📡台湾频道📺",民视新闻台
+http://hdtvtw.com/hstvs.php?pid=1470
+#EXTINF:-1 tvg-name="民视影剧台" tvg-logo="https://epg.112114.xyz/logo/民视影剧台.png" group-title="📡台湾频道📺",民视影剧台
+http://hdtvtw.com/hstvs.php?pid=1471
+#EXTINF:-1 tvg-name="民视旅游台" tvg-logo="https://epg.112114.xyz/logo/民视旅游台.png" group-title="📡台湾频道📺",民视旅游台
+http://hdtvtw.com/hstvs.php?pid=1472
+#EXTINF:-1 tvg-name="民视综艺台" tvg-logo="https://epg.112114.xyz/logo/民视综艺台.png" group-title="📡台湾频道📺",民视综艺台
+http://hdtvtw.com/hstvs.php?pid=1473
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://epg.112114.xyz/logo/台视.png" group-title="📡台湾频道📺",台视
+http://hdtvtw.com/hstvs.php?pid=1474
+#EXTINF:-1 tvg-name="台视新闻HD" tvg-logo="https://epg.112114.xyz/logo/台视新闻HD.png" group-title="📡台湾频道📺",台视新闻HD
+http://hdtvtw.com/hstvs.php?pid=1475
+#EXTINF:-1 tvg-name="台视综合" tvg-logo="https://epg.112114.xyz/logo/台视综合.png" group-title="📡台湾频道📺",台视综合
+http://hdtvtw.com/hstvs.php?pid=1476
+#EXTINF:-1 tvg-name="台视财经" tvg-logo="https://epg.112114.xyz/logo/台视财经.png" group-title="📡台湾频道📺",台视财经
+http://hdtvtw.com/hstvs.php?pid=1477
+#EXTINF:-1 tvg-name="台湾戏剧" tvg-logo="https://epg.112114.xyz/logo/台湾戏剧.png" group-title="📡台湾频道📺",台湾戏剧
+http://hdtvtw.com/hstvs.php?pid=1478
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://epg.112114.xyz/logo/华视.png" group-title="📡台湾频道📺",华视
+http://hdtvtw.com/hstvs.php?pid=1479
+#EXTINF:-1 tvg-name="CTS华视新闻资讯" tvg-logo="https://epg.112114.xyz/logo/CTS华视新闻资讯.png" group-title="📡台湾频道📺",CTS华视新闻资讯
+http://hdtvtw.com/hstvs.php?pid=1480
+#EXTINF:-1 tvg-name="霹雳台湾台" tvg-logo="https://epg.112114.xyz/logo/霹雳台湾台.png" group-title="📡台湾频道📺",霹雳台湾台
+http://hdtvtw.com/hstvs.php?pid=1481
+#EXTINF:-1 tvg-name="壹新闻" tvg-logo="https://epg.112114.xyz/logo/壹新闻.png" group-title="📡台湾频道📺",壹新闻
+http://hdtvtw.com/hstvs.php?pid=1482
+#EXTINF:-1 tvg-name="壹电影" tvg-logo="https://epg.112114.xyz/logo/壹电影.png" group-title="📡台湾频道📺",壹电影
+http://hdtvtw.com/hstvs.php?pid=1483
+#EXTINF:-1 tvg-name="JET综合台" tvg-logo="https://epg.112114.xyz/logo/JET综合台.png" group-title="📡台湾频道📺",JET综合台
+http://hdtvtw.com/hstvs.php?pid=1484
+#EXTINF:-1 tvg-name="年代新闻" tvg-logo="https://epg.112114.xyz/logo/年代新闻.png" group-title="📡台湾频道📺",年代新闻
+http://hdtvtw.com/hstvs.php?pid=1485
+#EXTINF:-1 tvg-name="年代Much" tvg-logo="https://epg.112114.xyz/logo/年代Much.png" group-title="📡台湾频道📺",年代Much
+http://hdtvtw.com/hstvs.php?pid=1486
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://epg.112114.xyz/logo/非凡新闻.png" group-title="📡台湾频道📺",非凡新闻
+http://hdtvtw.com/hstvs.php?pid=1487
+#EXTINF:-1 tvg-name="非凡商业" tvg-logo="https://epg.112114.xyz/logo/非凡商业.png" group-title="📡台湾频道📺",非凡商业
+http://hdtvtw.com/hstvs.php?pid=1488
+#EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻.png" group-title="📡台湾频道📺",寰宇新闻
+http://hdtvtw.com/hstvs.php?pid=1489
+#EXTINF:-1 tvg-name="寰宇新闻台湾" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台湾.png" group-title="📡台湾频道📺",寰宇新闻台湾
+http://hdtvtw.com/hstvs.php?pid=1490
+#EXTINF:-1 tvg-name="寰宇财经" tvg-logo="https://epg.112114.xyz/logo/寰宇财经.png" group-title="📡台湾频道📺",寰宇财经
+http://hdtvtw.com/hstvs.php?pid=1491
+#EXTINF:-1 tvg-name="鏡新闻" tvg-logo="https://epg.112114.xyz/logo/鏡新闻.png" group-title="📡台湾频道📺",鏡新闻
+http://hdtvtw.com/hstvs.php?pid=1492
+#EXTINF:-1 tvg-name="东森超视美洲" tvg-logo="https://epg.112114.xyz/logo/东森超视美洲.png" group-title="📡台湾频道📺",东森超视美洲
+http://hdtvtw.com/hstvs.php?pid=1493
+#EXTINF:-1 tvg-name="东森美洲" tvg-logo="https://epg.112114.xyz/logo/东森美洲.png" group-title="📡台湾频道📺",东森美洲
+http://hdtvtw.com/hstvs.php?pid=1494
+#EXTINF:-1 tvg-name="东森美洲卫视" tvg-logo="https://epg.112114.xyz/logo/东森美洲卫视.png" group-title="📡台湾频道📺",东森美洲卫视
+http://hdtvtw.com/hstvs.php?pid=1495
+#EXTINF:-1 tvg-name="东森中国台" tvg-logo="https://epg.112114.xyz/logo/东森中国台.png" group-title="📡台湾频道📺",东森中国台
+http://hdtvtw.com/hstvs.php?pid=1496
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://epg.112114.xyz/logo/东森超视.png" group-title="📡台湾频道📺",东森超视
+http://hdtvtw.com/hstvs.php?pid=1497
+#EXTINF:-1 tvg-name="东森亚洲" tvg-logo="https://epg.112114.xyz/logo/东森亚洲.png" group-title="📡台湾频道📺",东森亚洲
+http://hdtvtw.com/hstvs.php?pid=1498
+#EXTINF:-1 tvg-name="东森综合" tvg-logo="https://epg.112114.xyz/logo/东森综合.png" group-title="📡台湾频道📺",东森综合
+http://hdtvtw.com/hstvs.php?pid=1499
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://epg.112114.xyz/logo/东森新闻.png" group-title="📡台湾频道📺",东森新闻
+http://hdtvtw.com/hstvs.php?pid=1500
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://epg.112114.xyz/logo/东森财经.png" group-title="📡台湾频道📺",东森财经
+http://hdtvtw.com/hstvs.php?pid=1501
+#EXTINF:-1 tvg-name="东森LIVE" tvg-logo="https://epg.112114.xyz/logo/东森LIVE.png" group-title="📡台湾频道📺",东森LIVE
+http://hdtvtw.com/hstvs.php?pid=1502
+#EXTINF:-1 tvg-name="东森电影" tvg-logo="https://epg.112114.xyz/logo/东森电影.png" group-title="📡台湾频道📺",东森电影
+http://hdtvtw.com/hstvs.php?pid=1503
+#EXTINF:-1 tvg-name="东森洋片" tvg-logo="https://epg.112114.xyz/logo/东森洋片.png" group-title="📡台湾频道📺",东森洋片
+http://hdtvtw.com/hstvs.php?pid=1504
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://epg.112114.xyz/logo/东森戏剧.png" group-title="📡台湾频道📺",东森戏剧
+http://hdtvtw.com/hstvs.php?pid=1505
+#EXTINF:-1 tvg-name="东森幼幼" tvg-logo="https://epg.112114.xyz/logo/东森幼幼.png" group-title="📡台湾频道📺",东森幼幼
+http://hdtvtw.com/hstvs.php?pid=1506
+#EXTINF:-1 tvg-name="东森亚洲幼幼" tvg-logo="https://epg.112114.xyz/logo/东森亚洲幼幼.png" group-title="📡台湾频道📺",东森亚洲幼幼
+http://hdtvtw.com/hstvs.php?pid=1507
+#EXTINF:-1 tvg-name="MOMO綜合台" tvg-logo="https://epg.112114.xyz/logo/MOMO綜合台.png" group-title="📡台湾频道📺",MOMO綜合台
+http://hdtvtw.com/hstvs.php?pid=1508
+#EXTINF:-1 tvg-name="MOMO亲子台" tvg-logo="https://epg.112114.xyz/logo/MOMO亲子台.png" group-title="📡台湾频道📺",MOMO亲子台
+http://hdtvtw.com/hstvs.php?pid=1509
+#EXTINF:-1 tvg-name="MOMO台" tvg-logo="https://epg.112114.xyz/logo/MOMO台.png" group-title="📡台湾频道📺",MOMO台
+http://hdtvtw.com/hstvs.php?pid=1510
+#EXTINF:-1 tvg-name="国兴卫视" tvg-logo="https://epg.112114.xyz/logo/国兴卫视.png" group-title="📡台湾频道📺",国兴卫视
+http://hdtvtw.com/hstvs.php?pid=1511
+#EXTINF:-1 tvg-name="龙祥时代" tvg-logo="https://epg.112114.xyz/logo/龙祥时代.png" group-title="📡台湾频道📺",龙祥时代
+http://hdtvtw.com/hstvs.php?pid=1512
+#EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://epg.112114.xyz/logo/龙华偶像.png" group-title="📡台湾频道📺",龙华偶像
+http://hdtvtw.com/hstvs.php?pid=1513
+#EXTINF:-1 tvg-name="龙华电视" tvg-logo="https://epg.112114.xyz/logo/龙华电视.png" group-title="📡台湾频道📺",龙华电视
+http://hdtvtw.com/hstvs.php?pid=1514
+#EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://epg.112114.xyz/logo/龙华戏剧.png" group-title="📡台湾频道📺",龙华戏剧
+http://hdtvtw.com/hstvs.php?pid=1515
+#EXTINF:-1 tvg-name="龙华日韩" tvg-logo="https://epg.112114.xyz/logo/龙华日韩.png" group-title="📡台湾频道📺",龙华日韩
+http://hdtvtw.com/hstvs.php?pid=1516
+#EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://epg.112114.xyz/logo/龙华电影.png" group-title="📡台湾频道📺",龙华电影
+http://hdtvtw.com/hstvs.php?pid=1517
+#EXTINF:-1 tvg-name="龙华影剧" tvg-logo="https://epg.112114.xyz/logo/龙华影剧.png" group-title="📡台湾频道📺",龙华影剧
+http://hdtvtw.com/hstvs.php?pid=1518
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://epg.112114.xyz/logo/龙华洋片.png" group-title="📡台湾频道📺",龙华洋片
+http://hdtvtw.com/hstvs.php?pid=1519
+#EXTINF:-1 tvg-name="龙华卡通" tvg-logo="https://epg.112114.xyz/logo/龙华卡通.png" group-title="📡台湾频道📺",龙华卡通
+http://hdtvtw.com/hstvs.php?pid=1520
+#EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://epg.112114.xyz/logo/龙华经典.png" group-title="📡台湾频道📺",龙华经典
+http://hdtvtw.com/hstvs.php?pid=1521
+#EXTINF:-1 tvg-name="三立都会台" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png" group-title="📡台湾频道📺",三立都会台
+http://hdtvtw.com/hstvs.php?pid=1522
+#EXTINF:-1 tvg-name="三立综合台" tvg-logo="https://epg.112114.xyz/logo/三立综合台.png" group-title="📡台湾频道📺",三立综合台
+http://hdtvtw.com/hstvs.php?pid=1523
+#EXTINF:-1 tvg-name="三立台湾台" tvg-logo="https://epg.112114.xyz/logo/三立台湾台.png" group-title="📡台湾频道📺",三立台湾台
+http://hdtvtw.com/hstvs.php?pid=1524
+#EXTINF:-1 tvg-name="三立戏剧台" tvg-logo="https://epg.112114.xyz/logo/三立戏剧台.png" group-title="📡台湾频道📺",三立戏剧台
+http://hdtvtw.com/hstvs.php?pid=1525
+#EXTINF:-1 tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻台.png" group-title="📡台湾频道📺",三立新闻台
+http://hdtvtw.com/hstvs.php?pid=1526
+#EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://epg.112114.xyz/logo/三立iNEWS.png" group-title="📡台湾频道📺",三立iNEWS
+http://hdtvtw.com/hstvs.php?pid=1527
+#EXTINF:-1 tvg-name="三立国际台" tvg-logo="https://epg.112114.xyz/logo/三立国际台.png" group-title="📡台湾频道📺",三立国际台
+http://hdtvtw.com/hstvs.php?pid=1528
+#EXTINF:-1 tvg-name="LIVE三立" tvg-logo="https://epg.112114.xyz/logo/LIVE三立.png" group-title="📡台湾频道📺",LIVE三立
+http://hdtvtw.com/hstvs.php?pid=1529
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://epg.112114.xyz/logo/中天新闻.png" group-title="📡台湾频道📺",中天新闻
+http://hdtvtw.com/hstvs.php?pid=1530
+#EXTINF:-1 tvg-name="CTI+中天2台" tvg-logo="https://epg.112114.xyz/logo/CTI+中天2台.png" group-title="📡台湾频道📺",CTI+中天2台
+http://hdtvtw.com/hstvs.php?pid=1531
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://epg.112114.xyz/logo/中天综合.png" group-title="📡台湾频道📺",中天综合
+http://hdtvtw.com/hstvs.php?pid=1532
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://epg.112114.xyz/logo/中天娱乐.png" group-title="📡台湾频道📺",中天娱乐
+http://hdtvtw.com/hstvs.php?pid=1533
+#EXTINF:-1 tvg-name="纬来综合" tvg-logo="https://epg.112114.xyz/logo/纬来综合.png" group-title="📡台湾频道📺",纬来综合
+http://hdtvtw.com/hstvs.php?pid=1534
+#EXTINF:-1 tvg-name="纬来精彩" tvg-logo="https://epg.112114.xyz/logo/纬来精彩.png" group-title="📡台湾频道📺",纬来精彩
+http://hdtvtw.com/hstvs.php?pid=1535
+#EXTINF:-1 tvg-name="纬来戏剧" tvg-logo="https://epg.112114.xyz/logo/纬来戏剧.png" group-title="📡台湾频道📺",纬来戏剧
+http://hdtvtw.com/hstvs.php?pid=1536
+#EXTINF:-1 tvg-name="纬来日本" tvg-logo="https://epg.112114.xyz/logo/纬来日本.png" group-title="📡台湾频道📺",纬来日本
+http://hdtvtw.com/hstvs.php?pid=1537
+#EXTINF:-1 tvg-name="纬来育乐" tvg-logo="https://epg.112114.xyz/logo/纬来育乐.png" group-title="📡台湾频道📺",纬来育乐
+http://hdtvtw.com/hstvs.php?pid=1538
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://epg.112114.xyz/logo/纬来电影.png" group-title="📡台湾频道📺",纬来电影
+http://hdtvtw.com/hstvs.php?pid=1539
+#EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://epg.112114.xyz/logo/纬来体育.png" group-title="📡台湾频道📺",纬来体育
+http://hdtvtw.com/hstvs.php?pid=1540
+#EXTINF:-1 tvg-name="八大第一台" tvg-logo="https://epg.112114.xyz/logo/八大第一台.png" group-title="📡台湾频道📺",八大第一台
+http://hdtvtw.com/hstvs.php?pid=1541
+#EXTINF:-1 tvg-name="八大戏剧台" tvg-logo="https://epg.112114.xyz/logo/八大戏剧台.png" group-title="📡台湾频道📺",八大戏剧台
+http://hdtvtw.com/hstvs.php?pid=1542
+#EXTINF:-1 tvg-name="八大综合台" tvg-logo="https://epg.112114.xyz/logo/八大综合台.png" group-title="📡台湾频道📺",八大综合台
+http://hdtvtw.com/hstvs.php?pid=1543
+#EXTINF:-1 tvg-name="八大精彩台" tvg-logo="https://epg.112114.xyz/logo/八大精彩台.png" group-title="📡台湾频道📺",八大精彩台
+http://hdtvtw.com/hstvs.php?pid=1544
+#EXTINF:-1 tvg-name="八大娱乐台" tvg-logo="https://epg.112114.xyz/logo/八大娱乐台.png" group-title="📡台湾频道📺",八大娱乐台
+http://hdtvtw.com/hstvs.php?pid=1545
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://epg.112114.xyz/logo/TVBS新闻台.png" group-title="📡台湾频道📺",TVBS新闻台
+http://hdtvtw.com/hstvs.php?pid=1546
+#EXTINF:-1 tvg-name="TVBS精采台" tvg-logo="https://epg.112114.xyz/logo/TVBS精采台.png" group-title="📡台湾频道📺",TVBS精采台
+http://hdtvtw.com/hstvs.php?pid=1547
+#EXTINF:-1 tvg-name="TVBS欢乐台" tvg-logo="https://epg.112114.xyz/logo/TVBS欢乐台.png" group-title="📡台湾频道📺",TVBS欢乐台
+http://hdtvtw.com/hstvs.php?pid=1548
+#EXTINF:-1 tvg-name="TVBSHD" tvg-logo="https://epg.112114.xyz/logo/TVBSHD.png" group-title="📡台湾频道📺",TVBSHD
+http://hdtvtw.com/hstvs.php?pid=1549
+#EXTINF:-1 tvg-name="TVBS NEWS" tvg-logo="https://epg.112114.xyz/logo/TVBS NEWS.png" group-title="📡台湾频道📺",TVBS NEWS
+http://hdtvtw.com/hstvs.php?pid=1550
+#EXTINF:-1 tvg-name="靖天综合台" tvg-logo="https://epg.112114.xyz/logo/靖天综合台.png" group-title="📡台湾频道📺",靖天综合台
+http://hdtvtw.com/hstvs.php?pid=1551
+#EXTINF:-1 tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="📡台湾频道📺",靖天日本台
+http://hdtvtw.com/hstvs.php?pid=1552
+#EXTINF:-1 tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="📡台湾频道📺",靖天卡通台
+http://hdtvtw.com/hstvs.php?pid=1553
+#EXTINF:-1 tvg-name="靖洋卡通台" tvg-logo="https://epg.112114.xyz/logo/靖洋卡通台.png" group-title="📡台湾频道📺",靖洋卡通台
+http://hdtvtw.com/hstvs.php?pid=1554
+#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://epg.112114.xyz/logo/靖天电影台.png" group-title="📡台湾频道📺",靖天电影台
+http://hdtvtw.com/hstvs.php?pid=1555
+#EXTINF:-1 tvg-name="靖天资讯台" tvg-logo="https://epg.112114.xyz/logo/靖天资讯台.png" group-title="📡台湾频道📺",靖天资讯台
+http://hdtvtw.com/hstvs.php?pid=1556
+#EXTINF:-1 tvg-name="靖天国际台" tvg-logo="https://epg.112114.xyz/logo/靖天国际台.png" group-title="📡台湾频道📺",靖天国际台
+http://hdtvtw.com/hstvs.php?pid=1557
+#EXTINF:-1 tvg-name="靖天戏剧台" tvg-logo="https://epg.112114.xyz/logo/靖天戏剧台.png" group-title="📡台湾频道📺",靖天戏剧台
+http://hdtvtw.com/hstvs.php?pid=1558
+#EXTINF:-1 tvg-name="靖洋戏剧台" tvg-logo="https://epg.112114.xyz/logo/靖洋戏剧台.png" group-title="📡台湾频道📺",靖洋戏剧台
+http://hdtvtw.com/hstvs.php?pid=1559
+#EXTINF:-1 tvg-name="靖天育乐台" tvg-logo="https://epg.112114.xyz/logo/靖天育乐台.png" group-title="📡台湾频道📺",靖天育乐台
+http://hdtvtw.com/hstvs.php?pid=1560
+#EXTINF:-1 tvg-name="靖天映画台" tvg-logo="https://epg.112114.xyz/logo/靖天映画台.png" group-title="📡台湾频道📺",靖天映画台
+http://hdtvtw.com/hstvs.php?pid=1561
+#EXTINF:-1 tvg-name="靖天欢乐台" tvg-logo="https://epg.112114.xyz/logo/靖天欢乐台.png" group-title="📡台湾频道📺",靖天欢乐台
+http://hdtvtw.com/hstvs.php?pid=1562
+#EXTINF:-1 tvg-name="華藝MBC綜合台" tvg-logo="https://epg.112114.xyz/logo/華藝MBC綜合台.png" group-title="📡台湾频道📺",華藝MBC綜合台
+http://hdtvtw.com/hstvs.php?pid=1563
+#EXTINF:-1 tvg-name="LUXE TV" tvg-logo="https://epg.112114.xyz/logo/LUXE TV.png" group-title="📡台湾频道📺",LUXE TV
+http://hdtvtw.com/hstvs.php?pid=1564
+#EXTINF:-1 tvg-name="Trvl旅游台" tvg-logo="https://epg.112114.xyz/logo/Trvl旅游台.png" group-title="📡台湾频道📺",Trvl旅游台
+http://hdtvtw.com/hstvs.php?pid=1565
+#EXTINF:-1 tvg-name="美食星球" tvg-logo="https://epg.112114.xyz/logo/美食星球.png" group-title="📡台湾频道📺",美食星球
+http://hdtvtw.com/hstvs.php?pid=1566
+#EXTINF:-1 tvg-name="亚洲旅游台" tvg-logo="https://epg.112114.xyz/logo/亚洲旅游台.png" group-title="📡台湾频道📺",亚洲旅游台
+http://hdtvtw.com/hstvs.php?pid=1567
+#EXTINF:-1 tvg-name="台湾Plus" tvg-logo="https://epg.112114.xyz/logo/台湾Plus.png" group-title="📡台湾频道📺",台湾Plus
+http://hdtvtw.com/hstvs.php?pid=1568
+#EXTINF:-1 tvg-name="EYETV旅游" tvg-logo="https://epg.112114.xyz/logo/EYETV旅游.png" group-title="📡台湾频道📺",EYETV旅游
+http://hdtvtw.com/hstvs.php?pid=1569
+#EXTINF:-1 tvg-name="EYETV戏剧" tvg-logo="https://epg.112114.xyz/logo/EYETV戏剧.png" group-title="📡台湾频道📺",EYETV戏剧
+http://hdtvtw.com/hstvs.php?pid=1570
+#EXTINF:-1 tvg-name="NBA TV" tvg-logo="https://epg.112114.xyz/logo/NBA TV.png" group-title="📡台湾频道📺",NBA TV
+http://hdtvtw.com/hstvs.php?pid=1571
+#EXTINF:-1 tvg-name="ELEVEN1" tvg-logo="https://epg.112114.xyz/logo/ELEVEN1.png" group-title="📡台湾频道📺",ELEVEN1
+http://hdtvtw.com/hstvs.php?pid=1572
+#EXTINF:-1 tvg-name="ELEVEN2" tvg-logo="https://epg.112114.xyz/logo/ELEVEN2.png" group-title="📡台湾频道📺",ELEVEN2
+http://hdtvtw.com/hstvs.php?pid=1573
+#EXTINF:-1 tvg-name="ELTA日韩" tvg-logo="https://epg.112114.xyz/logo/ELTA日韩.png" group-title="📡台湾频道📺",ELTA日韩
+http://hdtvtw.com/hstvs.php?pid=1574
+#EXTINF:-1 tvg-name="ELTA影剧" tvg-logo="https://epg.112114.xyz/logo/ELTA影剧.png" group-title="📡台湾频道📺",ELTA影剧
+http://hdtvtw.com/hstvs.php?pid=1575
+#EXTINF:-1 tvg-name="ELTA综合" tvg-logo="https://epg.112114.xyz/logo/ELTA综合.png" group-title="📡台湾频道📺",ELTA综合
+http://hdtvtw.com/hstvs.php?pid=1576
+#EXTINF:-1 tvg-name="ELTA娱乐" tvg-logo="https://epg.112114.xyz/logo/ELTA娱乐.png" group-title="📡台湾频道📺",ELTA娱乐
+http://hdtvtw.com/hstvs.php?pid=1577
+#EXTINF:-1 tvg-name="ELTA生活旅游" tvg-logo="https://epg.112114.xyz/logo/ELTA生活旅游.png" group-title="📡台湾频道📺",ELTA生活旅游
+http://hdtvtw.com/hstvs.php?pid=1578
+#EXTINF:-1 tvg-name="ELTA体育1" tvg-logo="https://epg.112114.xyz/logo/ELTA体育1.png" group-title="📡台湾频道📺",ELTA体育1
+http://hdtvtw.com/hstvs.php?pid=1579
+#EXTINF:-1 tvg-name="ELTA体育2" tvg-logo="https://epg.112114.xyz/logo/ELTA体育2.png" group-title="📡台湾频道📺",ELTA体育2
+http://hdtvtw.com/hstvs.php?pid=1580
+#EXTINF:-1 tvg-name="ELTA体育3" tvg-logo="https://epg.112114.xyz/logo/ELTA体育3.png" group-title="📡台湾频道📺",ELTA体育3
+http://hdtvtw.com/hstvs.php?pid=1581
+#EXTINF:-1 tvg-name="ELTA体育4" tvg-logo="https://epg.112114.xyz/logo/ELTA体育4.png" group-title="📡台湾频道📺",ELTA体育4
+http://hdtvtw.com/hstvs.php?pid=1582
+#EXTINF:-1 tvg-name="ELTA体育MAX1" tvg-logo="https://epg.112114.xyz/logo/ELTA体育MAX1.png" group-title="📡台湾频道📺",ELTA体育MAX1
+http://hdtvtw.com/hstvs.php?pid=1583
+#EXTINF:-1 tvg-name="ELTA体育MAX2" tvg-logo="https://epg.112114.xyz/logo/ELTA体育MAX2.png" group-title="📡台湾频道📺",ELTA体育MAX2
+http://hdtvtw.com/hstvs.php?pid=1584
+#EXTINF:-1 tvg-name="ELTA体育MAX3" tvg-logo="https://epg.112114.xyz/logo/ELTA体育MAX3.png" group-title="📡台湾频道📺",ELTA体育MAX3
+http://hdtvtw.com/hstvs.php?pid=1585
+#EXTINF:-1 tvg-name="ELTA体育MAX4" tvg-logo="https://epg.112114.xyz/logo/ELTA体育MAX4.png" group-title="📡台湾频道📺",ELTA体育MAX4
+http://hdtvtw.com/hstvs.php?pid=1586
+#EXTINF:-1 tvg-name="GinxTV电竞频道" tvg-logo="https://epg.112114.xyz/logo/GinxTV电竞频道.png" group-title="📡台湾频道📺",GinxTV电竞频道
+http://hdtvtw.com/hstvs.php?pid=1587
+#EXTINF:-1 tvg-name="博斯运动1" tvg-logo="https://epg.112114.xyz/logo/博斯运动1.png" group-title="📡台湾频道📺",博斯运动1
+http://hdtvtw.com/hstvs.php?pid=1588
+#EXTINF:-1 tvg-name="博斯运动2" tvg-logo="https://epg.112114.xyz/logo/博斯运动2.png" group-title="📡台湾频道📺",博斯运动2
+http://hdtvtw.com/hstvs.php?pid=1589
+#EXTINF:-1 tvg-name="博斯高球1" tvg-logo="https://epg.112114.xyz/logo/博斯高球1.png" group-title="📡台湾频道📺",博斯高球1
+http://hdtvtw.com/hstvs.php?pid=1590
+#EXTINF:-1 tvg-name="博斯高球2" tvg-logo="https://epg.112114.xyz/logo/博斯高球2.png" group-title="📡台湾频道📺",博斯高球2
+http://hdtvtw.com/hstvs.php?pid=1591
+#EXTINF:-1 tvg-name="博斯网球" tvg-logo="https://epg.112114.xyz/logo/博斯网球.png" group-title="📡台湾频道📺",博斯网球
+http://hdtvtw.com/hstvs.php?pid=1592
+#EXTINF:-1 tvg-name="博斯无限" tvg-logo="https://epg.112114.xyz/logo/博斯无限.png" group-title="📡台湾频道📺",博斯无限
+http://hdtvtw.com/hstvs.php?pid=1593
+#EXTINF:-1 tvg-name="博斯无限2" tvg-logo="https://epg.112114.xyz/logo/博斯无限2.png" group-title="📡台湾频道📺",博斯无限2
+http://hdtvtw.com/hstvs.php?pid=1594
+#EXTINF:-1 tvg-name="博斯魅力" tvg-logo="https://epg.112114.xyz/logo/博斯魅力.png" group-title="📡台湾频道📺",博斯魅力
+http://hdtvtw.com/hstvs.php?pid=1595
+#EXTINF:-1 tvg-name="智林体育台" tvg-logo="https://epg.112114.xyz/logo/智林体育台.png" group-title="📡台湾频道📺",智林体育台
+http://hdtvtw.com/hstvs.php?pid=1596
+#EXTINF:-1 tvg-name="TRACESportStars" tvg-logo="https://epg.112114.xyz/logo/TRACESportStars.png" group-title="📡台湾频道📺",TRACESportStars
+http://hdtvtw.com/hstvs.php?pid=1597
+#EXTINF:-1 tvg-name="i-Fun動漫台" tvg-logo="https://epg.112114.xyz/logo/i-Fun動漫台.png" group-title="📡台湾频道📺",i-Fun動漫台
+http://hdtvtw.com/hstvs.php?pid=1598
+#EXTINF:-1 tvg-name="Z频道" tvg-logo="https://epg.112114.xyz/logo/Z频道.png" group-title="📡台湾频道📺",Z频道
+http://hdtvtw.com/hstvs.php?pid=1599
+#EXTINF:-1 tvg-name="Cartoonito" tvg-logo="https://epg.112114.xyz/logo/Cartoonito.png" group-title="📡台湾频道📺",Cartoonito
+http://hdtvtw.com/hstvs.php?pid=1600
+#EXTINF:-1 tvg-name="CN卡通频道" tvg-logo="https://epg.112114.xyz/logo/CN卡通频道.png" group-title="📡台湾频道📺",CN卡通频道
+http://hdtvtw.com/hstvs.php?pid=1601
+#EXTINF:-1 tvg-name="尼克儿童频道" tvg-logo="https://epg.112114.xyz/logo/尼克儿童频道.png" group-title="📡台湾频道📺",尼克儿童频道
+http://hdtvtw.com/hstvs.php?pid=1602
+#EXTINF:-1 tvg-name="Boomerang" tvg-logo="https://epg.112114.xyz/logo/Boomerang.png" group-title="📡台湾频道📺",Boomerang
+http://hdtvtw.com/hstvs.php?pid=1603
+#EXTINF:-1 tvg-name="NickJr儿童频道" tvg-logo="https://epg.112114.xyz/logo/NickJr儿童频道.png" group-title="📡台湾频道📺",NickJr儿童频道
+http://hdtvtw.com/hstvs.php?pid=1604
+#EXTINF:-1 tvg-name="BBC Cbeebies" tvg-logo="https://epg.112114.xyz/logo/BBC Cbeebies.png" group-title="📡台湾频道📺",BBC Cbeebies
+http://hdtvtw.com/hstvs.php?pid=1605
+#EXTINF:-1 tvg-name="梦工厂动画" tvg-logo="https://epg.112114.xyz/logo/梦工厂动画.png" group-title="📡台湾频道📺",梦工厂动画
+http://hdtvtw.com/hstvs.php?pid=1606
+#EXTINF:-1 tvg-name="PetClubTV" tvg-logo="https://epg.112114.xyz/logo/PetClubTV.png" group-title="📡台湾频道📺",PetClubTV
+http://hdtvtw.com/hstvs.php?pid=1607
+#EXTINF:-1 tvg-name="精选动漫台" tvg-logo="https://epg.112114.xyz/logo/精选动漫台.png" group-title="📡台湾频道📺",精选动漫台
+http://hdtvtw.com/hstvs.php?pid=1608
+#EXTINF:-1 tvg-name="经典卡通台" tvg-logo="https://epg.112114.xyz/logo/经典卡通台.png" group-title="📡台湾频道📺",经典卡通台
+http://hdtvtw.com/hstvs.php?pid=1609
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="📡台湾频道📺",美亚电影台
+http://hdtvtw.com/hstvs.php?pid=1610
+#EXTINF:-1 tvg-name="Thrill惊悚" tvg-logo="https://epg.112114.xyz/logo/Thrill惊悚.png" group-title="📡台湾频道📺",Thrill惊悚
+http://hdtvtw.com/hstvs.php?pid=1611
+#EXTINF:-1 tvg-name="AXN頻道" tvg-logo="https://epg.112114.xyz/logo/AXN頻道.png" group-title="📡台湾频道📺",AXN頻道
+http://hdtvtw.com/hstvs.php?pid=1612
+#EXTINF:-1 tvg-name="华纳电影" tvg-logo="https://epg.112114.xyz/logo/华纳电影.png" group-title="📡台湾频道📺",华纳电影
+http://hdtvtw.com/hstvs.php?pid=1613
+#EXTINF:-1 tvg-name="tVN" tvg-logo="https://epg.112114.xyz/logo/tVN.png" group-title="📡台湾频道📺",tVN
+http://hdtvtw.com/hstvs.php?pid=1614
+#EXTINF:-1 tvg-name="StarMovies" tvg-logo="https://epg.112114.xyz/logo/StarMovies.png" group-title="📡台湾频道📺",StarMovies
+http://hdtvtw.com/hstvs.php?pid=1615
+#EXTINF:-1 tvg-name="CinemaWorld" tvg-logo="https://epg.112114.xyz/logo/CinemaWorld.png" group-title="📡台湾频道📺",CinemaWorld
+http://hdtvtw.com/hstvs.php?pid=1616
+#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="https://epg.112114.xyz/logo/CINEMAX.png" group-title="📡台湾频道📺",CINEMAX
+http://hdtvtw.com/hstvs.php?pid=1617
+#EXTINF:-1 tvg-name="HBO" tvg-logo="https://epg.112114.xyz/logo/HBO.png" group-title="📡台湾频道📺",HBO
+http://hdtvtw.com/hstvs.php?pid=1618
+#EXTINF:-1 tvg-name="HBO HD" tvg-logo="https://epg.112114.xyz/logo/HBO HD.png" group-title="📡台湾频道📺",HBO HD
+http://hdtvtw.com/hstvs.php?pid=1619
+#EXTINF:-1 tvg-name="HBO原创" tvg-logo="https://epg.112114.xyz/logo/HBO原创.png" group-title="📡台湾频道📺",HBO原创
+http://hdtvtw.com/hstvs.php?pid=1620
+#EXTINF:-1 tvg-name="HBO强档" tvg-logo="https://epg.112114.xyz/logo/HBO强档.png" group-title="📡台湾频道📺",HBO强档
+http://hdtvtw.com/hstvs.php?pid=1621
+#EXTINF:-1 tvg-name="HBO家庭" tvg-logo="https://epg.112114.xyz/logo/HBO家庭.png" group-title="📡台湾频道📺",HBO家庭
+http://hdtvtw.com/hstvs.php?pid=1622
+#EXTINF:-1 tvg-name="好莱坞电影" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影.png" group-title="📡台湾频道📺",好莱坞电影
+http://hdtvtw.com/hstvs.php?pid=1623
+#EXTINF:-1 tvg-name="amc最爱电影" tvg-logo="https://epg.112114.xyz/logo/amc最爱电影.png" group-title="📡台湾频道📺",amc最爱电影
+http://hdtvtw.com/hstvs.php?pid=1624
+#EXTINF:-1 tvg-name="CatchPlay电影台" tvg-logo="https://epg.112114.xyz/logo/CatchPlay电影台.png" group-title="📡台湾频道📺",CatchPlay电影台
+http://hdtvtw.com/hstvs.php?pid=1625
+#EXTINF:-1 tvg-name="RockEntertainment" tvg-logo="https://epg.112114.xyz/logo/RockEntertainment.png" group-title="📡台湾频道📺",RockEntertainment
+http://hdtvtw.com/hstvs.php?pid=1626
+#EXTINF:-1 tvg-name="RockAction" tvg-logo="https://epg.112114.xyz/logo/RockAction.png" group-title="📡台湾频道📺",RockAction
+http://hdtvtw.com/hstvs.php?pid=1627
+#EXTINF:-1 tvg-name="RockExtreme" tvg-logo="https://epg.112114.xyz/logo/RockExtreme.png" group-title="📡台湾频道📺",RockExtreme
+http://hdtvtw.com/hstvs.php?pid=1628
+#EXTINF:-1 tvg-name="MyCinemaEurope" tvg-logo="https://epg.112114.xyz/logo/MyCinemaEurope.png" group-title="📡台湾频道📺",MyCinemaEurope
+http://hdtvtw.com/hstvs.php?pid=1629
+#EXTINF:-1 tvg-name="经典电影台" tvg-logo="https://epg.112114.xyz/logo/经典电影台.png" group-title="📡台湾频道📺",经典电影台
+http://hdtvtw.com/hstvs.php?pid=1630
+#EXTINF:-1 tvg-name="采昌影剧台" tvg-logo="https://epg.112114.xyz/logo/采昌影剧台.png" group-title="📡台湾频道📺",采昌影剧台
+http://hdtvtw.com/hstvs.php?pid=1631
+#EXTINF:-1 tvg-name="高点综合" tvg-logo="https://epg.112114.xyz/logo/高点综合.png" group-title="📡台湾频道📺",高点综合
+http://hdtvtw.com/hstvs.php?pid=1632
+#EXTINF:-1 tvg-name="信吉" tvg-logo="https://epg.112114.xyz/logo/信吉.png" group-title="📡台湾频道📺",信吉
+http://hdtvtw.com/hstvs.php?pid=1633
+#EXTINF:-1 tvg-name="信大" tvg-logo="https://epg.112114.xyz/logo/信大.png" group-title="📡台湾频道📺",信大
+http://hdtvtw.com/hstvs.php?pid=1634
+#EXTINF:-1 tvg-name="东风卫视" tvg-logo="https://epg.112114.xyz/logo/东风卫视.png" group-title="📡台湾频道📺",东风卫视
+http://hdtvtw.com/hstvs.php?pid=1635
+#EXTINF:-1 tvg-name="达文西频道" tvg-logo="https://epg.112114.xyz/logo/达文西频道.png" group-title="📡台湾频道📺",达文西频道
+http://hdtvtw.com/hstvs.php?pid=1636
+#EXTINF:-1 tvg-name="Smart知识台" tvg-logo="https://epg.112114.xyz/logo/Smart知识台.png" group-title="📡台湾频道📺",Smart知识台
+http://hdtvtw.com/hstvs.php?pid=1637
+#EXTINF:-1 tvg-name="电影原聲台" tvg-logo="https://epg.112114.xyz/logo/电影原聲台.png" group-title="📡台湾频道📺",电影原聲台
+http://hdtvtw.com/hstvs.php?pid=1638
+#EXTINF:-1 tvg-name="客家电视台" tvg-logo="https://epg.112114.xyz/logo/客家电视台.png" group-title="📡台湾频道📺",客家电视台
+http://hdtvtw.com/hstvs.php?pid=1639
+#EXTINF:-1 tvg-name="原住民频道" tvg-logo="https://epg.112114.xyz/logo/原住民频道.png" group-title="📡台湾频道📺",原住民频道
+http://hdtvtw.com/hstvs.php?pid=1640
+#EXTINF:-1 tvg-name="新唐人亞太台" tvg-logo="https://epg.112114.xyz/logo/新唐人亞太台.png" group-title="📡台湾频道📺",新唐人亞太台
+http://hdtvtw.com/hstvs.php?pid=1641
+#EXTINF:-1 tvg-name="VOA美国之音" tvg-logo="https://epg.112114.xyz/logo/VOA美国之音.png" group-title="📡台湾频道📺",VOA美国之音
+http://hdtvtw.com/hstvs.php?pid=1642
+#EXTINF:-1 tvg-name="MTV音乐频道" tvg-logo="https://epg.112114.xyz/logo/MTV音乐频道.png" group-title="📡台湾频道📺",MTV音乐频道
+http://hdtvtw.com/hstvs.php?pid=1643
+#EXTINF:-1 tvg-name="古典音樂台" tvg-logo="https://epg.112114.xyz/logo/古典音樂台.png" group-title="📡台湾频道📺",古典音樂台
+http://hdtvtw.com/hstvs.php?pid=1644
+#EXTINF:-1 tvg-name="韩国娱乐台" tvg-logo="https://epg.112114.xyz/logo/韩国娱乐台.png" group-title="📡台湾频道📺",韩国娱乐台
+http://hdtvtw.com/hstvs.php?pid=1645
+#EXTINF:-1 tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.112114.xyz/logo/猪哥亮歌厅秀.png" group-title="📡台湾频道📺",猪哥亮歌厅秀
+http://hdtvtw.com/hstvs.php?pid=1646
+#EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="https://epg.112114.xyz/logo/幸福空间居家台.png" group-title="📡台湾频道📺",幸福空间居家台
+http://hdtvtw.com/hstvs.php?pid=1647
+#EXTINF:-1 tvg-name="空中英语教室" tvg-logo="https://epg.112114.xyz/logo/空中英语教室.png" group-title="📡台湾频道📺",空中英语教室
+http://hdtvtw.com/hstvs.php?pid=1648
+#EXTINF:-1 tvg-name="ELTV生活英语台" tvg-logo="https://epg.112114.xyz/logo/ELTV生活英语台.png" group-title="📡台湾频道📺",ELTV生活英语台
+http://hdtvtw.com/hstvs.php?pid=1649
+#EXTINF:-1 tvg-name="互动英语频道" tvg-logo="https://epg.112114.xyz/logo/互动英语频道.png" group-title="📡台湾频道📺",互动英语频道
+http://hdtvtw.com/hstvs.php?pid=1650
+#EXTINF:-1 tvg-name="BBC Earth" tvg-logo="https://epg.112114.xyz/logo/BBC Earth.png" group-title="📡台湾频道📺",BBC Earth
+http://hdtvtw.com/hstvs.php?pid=1651
+#EXTINF:-1 tvg-name="BBC Lifestyle" tvg-logo="https://epg.112114.xyz/logo/BBC Lifestyle.png" group-title="📡台湾频道📺",BBC Lifestyle
+http://hdtvtw.com/hstvs.php?pid=1652
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="https://epg.112114.xyz/logo/BBC News.png" group-title="📡台湾频道📺",BBC News
+http://hdtvtw.com/hstvs.php?pid=1653
+#EXTINF:-1 tvg-name="HISTORY2" tvg-logo="https://epg.112114.xyz/logo/HISTORY2.png" group-title="📡台湾频道📺",HISTORY2
+http://hdtvtw.com/hstvs.php?pid=1654
+#EXTINF:-1 tvg-name="INULTRA" tvg-logo="https://epg.112114.xyz/logo/INULTRA.png" group-title="📡台湾频道📺",INULTRA
+http://hdtvtw.com/hstvs.php?pid=1655
+#EXTINF:-1 tvg-name="国家地理" tvg-logo="https://epg.112114.xyz/logo/国家地理.png" group-title="📡台湾频道📺",国家地理
+http://hdtvtw.com/hstvs.php?pid=1656
+#EXTINF:-1 tvg-name="国家地理野生海外版" tvg-logo="https://epg.112114.xyz/logo/国家地理野生海外版.png" group-title="📡台湾频道📺",国家地理野生海外版
+http://hdtvtw.com/hstvs.php?pid=1657
+#EXTINF:-1 tvg-name="动物星球" tvg-logo="https://epg.112114.xyz/logo/动物星球.png" group-title="📡台湾频道📺",动物星球
+http://hdtvtw.com/hstvs.php?pid=1658
+#EXTINF:-1 tvg-name="探索频道" tvg-logo="https://epg.112114.xyz/logo/探索频道.png" group-title="📡台湾频道📺",探索频道
+http://hdtvtw.com/hstvs.php?pid=1659
+#EXTINF:-1 tvg-name="探索动力" tvg-logo="https://epg.112114.xyz/logo/探索动力.png" group-title="📡台湾频道📺",探索动力
+http://hdtvtw.com/hstvs.php?pid=1660
+#EXTINF:-1 tvg-name="探索科学" tvg-logo="https://epg.112114.xyz/logo/探索科学.png" group-title="📡台湾频道📺",探索科学
+http://hdtvtw.com/hstvs.php?pid=1661
+#EXTINF:-1 tvg-name="探索亚洲" tvg-logo="https://epg.112114.xyz/logo/探索亚洲.png" group-title="📡台湾频道📺",探索亚洲
+http://hdtvtw.com/hstvs.php?pid=1662
+#EXTINF:-1 tvg-name="探索EVE" tvg-logo="https://epg.112114.xyz/logo/探索EVE.png" group-title="📡台湾频道📺",探索EVE
+http://hdtvtw.com/hstvs.php?pid=1663
+#EXTINF:-1 tvg-name="居家乐活频道" tvg-logo="https://epg.112114.xyz/logo/居家乐活频道.png" group-title="📡台湾频道📺",居家乐活频道
+http://hdtvtw.com/hstvs.php?pid=1664
+#EXTINF:-1 tvg-name="CI罪案偵查頻道" tvg-logo="https://epg.112114.xyz/logo/CI罪案偵查頻道.png" group-title="📡台湾频道📺",CI罪案偵查頻道
+http://hdtvtw.com/hstvs.php?pid=1665
+#EXTINF:-1 tvg-name="亚洲美食频道" tvg-logo="https://epg.112114.xyz/logo/亚洲美食频道.png" group-title="📡台湾频道📺",亚洲美食频道
+http://hdtvtw.com/hstvs.php?pid=1666
+#EXTINF:-1 tvg-name="CNEX频道" tvg-logo="https://epg.112114.xyz/logo/CNEX频道.png" group-title="📡台湾频道📺",CNEX频道
+http://hdtvtw.com/hstvs.php?pid=1667
+#EXTINF:-1 tvg-name="人间卫视" tvg-logo="https://epg.112114.xyz/logo/人间卫视.png" group-title="📡台湾频道📺",人间卫视
+http://hdtvtw.com/hstvs.php?pid=1668
+#EXTINF:-1 tvg-name="大爱一台" tvg-logo="https://epg.112114.xyz/logo/大爱一台.png" group-title="📡台湾频道📺",大爱一台
+http://hdtvtw.com/hstvs.php?pid=1669
+#EXTINF:-1 tvg-name="大爱二台" tvg-logo="https://epg.112114.xyz/logo/大爱二台.png" group-title="📡台湾频道📺",大爱二台
+http://hdtvtw.com/hstvs.php?pid=1670
+#EXTINF:-1 tvg-name="生命电视台" tvg-logo="https://epg.112114.xyz/logo/生命电视台.png" group-title="📡台湾频道📺",生命电视台
+http://hdtvtw.com/hstvs.php?pid=1671
+#EXTINF:-1 tvg-name="唯心电视" tvg-logo="https://epg.112114.xyz/logo/唯心电视.png" group-title="📡台湾频道📺",唯心电视
+http://hdtvtw.com/hstvs.php?pid=1672
+#EXTINF:-1 tvg-name="创世电视" tvg-logo="https://epg.112114.xyz/logo/创世电视.png" group-title="📡台湾频道📺",创世电视
+http://hdtvtw.com/hstvs.php?pid=1673
+#EXTINF:-1 tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="📡台湾频道📺",好消息
+http://hdtvtw.com/hstvs.php?pid=1674
+#EXTINF:-1 tvg-name="好消息2" tvg-logo="https://epg.112114.xyz/logo/好消息2.png" group-title="📡台湾频道📺",好消息2
+http://hdtvtw.com/hstvs.php?pid=1675
+#EXTINF:-1 tvg-name="国会频道1" tvg-logo="https://epg.112114.xyz/logo/国会频道1.png" group-title="📡台湾频道📺",国会频道1
+http://hdtvtw.com/hstvs.php?pid=1676
+#EXTINF:-1 tvg-name="国会频道2" tvg-logo="https://epg.112114.xyz/logo/国会频道2.png" group-title="📡台湾频道📺",国会频道2
+http://hdtvtw.com/hstvs.php?pid=1677
+
+
 
 
 
