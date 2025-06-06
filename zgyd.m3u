@@ -260,9 +260,9 @@ http://hdtvtw.com/hstvs.php?pid=31
 http://hdtvtw.com/hstvs.php?pid=1210
 #EXTINF:-1 tvg-name="Animax" tvg-logo="https://epg.112114.xyz/logo/Animax.png" group-title="📡香港频道📺",Animax
 http://hdtvtw.com/hstvs.php?pid=32
-#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://epg.112114.xyz/logo/Now爆谷台.png" group-title="📡香港频道📺",Now爆谷台
+#EXTINF:-1 tvg-name="Now爆谷台" tvg-logo="https://epg.112114.xyz/logo/Now爆谷台.png" group-title="📡香港频道📺",Now爆谷台(国)
 http://hdtvtw.com/hstvs.php?pid=44
-#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="📡香港频道📺",Now星影台
+#EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="📡香港频道📺",Now星影台(国)
 http://hdtvtw.com/hstvs.php?pid=43
 #EXTINF:-1 tvg-name="Now星影台" tvg-logo="https://epg.v1.mk/logo/星影台.png" group-title="📡香港频道📺",Now星影台
 http://hdtvtw.com/hstvs.php?pid=1175
@@ -502,7 +502,7 @@ http://hdtvtw.com/hstvs.php?pid=1331
 http://hdtvtw.com/hstvs.php?pid=1332
 #EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://epg.112114.xyz/logo/iQIYI.png" group-title="📡马来频道📺",iQIYI
 http://hdtvtw.com/hstvs.php?pid=1333
-#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://epg.112114.xyz/logo/千禧经典.png" group-title="📡马来频道📺",千禧经典
+#EXTINF:-1 tvg-name="千禧经典" tvg-logo="https://epg.112114.xyz/logo/千禧经典.png" group-title="📡马来频道📺",TVB千禧经典
 http://hdtvtw.com/hstvs.php?pid=1334
 #EXTINF:-1 tvg-name="Astro AEC" tvg-logo="https://epg.112114.xyz/logo/Astro AEC.png" group-title="📡马来频道📺",Astro AEC
 http://hdtvtw.com/hstvs.php?pid=1335
@@ -524,9 +524,9 @@ http://hdtvtw.com/hstvs.php?pid=1342
 http://hdtvtw.com/hstvs.php?pid=1343
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/天映经典.png" group-title="📡马来频道📺",天映经典
 http://hdtvtw.com/hstvs.php?pid=1344
-#EXTINF:-1 tvg-name="Phoenix Chinese Channel" tvg-logo="https://epg.112114.xyz/logo/Phoenix Chinese Channel.png" group-title="📡马来频道📺",Phoenix Chinese Channel
+#EXTINF:-1 tvg-name="Phoenix Chinese Channel" tvg-logo="https://epg.112114.xyz/logo/Phoenix Chinese Channel.png" group-title="📡马来频道📺",凤凰卫视台
 http://hdtvtw.com/hstvs.php?pid=1345
-#EXTINF:-1 tvg-name="Phoenix Info News" tvg-logo="https://epg.112114.xyz/logo/Phoenix Info News.png" group-title="📡马来频道📺",Phoenix Info News
+#EXTINF:-1 tvg-name="Phoenix Info News" tvg-logo="https://epg.112114.xyz/logo/Phoenix Info News.png" group-title="📡马来频道📺",凤凰资讯台
 http://hdtvtw.com/hstvs.php?pid=1346
 #EXTINF:-1 tvg-name="ASTRO欢喜台" tvg-logo="https://epg.112114.xyz/logo/ASTRO欢喜台.png" group-title="📡马来频道📺",ASTRO欢喜台
 http://hdtvtw.com/hstvs.php?pid=1347
