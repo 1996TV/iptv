@@ -268,7 +268,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="🇭🇰香港频道📡",HOY78
 https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://epg.v1.mk/logo/TVB功夫.png" group-title="🇭🇰香港频道📡",TVB功夫
-http://v2h.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
+https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://epg.v1.mk/logo/TVBJ1.png" group-title="🇭🇰香港频道📡",TVBJ1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="🇭🇰香港频道📡",NOW新闻
