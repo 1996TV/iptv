@@ -102,8 +102,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226655/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226668/1.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="🇨🇳卫视频道📡",湖北卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226713/1.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="🇨🇳卫视频道📡",江西卫视
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226682/1.m3u8
+
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="🇨🇳卫视频道📡",江西卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226726/1.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="🇨🇳卫视频道📡",东南卫视
@@ -116,8 +115,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226688/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226681/1.m3u8
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="🇨🇳卫视频道📡",云南卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226709/1.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="🇨🇳卫视频道📡",贵州卫视
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226676/1.m3u8
+
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="🇨🇳卫视频道📡",贵州卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226672/1.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="🇨🇳卫视频道📡",四川卫视
