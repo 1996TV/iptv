@@ -313,7 +313,7 @@ http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225673/.m3u8
 #EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://live.fanmingming.cn/tv/中国功夫.png" group-title="🇨🇳地方频道📡",中国功夫
 http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225681/.m3u8
 
-#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="🇨🇳咪咕视频📡",至臻视界
+#EXTINF:-1 tvg-name="至臻视界" tvg-logo="https://raw.githubusercontent.com/mai761/iptv-subscription/refs/heads/main/E9178385-DF78-48DB-806B-180107E8C6FB.png" group-title="🇨🇳咪咕视频📡",至臻视界
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226991/1.m3u8
 #EXTINF:-1 tvg-name="咪咕4K" tvg-logo="https://epg.112114.xyz/logo/咪咕4K.png" group-title="🇨🇳咪咕视频📡",咪咕4K
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226938/1.m3u8
