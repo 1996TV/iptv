@@ -173,8 +173,7 @@ http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 http://kkk.888.3116598.xyz/api.php?n=2809928185&id=qLdQFE&tk=7xXdoJatSTbS
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🇭🇰香港频道📡",天映经典
 http://kkk.888.3116598.xyz/api.php?n=2809928185&id=Omqco0&tk=7xXdoJatSTbS
-#EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://pictr.com/images/2024/11/06/xi9O91.png" group-title="🇭🇰香港频道📡",天映频道(印尼)
-https://mysupertv.pendy.dpdns.org/TYPD/typd.m3u8
+
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🇭🇰香港频道📡",Animax
 https://live.tvfix.org/live/animax/index.m3u8
 
@@ -245,19 +244,17 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226703/1.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="🇨🇳少儿频道📡",金鹰卡通
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226674/1.m3u8
-#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://live.fanmingming.cn/tv/金鹰卡通.png" group-title="🇨🇳少儿频道📡",金鹰卡通
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225653/.m3u8
+
 #EXTINF:-1 tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="🇨🇳地方频道📡",北京纪实科教
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226658/1.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷少儿.png" group-title="🇨🇳少儿频道📡",北京卡酷少儿
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226677/1.m3u8
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京体育休闲.png" group-title="🇨🇳地方频道📡",北京体育休闲
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226730/1.m3u8
+
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东教育卫视.png" group-title="🇨🇳卫视频道📡",山东教育卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226701/1.m3u8
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="🇨🇳卫视频道📡",哒啵电竞
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226891/1.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵电竞.png" group-title="🇨🇳卫视频道📡",哒啵电竞
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/哒啵赛事.png" group-title="🇨🇳卫视频道📡",哒啵赛事
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226905/1.m3u8
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰纪实.png" group-title="🇨🇳卫视频道📡",金鹰纪实
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226667/1.m3u8
