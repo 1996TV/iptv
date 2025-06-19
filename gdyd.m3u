@@ -141,6 +141,8 @@ http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
 
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河HD
+http://113.64.146.99:9901/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河(国)
 http://kkk.888.3116598.xyz/api.php?n=2809928185&id=bLhD2u&tk=7xXdoJatSTbS
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🇭🇰香港频道📡",明珠台
@@ -235,6 +237,13 @@ http://8.138.7.223/tv/gd.php?id=0008
 http://113.64.146.99:9901/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="🇨🇳广东频道📡",广东影视
 http://113.64.146.99:9901/hls/42/index.m3u8
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="🇨🇳广东频道📡",广东新闻
+http://113.64.146.99:9901/hls/37/index.m3u8
+#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.v1.mk/logo/广东经济科教.png" group-title="🇨🇳广东频道📡",广东经济科教
+http://113.64.146.99:9901/hls/41/index.m3u8
+#EXTINF:-1,tvg-id="广东岭南戏曲" tvg-name="广东岭南戏曲" tvg-logo="https://epg.v1.mk/logo/广东岭南戏曲.png" group-title="🇨🇳广东频道📡",广东岭南戏曲
+http://113.64.146.99:9901/hls/47/index.m3u8
 
 
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="🇨🇳广东频道📡",广州综合
