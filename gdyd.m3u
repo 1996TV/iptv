@@ -230,7 +230,7 @@ http://113.64.146.99:9901/hls/36/index.m3u8
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
-https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
+http://8.138.7.223/tv/gd.php?id=0008
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="🇨🇳广东频道📡",广东民生
 http://113.64.146.99:9901/hls/38/index.m3u8
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="🇨🇳广东频道📡",广东影视
