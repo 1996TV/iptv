@@ -62,6 +62,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226692/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="🇨🇳卫视频道📡",浙江卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="🇨🇳卫视频道📡",北京卫视4k
 http://148.135.93.213/live.php?id=北京卫视
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="🇨🇳卫视频道📡",北京卫视
