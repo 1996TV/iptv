@@ -229,23 +229,23 @@ http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江(超清)
+http://121.199.57.64:5000/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-http://113.64.146.99:9901/hls/36/index.m3u8
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-https://ali.hlspull.yximgs.com/live/guangdong_zj.flv
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
-http://8.138.7.223/tv/gd.php?id=0008
+http://121.199.57.64:5000/udp/239.77.0.215:5146
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="🇨🇳广东频道📡",广东民生
-http://113.64.146.99:9901/hls/38/index.m3u8
+http://121.199.57.64:5000/udp/239.77.0.225:5146
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="🇨🇳广东频道📡",广东影视
-http://113.64.146.99:9901/hls/42/index.m3u8
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
+http://121.199.57.64:5000/udp/239.77.0.217:5146
+
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="🇨🇳广东频道📡",广东新闻
-http://113.64.146.99:9901/hls/37/index.m3u8
+http://121.199.57.64:5000/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.v1.mk/logo/广东经济科教.png" group-title="🇨🇳广东频道📡",广东经济科教
-http://113.64.146.99:9901/hls/41/index.m3u8
-#EXTINF:-1,tvg-id="广东岭南戏曲" tvg-name="广东岭南戏曲" tvg-logo="https://epg.v1.mk/logo/广东岭南戏曲.png" group-title="🇨🇳广东频道📡",广东岭南戏曲
-http://113.64.146.99:9901/hls/47/index.m3u8
+http://121.199.57.64:5000/udp/239.77.0.167:5146
+#EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.v1.mk/logo/南国都是4K.png" group-title="🇨🇳广东频道📡",南国都市4K
+http://121.199.57.64:5000/udp/239.253.43.99:5146
 
 
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="🇨🇳广东频道📡",广州综合
