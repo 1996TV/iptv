@@ -229,7 +229,7 @@ http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
-#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江(超清)
+#EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://121.199.57.64:5000/udp/239.77.0.114:5146
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
@@ -244,7 +244,7 @@ http://121.199.57.64:5000/udp/239.77.0.217:5146
 http://121.199.57.64:5000/udp/239.77.0.173:5146
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.v1.mk/logo/广东经济科教.png" group-title="🇨🇳广东频道📡",广东经济科教
 http://121.199.57.64:5000/udp/239.77.0.167:5146
-#EXTINF:-1,tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.v1.mk/logo/南国都是4K.png" group-title="🇨🇳广东频道📡",南国都市4K
+#EXTINF:-1,tvg-id="广东南国" tvg-name="广东南国" tvg-logo="https://epg.v1.mk/logo/广东南国.png" group-title="🇨🇳广东频道📡",广东南国
 http://121.199.57.64:5000/udp/239.253.43.99:5146
 
 
