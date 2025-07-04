@@ -236,6 +236,10 @@ http://a.ru8.dpdns.org/now/630/master.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
+http://121.199.57.64:5000/udp/239.77.0.114:5146
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
+http://121.199.57.64:5000/udp/239.77.0.168:5146
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
@@ -244,7 +248,7 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-http://121.199.57.64:5000/udp/239.77.0.114:5146
+http://121.199.57.64:5000/udp/239.77.0.1:5146
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
