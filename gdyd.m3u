@@ -161,7 +161,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河HD
 http://113.64.146.99:9901/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="🇭🇰香港频道📡",TVB星河(国)
-http://kkk.888.3116598.xyz/api.php?n=2809928185&id=bLhD2u&tk=7xXdoJatSTbS
+https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.v1.mk/logo/明珠台.png" group-title="🇭🇰香港频道📡",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="🇭🇰香港频道📡",TVB Plus
