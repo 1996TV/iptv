@@ -191,9 +191,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="🇭🇰香港频道📡",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="天映" tvg-name="天映" tvg-logo="https://pictr.com/images/2024/11/06/xi9O91.png" group-title="🇭🇰香港频道📡",天映频道
-http://kkk.888.3116598.xyz/api.php?n=2809928185&id=qLdQFE&tk=7xXdoJatSTbS
+https://s1.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🇭🇰香港频道📡",天映经典
-http://kkk.888.3116598.xyz/api.php?n=2809928185&id=Omqco0&tk=7xXdoJatSTbS
+https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8
 
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🇭🇰香港频道📡",Animax
 https://live.tvfix.org/live/animax/index.m3u8
