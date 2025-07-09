@@ -34,28 +34,24 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226721/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226715/1.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="🇨🇳央视频道📡",CCTV9纪录
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226651/1.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="🇨🇳央视频道📡",CCTV9纪录
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226657/1.m3u8
+
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="🇨🇳央视频道📡",CCTV10科教
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226708/1.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="🇨🇳央视频道📡",CCTV11戏曲
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226714/1.m3u8
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="🇨🇳央视频道📡",CCTV12社法
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226723/1.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="🇨🇳央视频道📡",CCTV12社法
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226748/1.m3u8
+
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="🇨🇳央视频道📡",CCTV13新闻
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226717/1.m3u8
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="🇨🇳央视频道📡",CCTV14少儿
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226645/1.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="🇨🇳央视频道📡",CCTV14少儿
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226663/1.m3u8
+
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="🇨🇳央视频道📡",CCTV15音乐
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226648/1.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="🇨🇳央视频道📡",CCTV16奥体
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226825/1.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="🇨🇳央视频道📡",CCTV17农业
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
+
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="🇨🇳央视频道📡",CCTV17农业
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="🇨🇳央视频道📡",CGTN
