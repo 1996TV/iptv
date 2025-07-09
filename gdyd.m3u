@@ -60,8 +60,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226727/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226660/1.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="🇨🇳央视频道📡",CGTN
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226666/1.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="🇨🇳央视频道📡",CETV1
-http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226712/1.m3u8
+
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="🇨🇳央视频道📡",CETV1
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226673/1.m3u8
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png" group-title="🇨🇳央视频道📡",CETV2
