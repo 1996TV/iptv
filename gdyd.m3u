@@ -141,7 +141,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台
 http://148.135.93.213/live.php?id=翡翠台
@@ -411,6 +411,21 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226915/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="🇨🇳咪咕视频📡",咪咕视频
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226921/1.m3u8
 
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="🇨🇳4K频道📡",广东卫视4K
+http://119.32.12.12:2901/udp/225.1.101.86:7523
+#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="🇨🇳4K频道📡",深圳卫视4K
+http://119.32.12.12:2901/udp/225.1.101.35:7523
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="🇨🇳4K频道📡",北京卫视4K
+http://119.32.12.12:2901/udp/225.1.101.72:7523
+#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.cn/tv/广东4K超高清.png" group-title="🇨🇳4K频道📡",广东4K超高清
+http://119.32.12.12:2901/udp/225.1.101.44:7523
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳4K频道📡",CCTV-4K
+http://119.32.12.12:2901/udp/225.1.101.109:7523
+#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16-4K.png" group-title="🇨🇳4K频道📡",CCTV16-4K
+http://119.32.12.12:2901/udp/225.1.101.130:7523
+#EXTINF:-1 tvg-name="广州南国都市4K" tvg-logo="https://live.fanmingming.cn/tv/广州南国都市4K.png" group-title="🇨🇳4K频道📡",广州南国都市4K
+http://119.32.12.12:2901/udp/225.1.101.202:7523
 
 
 
