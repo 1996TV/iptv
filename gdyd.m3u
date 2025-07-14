@@ -413,10 +413,13 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226921/1.m3u8
 
 #EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="🇨🇳4K频道📡",广东卫视4K
+http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
 http://119.32.12.12:2901/udp/225.1.101.86:7523
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="🇨🇳4K频道📡",深圳卫视4K
+https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 http://119.32.12.12:2901/udp/225.1.101.35:7523
 #EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="🇨🇳4K频道📡",北京卫视4K
+http://118.89.87.74:88/live.php?id=北京卫视
 http://119.32.12.12:2901/udp/225.1.101.72:7523
 #EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.cn/tv/广东4K超高清.png" group-title="🇨🇳4K频道📡",广东4K超高清
 http://119.32.12.12:2901/udp/225.1.101.44:7523
