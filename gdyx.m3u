@@ -157,7 +157,7 @@ http://119.32.12.12:2901/udp/225.1.101.154:7523
 http://119.32.12.12:2901/udp/225.1.101.155:7523
 #EXTINF:-1 group-title="🇨🇳卫视频道📡" tvg-name="新视觉HD" tvg-logo="https://epg.112114.xyz/logo/新视觉HD.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",新视觉HD
 http://119.32.12.12:2901/udp/225.1.101.162:7523
-#EXTINF:-1 group-title="🇨🇳卫视频道📡" tvg-name="宁复卫视" tvg-logo="https://epg.112114.xyz/logo/宁复卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",宁复卫视
+#EXTINF:-1 group-title="🇨🇳卫视频道📡" tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",宁夏卫视
 http://119.32.12.12:2901/udp/225.1.101.169:7523
 #EXTINF:-1 group-title="🇨🇳卫视频道📡" tvg-name="三沙卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",三沙卫视
 http://119.32.12.12:2901/udp/225.1.101.173:7523
