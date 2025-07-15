@@ -33,7 +33,7 @@ http://119.32.12.12:2901/udp/225.1.101.34:7523
 http://119.32.12.12:2901/udp/225.1.101.160:7523
 #EXTINF:-1 group-title="🇨🇳央视频道📡" tvg-name="CCTV16" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV16
 http://119.32.12.12:2901/udp/225.1.101.130:7523
-#EXTINF:-1 group-title="🇨🇳央视频道📡" tvg-name="CCTV16超清" tvg-logo="https://epg.112114.xyz/logo/CCTV16超清.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV16超清
+#EXTINF:-1 group-title="🇨🇳央视频道📡" tvg-name="CCTV16超清" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV16超清
 http://119.32.12.12:2901/udp/225.1.101.133:7523
 #EXTINF:-1 group-title="🇨🇳央视频道📡" tvg-name="CCTV17" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",CCTV17
 http://119.32.12.12:2901/udp/225.1.101.161:7523
@@ -69,7 +69,7 @@ http://119.32.12.12:2901/udp/225.1.101.144:7523
 http://119.32.12.12:2901/udp/225.1.101.35:7523
 #EXTINF:-1 group-title="🇨🇳广东频道📡" tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广东卫视
 http://119.32.12.12:2901/udp/225.1.101.151:7523
-#EXTINF:-1 group-title="🇨🇳广东频道📡" tvg-name="广东卫视4K" tvg-logo="https://epg.112114.xyz/logo/广东卫视4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广东卫视4K
+#EXTINF:-1 group-title="🇨🇳广东频道📡" tvg-name="广东卫视4K" tvg-logo="https://i.postimg.cc/kMTpRJbN/4K.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广东卫视4K
 http://119.32.12.12:2901/udp/225.1.101.86:7523
 #EXTINF:-1 group-title="🇨🇳广东频道📡" tvg-name="广州综合" tvg-logo="https://epg.112114.xyz/logo/广州综合.png" epg-url="https://gitee.com/gsls200808/xmltvepg/raw/master/e9.xml.gz",广州综合
 http://119.32.12.12:2901/udp/225.1.101.158:7523
