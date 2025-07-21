@@ -140,7 +140,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226710/1.m3u8
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226679/1.m3u8
 
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台4K
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台4k" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台4K
 
 http://cdn.163189.xyz/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台
