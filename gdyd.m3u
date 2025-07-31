@@ -254,7 +254,7 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_zj.flv
+http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
 http://119.32.12.12:2901/udp/225.1.101.102:7523
 
