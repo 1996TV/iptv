@@ -174,7 +174,7 @@ http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
 #EXTINF:-1 tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="🇭🇰香港频道📡",ViuTV
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 #EXTINF:-1 tvg-id="VIUTVSIX" tvg-name="VIUTVSIX" tvg-logo="https://epg.v1.mk/logo/VIUTVSIX.png" group-title="🇭🇰香港频道📡",ViuTV6
-http://kkk.888.3116598.xyz/api.php?n=2809928185&id=qmKliW&tk=7xXdoJatSTbS
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=viusix_twn
 #EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="🇭🇰香港频道📡",RTHK31
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 #EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="🇭🇰香港频道📡",RTHK32
@@ -184,7 +184,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://epg.v1.mk/logo/千禧经典.png" group-title="🇭🇰香港频道📡",千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.112114.xyz/logo/POPC.png" group-title="🇭🇰香港频道📡",PopC
-http://j.s.bkpcp.top/js/popc
 http://fr-us7.jdiptv.cc/live/popc.m3u8
 #EXTINF:-1 tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.112114.xyz/logo/美亚电影台.png" group-title="🇭🇰香港频道📡",美亚电影台(HK)
 http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
@@ -193,17 +192,21 @@ http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://epg.v1.mk/logo/天映频道.png" group-title="🇭🇰香港频道📡",天映频道
-https://s1.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=Celestial
 
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="🇭🇰香港频道📡",天映经典
-https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=Celestial2
 #EXTINF:-1 tvg-id="ANIMAX" tvg-name="ANIMAX" tvg-logo="https://epg.112114.xyz/logo/ANIMAX.png" group-title="🇭🇰香港频道📡",Animax
 https://live.tvfix.org/live/animax/index.m3u8
 
 
 #EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/xw8hyq367daatwyc2mfzmazonl3cq1np.png" group-title="🇭🇰香港频道📡",NOW爆谷台
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1116163133.flv
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/vhNli7a2uwqrSArlhBpDjs0wLosrFVLkMnb9OJ2Hzj14qlP0TO.flv
 http://j.s.bkpcp.top/js/nowbgt
 #EXTINF:-1 tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/ekkw5x1ufsnt22zyhohxv9ei2x1tzidq.png" group-title="🇭🇰香港频道📡",NOW星影台
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge1f3s131fs3f1.flv
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/yU8AAUm9MpL5qwiSyewAkms5LtKjQp9G9LEk5mnLosrF1EgdRk.flv
 http://j.s.bkpcp.top/js/nowxyt
 
 
@@ -215,26 +218,37 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="🇭🇰香港频道📡",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://epg.v1.mk/logo/八度空间.png" group-title="🇭🇰香港频道📡",八度空间
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=TV8
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
 #EXTINF:-1 tvg-id="AstroAOD" tvg-name="AstroAOD" tvg-logo="https://epg.v1.mk/logo/AstroAOD.png" group-title="🇭🇰香港频道📡",Astro AOD
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=Aodhd
 http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 #EXTINF:-1 tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="🇭🇰香港频道📡",Astro AEC
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=AEC
 http://php.jdshipin.com:8880/smt.php?id=AEC
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://epg.v1.mk/logo/爱奇艺.png" group-title="🇭🇰香港频道📡",爱奇艺
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=Qiyi
 http://php.jdshipin.com:8880/smt.php?id=Qiyi
 #EXTINF:-1 tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="🇭🇰香港频道📡",Astro QJ
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=Quanjia
 http://php.jdshipin.com:8880/smt.php?id=Quanjia
 #EXTINF:-1 tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="🇭🇰香港频道📡",Astro欢喜台
-http://php.jdshipin.com:8880/smt.php?id=Huahee
+http://38.207.136.230:20002/smt3.2.1.php?token=mytv123&id=Huahee
+#EXTINF:-1 tvg-id="HOY76" tvg-name="HOY76" tvg-logo="https://epg.v1.mk/logo/HOY76.png" group-title="🇭🇰香港频道📡",HOY76
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy76oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="🇭🇰香港频道📡",HOY77
 http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy77oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://epg.v1.mk/logo/HOY78.png" group-title="🇭🇰香港频道📡",HOY78
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/hoy78oooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
 https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="TVB功夫" tvg-name="TVB功夫" tvg-logo="https://epg.v1.mk/logo/TVB功夫.png" group-title="🇭🇰香港频道📡",TVB功夫
+http://38.207.136.230:20004/live/yzwx/stream.m3u8?token=mytv123
 https://lb-mvtv-live.v2h-cdn.com/redirect/asia_action1/1asia_action.stream?type=m3u8
 #EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://epg.v1.mk/logo/TVBJ1.png" group-title="🇭🇰香港频道📡",TVBJ1
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://epg.v1.mk/logo/NOW新闻.png" group-title="🇭🇰香港频道📡",NOW新闻
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/nowxwtoooeifdj5shf6shhe3whvkd5euic3wmt8ozge74qjmej5dhf2.flv
 http://a.ru8.dpdns.org/now/332/master.m3u8
 #EXTINF:-1 tvg-id="NOW体育" tvg-name="NOW体育" tvg-logo="https://epg.pw/media/images/channel/2016/12/31/large/20161231231738105400_86.png" group-title="🇭🇰香港频道📡",NOW体育
 http://a.ru8.dpdns.org/now/630/master.m3u8
@@ -255,24 +269,21 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-http://api.mytv666.top/api/hk.php?id=6162313131666165376133396363636237633834663162366130663635663031267469643d74762669643d39
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
-http://119.32.12.12:2901/udp/225.1.101.102:7523
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ty.flv
 
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
-http://119.32.12.12:2901/udp/225.1.101.62:7523
-http://119.32.12.12:2901/udp/224.1.100.7:11111
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_dwq.flv
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="🇨🇳广东频道📡",广东民生
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ms.flv
-http://119.32.12.12:2901/udp/225.1.101.49:7523
+
 
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="🇨🇳广东频道📡",广东影视
-http://119.32.12.12:2901/udp/225.1.101.64:7523
-http://119.32.12.12:2901/udp/224.1.100.11:11111
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_ys.flv
 
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="🇨🇳广东频道📡",广东新闻
-http://119.32.12.12:2901/udp/225.1.101.65:7523
-http://119.32.12.12:2901/udp/224.1.100.5:11111
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/guangdong_xw.flv
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.v1.mk/logo/广东经济科教.png" group-title="🇨🇳广东频道📡",广东经济科教
 http://119.32.12.12:2901/udp/225.1.101.211:7523
 http://119.32.12.12:2901/udp/224.1.100.6:11111
@@ -280,18 +291,18 @@ http://119.32.12.12:2901/udp/224.1.100.6:11111
 
 
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="🇨🇳广东频道📡",广州综合
-http://119.32.12.12:2901/udp/225.1.101.158:7523
+
 https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.cn/tv/广州新闻.png" group-title="🇨🇳广东频道📡",广州新闻
-http://119.32.12.12:2901/udp/225.1.101.159:7523
+
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
 #EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png" group-title="🇨🇳广东频道📡",广州法治
-http://119.32.12.12:2901/udp/225.1.101.203:7523
+
 https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab3178bc&txTime=18d00acf487
 #EXTINF:-1 tvg-name="广州影视" tvg-logo="https://live.fanmingming.cn/tv/广州影视.png" group-title="🇨🇳广东频道📡",广州影视
 https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
 #EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="🇨🇳广东频道📡",广州南国都市
-http://119.32.12.12:2901/udp/225.1.101.202:7523
+
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="「广东」阳江综合" tvg-name="「广东」阳江综合" tvg-logo="https://epg.v1.mk/logo/「广东」阳江综合.png" group-title="🇨🇳广东频道📡",阳江-1
