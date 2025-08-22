@@ -256,6 +256,7 @@ http://a.ru8.dpdns.org/now/630/master.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 http://push-rtmp-hs-spe-f5.douyincdn.com/live/96a6703f0ad8736352c2be0e6f5630fb.flv
 http://yewengood.zone.id/smt.php?id=zhujiang
 
