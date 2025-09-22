@@ -1,4 +1,4 @@
-EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml"
+#EXTM3U x-tvg-url="https://mytvsuperepg.860775.xyz/epg.xml"
 
 #EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://php.946985.xyz/logo/翡翠台.png" group-title="綜合頻道", 翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -573,6 +573,7 @@ https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fcdb0c21368d4c6aa8f4c08e4cd44256&key=31b348d059593c81f8eb7a8f5f999a76
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="Vasantham" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mediacorp_Vasantham_2023.svg/2560px-Mediacorp_Vasantham_2023.svg.png" group-title="新加坡", 春天頻道
 https://tglmp03.akamaized.net/out/v1/829f8bb0f97f4bdf971c60d83f661202/manifest.mpd
+
 
 
 
