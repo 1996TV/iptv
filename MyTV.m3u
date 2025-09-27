@@ -796,6 +796,19 @@ https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&chan
 
 
 
+#EXTINF:-1 tvg-id="新聞財經" group-title="新聞財經" tvg-logo="https://cdn2.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20521%20-%20ETTV%20ASIA.png",东森亚州卫视
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=db83ed2bdb944c898315705c6e7d945f:351c85a863b7335e93d2f500507ee479
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5521/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
+
+#EXTINF:-1 tvg-id="" group-title="AstroGO" tvg-logo="https://cdn1.singteldigital.com/content/dam/singtel/personal/products-services/tv/channel/logo/CH%20501%20-%20eLe.png",e乐HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=83dea75029954534b0b4842b523b5cf9:e99e600f3356e93c8828260cc1c27a44
+https://channel.singteltvgo.com/wp/liveorigincluster.poster.iptv.singnet.public/5501/vxfmt=dp/manifest.mpd?device_profile=DASH_OTT_ENC_CENC_AXINOM
 
 
 
