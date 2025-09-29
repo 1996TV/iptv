@@ -835,7 +835,7 @@ https://ewcdn16.nowe.com/session/15-5-33d3-2025032764246800000000/Content/DASH_V
 
 
 
-#EXTINF:-1 tvg-id="凤凰卫视 548" tvg-name="凤凰卫视" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch548_300_216",凤凰卫视 548
+#EXTINF:-1 tvg-id="凤凰卫视 548" tvg-name="凤凰卫视" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch548_300_216" group-title="綜合頻道",凤凰卫视 548
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80513e9f32ef34a7b301df5957cd93e7:b13a64962c442de67c59bdb1b47cb01d
@@ -1380,6 +1380,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
 
 
 
