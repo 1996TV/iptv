@@ -824,8 +824,7 @@ https://ewcdn04.nowe.com/session/15-5-7c76-2025032764246800000000/Content/DASH_V
 #EXTINF:-1 tvg-id="now 332" tvg-name="now 332" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch332_300_216",now 332
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8Ij1zAEhToc8X23AHBNAIg", "kid": "TnBqmqkmMmihOtEK5r9B7w"}], "type": "temporary"}
-https://ewcdn104.nowe.com/session/15-5-caaa-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH332)/manifest.mpd?token=ff1664fe3e6aab452806c10b0cac6b40_1756494318
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8Ij1zAEhToc8X23AHBNAIg", "kid": "TnBqmqkmMmihOtEK5r9B7w"}], "type": "temporar
 
 #EXTINF:-1 tvg-id="now 333" tvg-name="now prime 333" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch333_300_216",now 333
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -833,12 +832,12 @@ https://ewcdn104.nowe.com/session/15-5-caaa-2025032764246800000000/Content/DASH_
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Du8/v7AzJ5UwwW3LtI3tgA", "kid": "bATtW3PdORK6xOTTviT4Hg"}], "type": "temporary"}
 https://ewcdn16.nowe.com/session/15-5-33d3-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH333)/manifest.mpd?token=575b7a70c8332aff976866b27385de9d_1756494294
 
-
-#EXTINF:-1 tvg-id="J" tvg-name="凤凰卫视" tvg-logo="https://php.946985.xyz/logo/凤凰卫视.png" group-title="綜合頻道", 凤凰卫视
+#EXTINF:-1 tvg-id="凤凰卫视 548" tvg-name="凤凰卫视" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_us/color/ch548_300_216",凤凰卫视 548
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80513e9f32ef34a7b301df5957cd93e7:b13a64962c442de67c59bdb1b47cb01d
 https://ewcdn15.nowe.com/session/15-5-b555-2025032764246800000000/Content/DASH_VOS3/Live/channel(VOS_CH548)/manifest.mpd?token=99dd765c776fa5faf798a38e41f79e69_1756494268
+
 
 
 
@@ -1379,6 +1378,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2601/default_primary.mpd
+
 
 
 
