@@ -1,5 +1,30 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视4K.png" group-title="🇨🇳4K频道📡",广东卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.65:5146
+#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.cn/tv/广东4K超高清.png" group-title="🇨🇳4K频道📡",广东4K超高清
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.245:5146
+#EXTINF:-1 tvg-name="广州南国都市4K" tvg-logo="https://live.fanmingming.cn/tv/广州南国都市4K.png" group-title="🇨🇳4K频道📡",广州南国都市4K
+http://ipv4-go.825939.xyz:4033/udp/239.253.43.99:5146
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳4K频道📡",CCTV-4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.1.180:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/深圳卫视4K.png" group-title="🇨🇳4K频道📡",深圳卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.1.14:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="🇨🇳4K频道📡",北京卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.2:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="🇨🇳4K频道📡",江苏卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.57:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="🇨🇳4K频道📡",浙江卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.58:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="🇨🇳4K频道📡",东方卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.59:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="🇨🇳4K频道📡",四川卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.60:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="🇨🇳4K频道📡",山东卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.61:5146
+#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="🇨🇳4K频道📡",湖南卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.56:5146
+
 
 
 
@@ -386,25 +411,6 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221227036/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226915/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="🇨🇳咪咕视频📡",咪咕视频
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226921/1.m3u8
-
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png" group-title="🇨🇳4K频道📡",广东卫视4K
-http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
-http://119.32.12.12:2901/udp/225.1.101.86:7523
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K.png" group-title="🇨🇳4K频道📡",深圳卫视4K
-https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
-http://119.32.12.12:2901/udp/225.1.101.35:7523
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://live.fanmingming.cn/tv/北京卫视4K.png" group-title="🇨🇳4K频道📡",北京卫视4K
-https://migu.188766.xyz/?migutoken=35a22272c960abfe41b8a354d9b43a1b&id=北京卫视&pp=1
-http://119.32.12.12:2901/udp/225.1.101.72:7523
-#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.cn/tv/广东4K超高清.png" group-title="🇨🇳4K频道📡",广东4K超高清
-http://119.32.12.12:2901/udp/225.1.101.44:7523
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="🇨🇳4K频道📡",CCTV-4K
-http://119.32.12.12:2901/udp/225.1.101.109:7523
-#EXTINF:-1 tvg-name="CCTV16-4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV16-4K.png" group-title="🇨🇳4K频道📡",CCTV16-4K
-http://119.32.12.12:2901/udp/225.1.101.130:7523
-#EXTINF:-1 tvg-name="广州南国都市4K" tvg-logo="https://live.fanmingming.cn/tv/广州南国都市4K.png" group-title="🇨🇳4K频道📡",广州南国都市4K
-http://119.32.12.12:2901/udp/225.1.101.202:7523
 
 
 
