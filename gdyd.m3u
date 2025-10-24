@@ -72,7 +72,7 @@ http://ipv4-go.825939.xyz:4033/udp/239.77.1.242:5146
 http://ipv4-go.825939.xyz:4033/udp/239.77.1.140:5146
 #EXTINF:-1 tvg-name="深圳少儿频道" tvg-logo="https://logo.catvod.com/深圳少儿频道.png" group-title="🇨🇳广东频道📡",深圳少儿频道
 http://ipv4-go.825939.xyz:4033/udp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳宝安频道" tvg-logo="https://logo.catvod.com/深圳宝安频道.png" group-title="🇨🇳广东频道📡",深圳宝安频道
+#EXTINF:-1 tvg-name="深圳宝安频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳宝安.png" group-title="🇨🇳广东频道📡",深圳宝安频道
 http://ipv4-go.825939.xyz:4033/udp/239.77.1.67:5146
 #EXTINF:-1 tvg-name="深圳龙岗频道" tvg-logo="https://logo.catvod.com/深圳龙岗频道.png" group-title="🇨🇳广东频道📡",深圳龙岗频道
 http://ipv4-go.825939.xyz:4033/udp/239.77.1.223:5146
@@ -142,7 +142,7 @@ http://ipv4-go.825939.xyz:4033/udp/239.253.43.70:5146
 http://ipv4-go.825939.xyz:4033/udp/239.253.43.75:5146
 #EXTINF:-1 tvg-name="梅州综合" tvg-logo="https://logo.catvod.com/梅州综合.png" group-title="🇨🇳广东频道📡",梅州综合
 http://ipv4-go.825939.xyz:4033/udp/239.253.43.123:5146
-#EXTINF:-1 tvg-name="梅州客家生活" tvg-logo="https://logo.catvod.com/梅州客家生活.png" group-title="🇨🇳广东频道📡",梅州客家生活
+#EXTINF:-1 tvg-name="梅州客家生活" tvg-logo="http://8.138.250.123:6789/data/icon/梅州客家生活.png" group-title="🇨🇳广东频道📡",梅州客家生活
 http://ipv4-go.825939.xyz:4033/udp/239.253.43.124:5146
 #EXTINF:-1 tvg-name="阳江1" tvg-logo="https://logo.catvod.com/阳江综合.png" group-title="🇨🇳广东频道📡",阳江1
 http://ipv4-go.825939.xyz:4033/udp/239.253.43.82:5146
