@@ -25,8 +25,6 @@ http://ipv4-go.825939.xyz:4033/udp/239.77.0.61:5146
 #EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="🇨🇳4K频道📡",湖南卫视4K
 http://ipv4-go.825939.xyz:4033/udp/239.77.0.56:5146
 
-#EXTM3U
-#EXT-X-APP APTV
 
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🇨🇳广东频道📡",广东卫视
 http://ipv4-go.825939.xyz:4033/udp/239.77.0.166:5146
