@@ -201,8 +201,7 @@ http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226698/1.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="🇨🇳卫视频道📡",浙江卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226690/1.m3u8
 
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="🇨🇳卫视频道📡",北京卫视4K
-https://migu.188766.xyz/?migutoken=35a22272c960abfe41b8a354d9b43a1b&id=北京卫视&pp=1
+
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="🇨🇳卫视频道📡",北京卫视
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226719/1.m3u8
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="🇨🇳卫视频道📡",东方卫视
