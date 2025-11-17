@@ -1,151 +1,124 @@
 #EXTM3U x-tvg-url="https://epg.aptv.app/pp.xml.gz"
 
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/广东卫视4K.png" group-title="🇨🇳4K频道📡",广东卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.65:5146
-#EXTINF:-1 tvg-name="广东4K超高清" tvg-logo="https://live.fanmingming.cn/tv/广东4K超高清.png" group-title="🇨🇳4K频道📡",广东4K超高清
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.245:5146
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州南国都市.png" group-title="🇨🇳4K频道📡",广州南国都市4K
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.99:5146
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="🇨🇳4K频道📡",CCTV-4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.180:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/深圳卫视4K.png" group-title="🇨🇳4K频道📡",深圳卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.14:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="🇨🇳4K频道📡",北京卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.2:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="🇨🇳4K频道📡",江苏卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.57:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="🇨🇳4K频道📡",浙江卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.58:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="🇨🇳4K频道📡",东方卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.59:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="🇨🇳4K频道📡",四川卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.60:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="🇨🇳4K频道📡",山东卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.61:5146
-#EXTINF:-1 tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="🇨🇳4K频道📡",湖南卫视4K
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.56:5146
+#EXTM3U
+#EXT-X-APP APTV
 
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视.png" group-title="🇨🇳广东频道📡",广东卫视
+http://ipv4.825939.xyz:5141/rtp/239.77.1.19:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
+http://ipv4.825939.xyz:5141/rtp/239.77.0.114:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="广东频道📡",广东新闻
+http://ipv4.825939.xyz:5141/rtp/239.77.0.173:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png" group-title="🇨🇳广东频道📡",广东民生
+http://ipv4.825939.xyz:5141/rtp/239.77.0.225:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
+http://ipv4.825939.xyz:5141/rtp/239.77.0.168:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东经济科教.png" group-title="🇨🇳广东频道📡",广东经济科教
+http://ipv4.825939.xyz:5141/rtp/239.77.0.167:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
+http://ipv4.825939.xyz:5141/rtp/239.77.0.215:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东影视.png" group-title="🇨🇳广东频道📡",广东影视
+http://ipv4.825939.xyz:5141/rtp/239.77.0.217:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东少儿.png" group-title="🇨🇳广东频道📡",广东少儿
+http://ipv4.825939.xyz:5141/rtp/239.77.0.250:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="🇨🇳广东频道📡",嘉佳卡通
+http://ipv4.825939.xyz:5141/rtp/239.77.0.179:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="南方购物" tvg-name="南方购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南方购物.png" group-title="🇨🇳广东频道📡",南方购物
+http://ipv4.825939.xyz:5141/rtp/239.77.0.22:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="岭南戏曲" tvg-name="岭南戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/岭南戏曲.png" group-title="🇨🇳广东频道📡",岭南戏曲
+http://ipv4.825939.xyz:5141/rtp/239.77.0.122:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="现代教育" tvg-name="现代教育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/现代教育.png" group-title="🇨🇳广东频道📡",现代教育
+http://ipv4.825939.xyz:5141/rtp/239.77.0.213:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州综合.png" group-title="🇨🇳广东频道📡",广州综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.71:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州新闻.png" group-title="🇨🇳广东频道📡",广州新闻
+http://ipv4.825939.xyz:5141/rtp/239.253.43.72:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广州法治.png" group-title="🇨🇳广东频道📡",广州法治
+http://ipv4.825939.xyz:5141/rtp/239.253.43.74:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="🇨🇳广东频道📡",深圳卫视
+http://ipv4.825939.xyz:5141/rtp/239.77.1.148:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳都市频道" tvg-name="深圳都市频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳都市.png" group-title="🇨🇳广东频道📡",深圳都市频道
+http://ipv4.825939.xyz:5141/rtp/239.77.1.176:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳电视剧频道" tvg-name="深圳电视剧频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳电视剧.png" group-title="🇨🇳广东频道📡",深圳电视剧频道
+http://ipv4.825939.xyz:5141/rtp/239.77.1.177:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳财经生活.png" group-title="🇨🇳广东频道📡",深圳财经生活
+http://ipv4.825939.xyz:5141/rtp/239.77.1.242:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳体育健康" tvg-name="深圳体育健康" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳体育健康.png" group-title="🇨🇳广东频道📡",深圳体育健康
+http://ipv4.825939.xyz:5141/rtp/239.77.1.128:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳少儿频道" tvg-name="深圳少儿频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳少儿.png" group-title="🇨🇳广东频道📡",深圳少儿频道
+http://ipv4.825939.xyz:5141/rtp/239.77.1.244:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳宝安频道" tvg-name="深圳宝安频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳宝安.png" group-title="🇨🇳广东频道📡",深圳宝安频道
+http://ipv4.825939.xyz:5141/rtp/239.77.1.67:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳龙岗频道" tvg-name="深圳龙岗频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳龙岗.png" group-title="🇨🇳广东频道📡",深圳龙岗频道
+http://ipv4.825939.xyz:5141/rtp/239.77.1.223:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="深圳宜和购物" tvg-name="深圳宜和购物" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="🇨🇳广东频道📡",深圳宜和购物
+http://ipv4.825939.xyz:5141/rtp/239.77.1.87:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="韶关新闻综合" tvg-name="韶关新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/韶关新闻综合.png" group-title="🇨🇳广东频道📡",韶关新闻综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.117:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="湛江新闻综合" tvg-name="湛江新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湛江新闻综合.png" group-title="🇨🇳广东频道📡",湛江新闻综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.141:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="湛江公共" tvg-name="湛江公共" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湛江公共.png" group-title="🇨🇳广东频道📡",湛江公共
+http://ipv4.825939.xyz:5141/rtp/239.77.0.140:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="揭阳综合" tvg-name="揭阳综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/揭阳综合.png" group-title="🇨🇳广东频道📡",揭阳综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.229:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/揭阳生活.png" group-title="🇨🇳广东频道📡",揭阳生活
+http://ipv4.825939.xyz:5141/rtp/239.77.0.251:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕尾新闻综合.png" group-title="🇨🇳广东频道国📡",汕尾新闻综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.25:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕尾文化生活.png" group-title="🇨🇳广东频道📡",汕尾文化生活
+http://ipv4.825939.xyz:5141/rtp/239.77.0.187:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="江门综合" tvg-name="江门综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江门综合.png" group-title="🇨🇳广东频道📡",江门综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.201:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="HZTV2" tvg-name="HZTV2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/2a/Huizhou_Radio_%26_Television_logo.png" group-title="🇨🇳广东频道📡",HZTV2
+http://ipv4.825939.xyz:5141/rtp/239.77.1.233:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="珠海1" tvg-name="珠海1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠海1.png" group-title="🇨🇳广东频道📡",珠海1
+http://ipv4.825939.xyz:5141/rtp/239.77.0.155:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="肇庆综合" tvg-name="肇庆综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/肇庆综合.png" group-title="🇨🇳广东频道📡",肇庆综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.1:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="肇庆生活服务" tvg-name="肇庆生活服务" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/肇庆生活服务.png" group-title="🇨🇳广东频道📡",肇庆生活服务
+http://ipv4.825939.xyz:5141/rtp/239.253.43.2:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="河源综合" tvg-name="河源综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河源综合.png" group-title="🇨🇳广东频道📡",河源综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.213:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="清远新闻综合" tvg-name="清远新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/清远新闻综合.png" group-title="🇨🇳广东频道📡",清远新闻综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.33:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="云浮综合" tvg-name="云浮综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云浮综合.png" group-title="🇨🇳广东频道📡",云浮综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.253:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="云浮文旅" tvg-name="云浮文旅" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云浮文旅.png" group-title="🇨🇳广东频道📡",云浮文旅
+http://ipv4.825939.xyz:5141/rtp/239.77.0.254:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="茂名综合" tvg-name="茂名综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茂名综合.png" group-title="🇨🇳广东频道📡",茂名综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.206:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="茂名文化生活" tvg-name="茂名文化生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/茂名文化生活.png" group-title="🇨🇳广东频道📡",茂名文化生活
+http://ipv4.825939.xyz:5141/rtp/239.77.0.207:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕头综合.png" group-title="🇨🇳广东频道📡",汕头综合
+http://ipv4.825939.xyz:5141/rtp/239.77.1.130:5146?fcc=183.59.168.166:8027
 
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://logo.catvod.com/广东卫视.png" group-title="🇨🇳广东频道📡",广东卫视
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.166:5146
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="http://8.138.250.123:6789/data/icon/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.114:5146
-#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://logo.catvod.com/广东新闻.png" group-title="🇨🇳广东频道📡",广东新闻
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.173:5146
-#EXTINF:-1 tvg-name="广东民生" tvg-logo="https://logo.catvod.com/广东民生.png" group-title="🇨🇳广东频道📡",广东民生
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.225:5146
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://logo.catvod.com/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.168:5146
-#EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://logo.catvod.com/广东经济科教.png" group-title="🇨🇳广东频道📡",广东经济科教
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.167:5146
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://logo.catvod.com/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.215:5146
-#EXTINF:-1 tvg-name="广东影视" tvg-logo="https://logo.catvod.com/广东影视.png" group-title="🇨🇳广东频道📡",广东影视
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.217:5146
-#EXTINF:-1 tvg-name="广东少儿" tvg-logo="https://logo.catvod.com/广东少儿.png" group-title="🇨🇳广东频道📡",广东少儿
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.250:5146
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://logo.catvod.com/嘉佳卡通.png" group-title="🇨🇳广东频道📡",嘉佳卡通
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.179:5146
-#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://logo.catvod.com/南方购物.png" group-title="🇨🇳广东频道📡",南方购物
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.19:5146
-#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://logo.catvod.com/岭南戏曲.png" group-title="🇨🇳广东频道📡",岭南戏曲
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.122:5146
-#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://logo.catvod.com/现代教育.png" group-title="🇨🇳广东频道📡",现代教育
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.213:5146
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="http://8.138.250.123:6789/data/icon/广州综合.png" group-title="🇨🇳广东频道📡",广州综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.71:5146
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="http://8.138.250.123:6789/data/icon/广州新闻.png" group-title="🇨🇳广东频道📡",广州新闻
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-name="广州法治" tvg-logo="http://8.138.250.123:6789/data/icon/广州法治.png" group-title="🇨🇳广东频道📡",广州法治
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.74:5146
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://logo.catvod.com/深圳卫视.png" group-title="🇨🇳广东频道📡",深圳卫视
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.130:5146
-#EXTINF:-1 tvg-name="深圳都市频道" tvg-logo="https://logo.catvod.com/深圳都市频道.png" group-title="🇨🇳广东频道📡",深圳都市频道
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.124:5146
-#EXTINF:-1 tvg-name="深圳电视剧频道" tvg-logo="https://logo.catvod.com/深圳电视剧频道.png" group-title="🇨🇳广东频道📡",深圳电视剧频道
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.125:5146
-#EXTINF:-1 tvg-name="深圳财经生活" tvg-logo="https://logo.catvod.com/深圳财经生活.png" group-title="🇨🇳广东频道📡",深圳财经生活
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.242:5146
-#EXTINF:-1 tvg-name="深圳体育健康" tvg-logo="https://logo.catvod.com/深圳体育健康.png" group-title="🇨🇳广东频道📡",深圳体育健康
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.140:5146
-#EXTINF:-1 tvg-name="深圳少儿频道" tvg-logo="https://logo.catvod.com/深圳少儿频道.png" group-title="🇨🇳广东频道📡",深圳少儿频道
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.244:5146
-#EXTINF:-1 tvg-name="深圳宝安频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳宝安.png" group-title="🇨🇳广东频道📡",深圳宝安频道
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.67:5146
-#EXTINF:-1 tvg-name="深圳龙岗频道" tvg-logo="https://logo.catvod.com/深圳龙岗频道.png" group-title="🇨🇳广东频道📡",深圳龙岗频道
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.223:5146
-#EXTINF:-1 tvg-name="深圳宜和购物" tvg-logo="https://logo.catvod.com/深圳宜和购物.png" group-title="🇨🇳广东频道📡",深圳宜和购物
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.87:5146
-#EXTINF:-1 tvg-name="韶关新闻综合" tvg-logo="https://logo.catvod.com/韶关新闻综合.png" group-title="🇨🇳广东频道📡",韶关新闻综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.117:5146
-#EXTINF:-1 tvg-name="湛江新闻综合" tvg-logo="https://logo.catvod.com/湛江新闻综合.png" group-title="🇨🇳广东频道📡",湛江新闻综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.141:5146
-#EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://logo.catvod.com/湛江公共.png" group-title="🇨🇳广东频道📡",湛江公共
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.140:5146
-#EXTINF:-1 tvg-name="揭阳综合" tvg-logo="https://logo.catvod.com/揭阳综合.png" group-title="🇨🇳广东频道📡",揭阳综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.229:5146
-#EXTINF:-1 tvg-name="揭阳生活" tvg-logo="https://logo.catvod.com/揭阳生活.png" group-title="🇨🇳广东频道📡",揭阳生活
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.251:5146
-#EXTINF:-1 tvg-name="汕尾新闻综合" tvg-logo="https://logo.catvod.com/汕尾新闻综合.png" group-title="🇨🇳广东频道📡",汕尾新闻综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.25:5146
-#EXTINF:-1 tvg-name="汕尾文化生活" tvg-logo="https://logo.catvod.com/汕尾文化生活.png" group-title="🇨🇳广东频道📡",汕尾文化生活
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.187:5146
-#EXTINF:-1 tvg-name="江门综合" tvg-logo="https://logo.catvod.com/江门综合.png" group-title="🇨🇳广东频道📡",江门综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.201:5146
-#EXTINF:-1 tvg-name="HZTV1" tvg-logo="http://8.138.250.123:6789/data/icon/Z.png" group-title="🇨🇳广东频道📡",HZTV1
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.232:5146
-#EXTINF:-1 tvg-name="HZTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="🇨🇳广东频道📡",HZTV2
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.233:5146
-#EXTINF:-1 tvg-name="珠海1" tvg-logo="http://8.138.250.123:6789/data/icon/珠海1.png" group-title="🇨🇳广东频道📡",珠海1
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.155:5146
-#EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://logo.catvod.com/肇庆综合.png" group-title="🇨🇳广东频道📡",肇庆综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.1:5146
-#EXTINF:-1 tvg-name="河源综合" tvg-logo="https://logo.catvod.com/河源综合.png" group-title="🇨🇳广东频道📡",河源综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.213:5146
-#EXTINF:-1 tvg-name="清远新闻综合" tvg-logo="https://logo.catvod.com/清远新闻综合.png" group-title="🇨🇳广东频道📡",清远新闻综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.33:5146
-#EXTINF:-1 tvg-name="云浮综合" tvg-logo="https://logo.catvod.com/云浮综合.png" group-title="🇨🇳广东频道📡",云浮综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.253:5146
-#EXTINF:-1 tvg-name="云浮文旅" tvg-logo="https://logo.catvod.com/云浮文旅.png" group-title="🇨🇳广东频道📡",云浮文旅
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.254:5146
-#EXTINF:-1 tvg-name="茂名综合" tvg-logo="https://logo.catvod.com/茂名综合.png" group-title="🇨🇳广东频道📡",茂名综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.206:5146
-#EXTINF:-1 tvg-name="茂名文化生活" tvg-logo="https://logo.catvod.com/茂名文化生活.png" group-title="🇨🇳广东频道📡",茂名文化生活
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.207:5146
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="🇨🇳广东频道📡",汕头综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.130:5146
-#EXTINF:-1 tvg-name="汕头综合" tvg-logo="https://logo.catvod.com/汕头综合.png" group-title="🇨🇳广东频道📡",汕头综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.45:5146
-#EXTINF:-1 tvg-name="汕头经济生活" tvg-logo="https://logo.catvod.com/汕头经济生活.png" group-title="🇨🇳广东频道📡",汕头经济生活
-http://ipv4-go.825939.xyz:4033/udp/239.77.1.131:5146
-#EXTINF:-1 tvg-name="佛山城市生活" tvg-logo="https://logo.catvod.com/佛山城市生活.png" group-title="🇨🇳广东频道📡",佛山城市生活
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.53:5146
-#EXTINF:-1 tvg-name="佛山南海" tvg-logo="https://logo.catvod.com/佛山南海.png" group-title="🇨🇳广东频道📡",佛山南海
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.54:5146
-#EXTINF:-1 tvg-name="佛山顺德" tvg-logo="https://logo.catvod.com/佛山顺德.png" group-title="🇨🇳广东频道📡",佛山顺德
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.55:5146
-#EXTINF:-1 tvg-name="佛山综合" tvg-logo="https://logo.catvod.com/佛山综合.png" group-title="🇨🇳广东频道📡",佛山综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.57:5146
-#EXTINF:-1 tvg-name="东莞新闻综合" tvg-logo="https://logo.catvod.com/东莞新闻综合.png" group-title="🇨🇳广东频道📡",东莞新闻综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.104:5146
-#EXTINF:-1 tvg-name="东莞生活资讯" tvg-logo="https://logo.catvod.com/东莞生活资讯.png" group-title="🇨🇳广东频道📡",东莞生活资讯
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.105:5146
-#EXTINF:-1 tvg-name="中山综合" tvg-logo="https://logo.catvod.com/中山综合.png" group-title="🇨🇳广东频道📡",中山综合
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.185:5146
-#EXTINF:-1 tvg-name="香山文化" tvg-logo="https://logo.catvod.com/香山文化.png" group-title="🇨🇳广东频道📡",香山文化
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.63:5146
-#EXTINF:-1 tvg-name="潮州综合" tvg-logo="https://logo.catvod.com/潮州综合.png" group-title="🇨🇳广东频道📡",潮州综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.70:5146
-#EXTINF:-1 tvg-name="潮州民生" tvg-logo="https://logo.catvod.com/潮州民生.png" group-title="🇨🇳广东频道📡",潮州民生
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.75:5146
-#EXTINF:-1 tvg-name="梅州综合" tvg-logo="https://logo.catvod.com/梅州综合.png" group-title="🇨🇳广东频道📡",梅州综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.123:5146
-#EXTINF:-1 tvg-name="梅州客家生活" tvg-logo="http://8.138.250.123:6789/data/icon/梅州客家生活.png" group-title="🇨🇳广东频道📡",梅州客家生活
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.124:5146
-#EXTINF:-1 tvg-name="阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江综合.png" group-title="🇨🇳广东频道📡",阳江1
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.82:5146
-#EXTINF:-1 tvg-name="阳江2" tvg-logo="https://epg.v1.mk/logo/「广东」阳江综合.png" group-title="🇨🇳广东频道📡",阳江2
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.83:5146
+#EXTINF:-1 tvg-id="佛山南海" tvg-name="佛山南海" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/佛山南海.png" group-title="🇨🇳广东频道📡",佛山南海
+http://ipv4.825939.xyz:5141/rtp/239.253.43.54:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="佛山顺德" tvg-name="佛山顺德" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/佛山顺德.png" group-title="🇨🇳广东频道📡",佛山顺德
+http://ipv4.825939.xyz:5141/rtp/239.253.43.55:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="佛山综合" tvg-name="佛山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/佛山综合.png" group-title="🇨🇳广东频道📡",佛山综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.57:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东莞新闻综合.png" group-title="🇨🇳广东频道📡",东莞新闻综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.104:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东莞生活资讯.png" group-title="🇨🇳广东频道📡",东莞生活资讯
+http://ipv4.825939.xyz:5141/rtp/239.253.43.105:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="中山综合" tvg-name="中山综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中山综合.png" group-title="🇨🇳广东频道📡",中山综合
+http://ipv4.825939.xyz:5141/rtp/239.77.0.185:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="香山文化" tvg-name="香山文化" tvg-logo="https://logo.catvod.com/香山文化.png" group-title="🇨🇳广东频道📡",香山文化
+http://ipv4.825939.xyz:5141/rtp/239.253.43.63:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="潮州综合" tvg-name="潮州综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潮州综合.png" group-title="🇨🇳广东频道📡",潮州综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.70:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="潮州民生" tvg-name="潮州民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/潮州民生.png" group-title="🇨🇳广东频道📡",潮州民生
+http://ipv4.825939.xyz:5141/rtp/239.253.43.75:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="梅州综合" tvg-name="梅州综合" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpn1cK8mK09oxsysp0hpu-EvSefGLME8CRrJ4JLYXV_12azMPNJcHzR29YfCS6Ew8rkTs&usqp=CAU" group-title="🇨🇳广东频道📡",梅州综合
+http://ipv4.825939.xyz:5141/rtp/239.253.43.123:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="梅州客家生活" tvg-name="梅州客家生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/梅州客家生活.png" group-title="🇨🇳广东频道📡",梅州客家生活
+http://ipv4.825939.xyz:5141/rtp/239.253.43.124:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="阳江1" tvg-name="阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江综合.png" group-title="🇨🇳广东频道📡",阳江1
+http://ipv4.825939.xyz:5141/rtp/239.253.43.82:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="阳江2" tvg-name="阳江2" tvg-logo="https://epg.v1.mk/logo/「广东」阳江综合.png" group-title="🇨🇳广东频道📡",阳江2
+http://ipv4.825939.xyz:5141/rtp/239.253.43.83:5146?fcc=183.59.168.166:8027
+
 
 
 
