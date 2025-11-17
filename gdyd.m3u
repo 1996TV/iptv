@@ -3,7 +3,7 @@
 http://ipv4.825939.xyz:5141/rtp/239.77.1.19:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
 http://ipv4.825939.xyz:5141/rtp/239.77.0.114:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="广东频道📡",广东新闻
+#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东新闻.png" group-title="🇨🇳广东频道📡",广东新闻
 http://ipv4.825939.xyz:5141/rtp/239.77.0.173:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东民生.png" group-title="🇨🇳广东频道📡",广东民生
 http://ipv4.825939.xyz:5141/rtp/239.77.0.225:5146?fcc=183.59.168.166:8027
@@ -59,7 +59,7 @@ http://ipv4.825939.xyz:5141/rtp/239.77.0.140:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.77.0.229:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="揭阳生活" tvg-name="揭阳生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/揭阳生活.png" group-title="🇨🇳广东频道📡",揭阳生活
 http://ipv4.825939.xyz:5141/rtp/239.77.0.251:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕尾新闻综合.png" group-title="🇨🇳广东频道国📡",汕尾新闻综合
+#EXTINF:-1 tvg-id="汕尾新闻综合" tvg-name="汕尾新闻综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕尾新闻综合.png" group-title="🇨🇳广东频道📡",汕尾新闻综合
 http://ipv4.825939.xyz:5141/rtp/239.77.0.25:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="汕尾文化生活" tvg-name="汕尾文化生活" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/汕尾文化生活.png" group-title="🇨🇳广东频道📡",汕尾文化生活
 http://ipv4.825939.xyz:5141/rtp/239.77.0.187:5146?fcc=183.59.168.166:8027
