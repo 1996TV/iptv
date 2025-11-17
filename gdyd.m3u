@@ -361,45 +361,9 @@ http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="🇭🇰香港频道📡",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://live.fanmingming.cn/tv/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.114:5146
-http://r.jdshipin.com/sE5vO
-
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.168:5146
-
-#EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.215:5146
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="🇨🇳广东频道📡",广东民生
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.225:5146
-
-
-#EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="🇨🇳广东频道📡",广东影视
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.217:5146
-
-#EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="🇨🇳广东频道📡",广东新闻
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.173:5146
-#EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.v1.mk/logo/广东经济科教.png" group-title="🇨🇳广东频道📡",广东经济科教
-http://ipv4-go.825939.xyz:4033/udp/239.77.0.167:5146
 
 
 
-
-#EXTINF:-1 tvg-name="广州综合" tvg-logo="https://live.fanmingming.cn/tv/广州综合.png" group-title="🇨🇳广东频道📡",广州综合
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.71:5146
-https://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=f0147ae6453a80f5989f382368b72aad&txTime=18d00acf487
-#EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://live.fanmingming.cn/tv/广州新闻.png" group-title="🇨🇳广东频道📡",广州新闻
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.72:5146
-https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=6f73647cae387d01a3c2132074132a83&txTime=18d00acf487
-#EXTINF:-1 tvg-name="广州法治" tvg-logo="https://live.fanmingming.cn/tv/广州法治.png" group-title="🇨🇳广东频道📡",广州法治
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.74:5146
-https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=31e9eb294789e59e351fc1f0ab3178bc&txTime=18d00acf487
-#EXTINF:-1 tvg-name="广州影视" tvg-logo="http://8.138.250.123:6789/data/icon/广州影视.png" group-title="🇨🇳广东频道📡",广州影视
-https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=7e9bddad7c8911626ed1d2c09fc605d9&txTime=18d00acf487
-#EXTINF:-1 tvg-name="广州南国都市" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="🇨🇳广东频道📡",广州南国都市
-http://ipv4-go.825939.xyz:4033/udp/239.253.43.99:5146
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=c82f82d7a6beda92b2b1ce93753dcacb&txTime=18e4a381d46
-#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="「广东」阳江综合" tvg-name="「广东」阳江综合" tvg-logo="https://epg.v1.mk/logo/「广东」阳江综合.png" group-title="🇨🇳广东频道📡",阳江-1
  https://live.yjtvw.com:8081/live/yjtv1.m3u8
 #EXTINF:-1,tvg-id="「广东」阳江1" tvg-name="「广东」阳江1" tvg-logo="https://epg.v1.mk/logo/「广东」阳江1.png" group-title="🇨🇳广东频道📡",阳江-2
