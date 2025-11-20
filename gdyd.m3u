@@ -116,29 +116,29 @@ http://ipv4.825939.xyz:5141/rtp/239.253.43.82:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.253.43.83:5146?fcc=183.59.168.166:8027
 
 
-#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="🇨🇳国内4K📡",广东卫视4K
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视4K.png" group-title="🇨🇳国内4K📡",广东卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.66:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K.png" group-title="🇨🇳国内4K📡",广东4K
+#EXTINF:-1 tvg-id="广东综艺4K" tvg-name="广东综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东4K.png" group-title="🇨🇳国内4K📡",广东4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.245:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="🇨🇳国内4K📡",南国都市4K
+#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/南国都市.png" group-title="🇨🇳国内4K📡",南国都市4K
 http://ipv4.825939.xyz:5141/rtp/239.253.43.99:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="🇨🇳国内4K📡",深圳卫视4K
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视4K.png" group-title="🇨🇳国内4K📡",深圳卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.67:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="🇨🇳国内4K📡",CCTV4K
 http://ipv4.825939.xyz:5141/rtp/239.77.1.180:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="北京卫视4k" tvg-name="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="🇨🇳国内4K📡",北京卫视4K
+#EXTINF:-1 tvg-id="北京卫视4k" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="🇨🇳国内4K📡",北京卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.3:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="🇨🇳国内4K📡",湖南卫视4K
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="🇨🇳国内4K📡",湖南卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.56:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="🇨🇳国内4K📡",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="🇨🇳国内4K📡",江苏卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.57:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="🇨🇳国内4K📡",浙江卫视4K
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="🇨🇳国内4K📡",浙江卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.58:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="🇨🇳国内4K📡",东方卫视4K
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/东方卫视4K.png" group-title="🇨🇳国内4K📡",东方卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.59:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="🇨🇳国内4K📡",四川卫视4K
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/四川卫视4K.png" group-title="🇨🇳国内4K📡",四川卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.60:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4k" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="🇨🇳国内4K📡",山东卫视4K
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="🇨🇳国内4K📡",山东卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.61:5146?fcc=183.59.168.166:8027
 
 
