@@ -788,4 +788,40 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226915/1.m3u8
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226921/1.m3u8
 
 
-
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz"
+#EXTINF:-1 tvg-id="HOYTV76" tvg-name="HOYTV76" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/HOYTV76.png" group-title="🇭🇰香港频道📡",HOYTV76
+http://hls.168.us.kg/u/76/master.m3u8
+#EXTINF:-1 tvg-id="HOYTV77" tvg-name="HOYTV77" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/HOYTV77.png" group-title="🇭🇰香港频道📡",HOYTV77
+http://hls.168.us.kg/u/77/master.m3u8
+#EXTINF:-1 tvg-id="HOYTV78" tvg-name="HOYTV78" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/HOYTV78.png" group-title="🇭🇰香港频道📡",HOYTV78
+http://hls.168.us.kg/u/78/master.m3u8
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/NOW新闻台.png" group-title="🇭🇰香港频道📡",NOW新闻台
+http://hls.168.us.kg/u/332/master.m3u8
+#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/Now星影台.png" group-title="🇭🇰香港频道📡",Now星影台
+https://bee.946985.filegear-sg.me/nowxyt/xingyingtai.m3u8
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/Now爆谷台.png" group-title="🇭🇰香港频道📡",Now爆谷台
+https://bee.946985.filegear-sg.me/nowbgt/baogutai.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/翡翠台.png" group-title="🇭🇰香港频道📡",翡翠台
+http://hls.168.us.kg/u/81/master.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/无线新闻.png" group-title="🇭🇰香港频道📡",无线新闻
+http://hls.168.us.kg/u/83/master.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/TVB Plus.png" group-title="🇭🇰香港频道📡",TVB Plus
+http://hls.168.us.kg/u/82/master.m3u8
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/明珠台.png" group-title="🇭🇰香港频道📡",明珠台
+http://hls.168.us.kg/u/84/master.m3u8
+#EXTINF:-1 tvg-id="Now直播" tvg-name="Now直播" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/Now直播.png" group-title="🇭🇰香港频道📡",Now直播
+http://hls.168.us.kg/u/331/master.m3u8
+#EXTINF:-1 tvg-id="NOW财经" tvg-name="NOW财经" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/NOW财经.png" group-title="🇭🇰香港频道📡",NOW财经
+http://hls.168.us.kg/u/333/master.m3u8
+#EXTINF:-1 tvg-id="VIUTV" tvg-name="VIUTV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/VIUTV.png" group-title="🇭🇰香港频道📡",VIUTV
+http://hls.168.us.kg/u/99/master.m3u8
+#EXTINF:-1 tvg-id="VIUTV6" tvg-name="VIUTV6" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/VIUTV6.png" group-title="🇭🇰香港频道📡",VIUTV6
+http://hls.168.us.kg/u/96/master.m3u8
+#EXTINF:-1 tvg-id="卫视电影" tvg-name="卫视电影" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/卫视电影.png" group-title="🇭🇰香港频道📡",卫视电影
+http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/星空卫视.png" group-title="🇭🇰香港频道📡",星空卫视
+http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+#EXTINF:-1 tvg-id="NOW630" tvg-name="NOW630" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/NOW630.png" group-title="🇭🇰香港频道📡",NOW630
+http://hls.168.us.kg/u/630/master.m3u8
+#EXTINF:-1 tvg-id="天映CM+" tvg-name="天映CM+" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/天映CM+.png" group-title="🇭🇰香港频道📡",天映CM+
+http://140.245.114.45:1234/stream/singtel/c/master.m3u8?u=user1&p=0c30a03def8a9f4d67dc798a1ed7859e18f67cc037c3806f5c3543064bb6b2c3
