@@ -330,7 +330,7 @@ http://ipv4.825939.xyz:5141/rtp/239.77.1.180:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.77.0.3:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="🇨🇳国内4K📡",湖南卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.56:5146?fcc=183.59.168.166:8027
-#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/江苏卫视4K.png" group-title="🇨🇳国内4K📡",江苏卫视4K
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/江苏卫视4K.png" group-title="🇨🇳国内4K📡",江苏卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.57:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="🇨🇳国内4K📡",浙江卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.58:5146?fcc=183.59.168.166:8027
