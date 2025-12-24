@@ -315,7 +315,7 @@ http://ipv4.825939.xyz:5141/rtp/239.77.0.106:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.77.0.109:5146?fcc=183.59.168.166:8027
 
 
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz"
+
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/广东卫视.png" group-title="🇨🇳国内高清📡2",广东卫视
 http://ipv4-go.825939.xyz:4033/udp/239.77.0.166:5146
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/广东珠江.png" group-title="🇨🇳国内高清📡2",广东珠江
@@ -660,6 +660,34 @@ http://ipv4.825939.xyz:5141/rtp/239.77.0.59:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.77.0.60:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4k" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/山东卫视4K.png" group-title="🇨🇳国内4K📡",山东卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.61:5146?fcc=183.59.168.166:8027
+
+
+
+#EXTINF:-1 tvg-id="广东卫视4K" tvg-name="广东卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/广东卫视4K.png" group-title="🇨🇳国内4K📡2",广东卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-id="广东综艺" tvg-name="广东综艺" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/广东4K.png" group-title="🇨🇳国内4K📡2",广东4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.245:5146
+#EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/南国都市4K.png" group-title="🇨🇳国内4K📡2",南国都市4K
+http://ipv4-go.825939.xyz:4033/udp/239.253.43.99:5146
+#EXTINF:-1 tvg-id="深圳卫视4K" tvg-name="深圳卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/深圳卫视4K.png" group-title="🇨🇳国内4K📡2",深圳卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.1.14:5146
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/CCTV4K.png" group-title="🇨🇳国内4K📡2",CCTV4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.1.180:5146
+#EXTINF:-1 tvg-id="北京卫视4K" tvg-name="北京卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/北京卫视4K.png" group-title="🇨🇳国内4K📡2",北京卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.2:5146
+#EXTINF:-1 tvg-id="湖南卫视4K" tvg-name="湖南卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/湖南卫视4K.png" group-title="🇨🇳国内4K📡2",湖南卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.56:5146
+#EXTINF:-1 tvg-id="江苏卫视4K" tvg-name="江苏卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/江苏卫视4K.png" group-title="🇨🇳国内4K📡2",江苏卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.57:5146
+#EXTINF:-1 tvg-id="浙江卫视4K" tvg-name="浙江卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/浙江卫视4K.png" group-title="🇨🇳国内4K📡2",浙江卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.58:5146
+#EXTINF:-1 tvg-id="东方卫视4K" tvg-name="东方卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/东方卫视4K.png" group-title="🇨🇳国内4K📡2",东方卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.59:5146
+#EXTINF:-1 tvg-id="四川卫视4K" tvg-name="四川卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/四川卫视4K.png" group-title="🇨🇳国内4K📡2",四川卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.60:5146
+#EXTINF:-1 tvg-id="山东卫视4K" tvg-name="山东卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/山东卫视4K.png" group-title="🇨🇳国内4K📡2",山东卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.61:5146
+
 
 
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视.png" group-title="🇨🇳国内高清📡",广东卫视
@@ -1107,8 +1135,7 @@ http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226915/1.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://epg.112114.xyz/logo/咪咕视频.png" group-title="🇨🇳咪咕视频📡",咪咕视频
 http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226921/1.m3u8
 
-#EXTM3U
-#EXT-X-APP APTV
+
 
 #EXTINF:-1 tvg-id="翡翠台字幕" tvg-name="翡翠台字幕" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/翡翠台.png" group-title="🇭🇰港澳台频道📡",翡翠台字幕
 http://mytv.cdn.loc.cc/o12.php?id=fct
@@ -1219,5 +1246,35 @@ http://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/广东珠江.png" group-title="🇨🇳香港台📡",广东珠江
 http://8.138.7.223/tv/gdzj.m3u8
 
+
+
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOY76.png" group-title="🇭🇰HOY",国际财经76台
+https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOY77.png" group-title="🇭🇰HOY",开电视77台
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id=" HOY 資訊台" tvg-name="HOY 資訊台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOY78.png" group-title="🇭🇰HOY",有线新闻78台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id=" HOY生活台" tvg-name="HOY生活台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",HOY 生活台
+https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
+#EXTINF:-1 tvg-id="HOY劇集台" tvg-name="HOY劇集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",HOY 劇集台
+https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+#EXTINF:-1 tvg-id="HOY怪談台" tvg-name="HOY怪談台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",HOY 怪談台
+https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
+#EXTINF:-1 tvg-id="HOY體育台" tvg-name="HOY體育台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",HOY 體育台
+https://edge.media.seaovers.live/856b503e276cc4917dc388396c23668b/baselive/v2/J0LMZVOV.m3u8
+#EXTINF:-1 tvg-id="MotorVision" tvg-name="MotorVision" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",MotorVision
+https://edge.media.seaovers.live/856b503e276cc491293fe55b87420bae/mediasuite-live/cp0004/408UNZ5E/mvg/mv/mv.m3u8?bcpf=6
+#EXTINF:-1 tvg-id="SportsPlus" tvg-name="SportsPlus" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",SportsPlus
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/WQFFQD2YSMWFAZXKTY07/hls3/now,-1m/m.m3u8?ads.channel_name=SportsTVPlus&ads.content_cat=IAB17&ads.content_genre=Sports&ads.content_id=STA117&ads.content_language=en&ads.content_title=Race+Central%3A+Episode++848&ads.coppa=0&ads.livestream=1&ads.provider=TrueAmerican&ads.rating=TV14
+#EXTINF:-1 tvg-id="spot on news" tvg-name="spot on news" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",spot on news
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/TDGHWR1Q2FLL5PEG33BE/hls3/now,-1m/m.m3u8?ads.channel_name=spot+on+news&ads.content_cat=IAB1-2&ads.content_genre=Celebrity%2CEntertainment%2CLifestyle%2CNews&ads.content_id=SSN100&ads.content_language=en&ads.content_title=Explosion+at+Louisiana+auto+supply+plant+forces+evacuations&ads.coppa=0&ads.livestream=1&ads.provider=spot+on+news&ads.rating=TVG
+#EXTINF:-1 tvg-id="Travel & Food TV" tvg-name="Travel & Food TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",Travel & Food TV
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/master/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/77I3ZMNRNMI5I93YF0WC/hls3/now,-1m/m.m3u8?ads.channel_name=Travel+%26+Food+TV&ads.content_cat=IAB8&ads.content_genre=Food%2CLifestyle&ads.content_id=STA118&ads.content_language=en&ads.content_title=Plantation+Inn&ads.coppa=0&ads.livestream=1&ads.provider=TrueAmerican&ads.rating=TV14
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",HOY生活台
+https://edge.media.seaovers.live/856b503e276cc4912b6c0b42cb01878d/baselive/v2/6TV1VW9W.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",HOY剧集台
+https://edge.media.seaovers.live/856b503e276cc49100c1dde528ee8cde/baselive/v2/DPL3J6FY.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/HOYTV.png" group-title="🇭🇰HOY",HOY怪谈台
+https://edge.media.seaovers.live/856b503e276cc49197dd54aa8a0c740e/baselive/v2/TPLUZIFF.m3u8
 
 
