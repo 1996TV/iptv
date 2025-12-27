@@ -1171,7 +1171,7 @@ http://rihou.cc:555/tv/[Hk]Now%E5%89%A7%E9%9B%86
 http://rihou.cc:555/tv/[Mt]Now%E7%9B%B4%E6%92%AD
 #EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW财经.png" group-title="🇭🇰NOW频道📡",Now财经
 http://rihou.cc:555/tv/[Mt]Now%E8%B4%A2%E7%BB%8F
-#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/Now爆谷台.png" group-title="🇭🇰NOW频道📡",Now爆谷台
+#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/爆谷.png" group-title="🇭🇰NOW频道📡",Now爆谷台
 http://rihou.cc:555/tv/[Bx]Now%E7%88%86%E8%B0%B7
 #EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/星影.png" group-title="🇭🇰NOW频道📡",Now星影台
 http://rihou.cc:555/tv/[Bx]Now%E6%98%9F%E5%BD%B1
@@ -1219,7 +1219,7 @@ http://rihou.cc:555/tv/[Pd]%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4
 http://hls.168.us.kg/u/332/master.m3u8
 #EXTINF:-1 tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/星影.png" group-title="🇨🇳香港台📡",NOW星影台
 https://stream1.freetv.fun/nowxing-ying-2.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW爆谷.png" group-title="🇨🇳香港台📡",NOW爆谷台
+#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/爆谷.png" group-title="🇨🇳香港台📡",NOW爆谷台
 https://stream1.freetv.fun/nowbao-gu-3.m3u8
 #EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB翡翠剧集台.PNG" group-title="🇨🇳香港台📡",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
