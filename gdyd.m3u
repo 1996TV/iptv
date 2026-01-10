@@ -1161,20 +1161,7 @@ https://o11.163189.xyz/stream/live/tvbxh/
 https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB千禧经典.png" group-title="🇭🇰港澳台频道📡",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-id="Now紫金国际台" tvg-name="Now紫金国际台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOWJELLI.png" group-title="🇭🇰NOW频道📡",Now紫金国际台
-http://rihou.cc:555/tv/[Hk]Now%E7%B4%AB%E9%87%91
-#EXTINF:-1 tvg-id="Now华剧" tvg-name="Now华剧" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW华剧.png" group-title="🇭🇰NOW频道📡",Now华剧
-http://rihou.cc:555/tv/[Hk]Now%E5%8D%8E%E5%89%A7
-#EXTINF:-1 tvg-id="Now剧集" tvg-name="Now剧集" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW剧集.png" group-title="🇭🇰NOW频道📡",Now剧集
-http://rihou.cc:555/tv/[Hk]Now%E5%89%A7%E9%9B%86
-#EXTINF:-1 tvg-id="Now直播" tvg-name="Now直播" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW直播.png" group-title="🇭🇰NOW频道📡",Now直播
-http://rihou.cc:555/tv/[Mt]Now%E7%9B%B4%E6%92%AD
-#EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW财经.png" group-title="🇭🇰NOW频道📡",Now财经
-http://rihou.cc:555/tv/[Mt]Now%E8%B4%A2%E7%BB%8F
-#EXTINF:-1 tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/爆谷.png" group-title="🇭🇰NOW频道📡",Now爆谷台
-http://rihou.cc:555/tv/[Bx]Now%E7%88%86%E8%B0%B7
-#EXTINF:-1 tvg-id="Now星影台" tvg-name="Now星影台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/星影.png" group-title="🇭🇰NOW频道📡",Now星影台
-http://rihou.cc:555/tv/[Bx]Now%E6%98%9F%E5%BD%B1
+
 #EXTINF:-1 tvg-id="Now新闻" tvg-name="Now新闻" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW新闻.png" group-title="🇭🇰NOW频道📡",Now新闻
 http://rihou.cc:555/tv/[Mt]Now%E6%96%B0%E9%97%BB
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/翡翠台.png" group-title="🇨🇳香港台📡",翡翠台
@@ -1217,10 +1204,7 @@ http://rihou.cc:555/tv/[Pd]CH8%E7%BB%BC%E5%90%88
 http://rihou.cc:555/tv/[Pd]%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4
 #EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/NOW新闻台.png" group-title="🇨🇳香港台📡",NOW新闻台
 http://hls.168.us.kg/u/332/master.m3u8
-#EXTINF:-1 tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/星影.png" group-title="🇨🇳香港台📡",NOW星影台
-https://stream1.freetv.fun/nowxing-ying-2.m3u8
-#EXTINF:-1 tvg-id="NOW爆谷台" tvg-name="NOW爆谷台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/爆谷.png" group-title="🇨🇳香港台📡",NOW爆谷台
-https://stream1.freetv.fun/nowbao-gu-3.m3u8
+
 #EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB翡翠剧集台.PNG" group-title="🇨🇳香港台📡",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="天映频道" tvg-name="天映频道" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/天映频道.png" group-title="🇨🇳香港台📡",天映频道
