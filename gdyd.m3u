@@ -693,7 +693,7 @@ http://ipv4-go.825939.xyz:4033/udp/239.77.0.61:5146
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视.png" group-title="🇨🇳国内高清📡",广东卫视
 http://ipv4.825939.xyz:5141/rtp/239.77.1.19:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="🇨🇳广东频道📡",广东珠江
-http://ipv4.825939.xyz:5141/rtp/239.77.0.114:5146?fcc=183.59.168.166:8027
+http://ipv4.825939.xyz:5141/rtp/239.77.0.1:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="🇨🇳广东频道📡",广东体育
 http://ipv4.825939.xyz:5141/rtp/239.77.0.168:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="🇨🇳广东频道📡",大湾区卫视
