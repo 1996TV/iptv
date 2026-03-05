@@ -344,13 +344,13 @@ http://ipv4.825939.xyz:5141/rtp/239.77.0.61:5146
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV16.png" group-title="国内4K",CCTV16-4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.18:5146?fcc=183.59.168.166:8027
 
-#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="香港",鳳凰衛視·中文
+#EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="香港",鳳凰衛視·中文
 https://cdn6.163189.xyz/163189/fhzw
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="香港",鳳凰衛視·資訊
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="香港",鳳凰衛視·資訊
 https://cdn6.163189.xyz/163189/fhzx
-#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="香港",鳳凰衛視·香港
+#EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="香港",鳳凰衛視·香港
 https://cdn6.163189.xyz/163189/fhhk
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港",翡翠台 4K「多音轨字幕」
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台4K" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港",翡翠台 4K「多音轨字幕」
 https://o11.163189.xyz/stream/tvb/fct4k/
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="香港",翡翠台「多音轨字幕」
 https://o11.163189.xyz/stream/tvb/fct/
@@ -358,7 +358,7 @@ https://o11.163189.xyz/stream/tvb/fct/
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="香港",TVB Plus「多音轨字幕」
 https://o11.163189.xyz/stream/tvb/tvbp/
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="香港",無綫新聞台
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="香港",無綫新聞台
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="香港",Now新聞台
 https://cdn.163189.xyz/163189/now
@@ -370,7 +370,7 @@ https://o11.163189.xyz/stream/live/tvbc/
 https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="香港",天映經典
 https://o11.163189.xyz/stream/live/ccm/
-#EXTINF:-1 tvg-id="功夫台" tvg-name="功夫台" tvg-logo="https://epg.iill.top/logo/亞洲武俠.png" group-title="香港",亞洲武俠
+#EXTINF:-1 tvg-id="功夫台" tvg-name="TVB功夫台" tvg-logo="https://epg.iill.top/logo/亞洲武俠.png" group-title="香港",亞洲武俠
 https://cdn6.163189.xyz/163189/yzwx
 #EXTINF:-1 tvg-id="TVB XING HE" tvg-name="TVB XING HE" tvg-logo="https://epg.iill.top/logo/星河台.png" group-title="香港",TVB 星河「多音轨字幕」
 https://o11.163189.xyz/stream/live/tvbxh/
@@ -392,7 +392,7 @@ http://cdn6.163189.xyz/163189/ch5
 http://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-id="Channel U" tvg-name="Channel U" tvg-logo="https://epg.iill.top/logo/ChannelU.png" group-title="香港",Channel U
 http://cdn6.163189.xyz/163189/ch
-#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="香港",鳳凰衛視·資訊「YouTube」
+#EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="香港",鳳凰衛視·資訊「YouTube」
 https://ytb.178.indevs.in/?id=fN9uYWCjQaw
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="香港",CCTV4「YouTube」
 https://ytb.178.indevs.in/?id=7j92Myu2wzg
@@ -416,5 +416,5 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 http://php.jdshipin.com/TVOD/iptv.php?id=j1
 #EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB1.png" group-title="香港",TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
-#EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB翡翠剧集台.PNG" group-title="香港",翡翠剧集台
+#EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB翡翠剧集台.PNG" group-title="香港",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
