@@ -403,3 +403,17 @@ https://ytb.178.indevs.in/?id=BOy2xDU1LC8
 https://ytb.178.indevs.in/?id=vr3XyVCR4T0
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="香港",TVBS「YouTube」
 https://ytb.178.indevs.in/?id=o_-hSMgpAzs
+#EXTINF:-1 tvg-id="rthk31" tvg-name="rthk31" tvg-logo="https://epg.v1.mk/logo/rthk31.png" group-title="香港",RTHK31
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
+#EXTINF:-1 tvg-id="rthk32" tvg-name="rthk32" tvg-logo="https://epg.v1.mk/logo/rthk32.png" group-title="香港",RTHK32
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+#EXTINF:-1 tvg-id="rthk33" tvg-name="rthk33" tvg-logo="https://epg.v1.mk/logo/rthk33.png" group-title="香港",RTHK33
+http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://epg.v1.mk/logo/HOY77.png" group-title="香港",HOY77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+#EXTINF:-1 tvg-id="TVBJ1" tvg-name="TVBJ1" tvg-logo="https://epg.v1.mk/logo/TVBJ1.png" group-title="香港",TVBJ1
+http://php.jdshipin.com/TVOD/iptv.php?id=j1
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB1.png" group-title="香港",TVB1
+https://6.cdn.loc.cc/163189.php?id=tvb1
+#EXTINF:-1 tvg-id="翡翠剧集台" tvg-name="翡翠剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB翡翠剧集台.PNG" group-title="香港",翡翠剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
