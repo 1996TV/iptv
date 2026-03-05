@@ -341,7 +341,7 @@ http://ipv4.825939.xyz:5141/rtp/239.77.0.59:5146
 http://ipv4.825939.xyz:5141/rtp/239.77.0.60:5146
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/山东卫视4K.png" group-title="国内4K",山东卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.61:5146
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV16.png" group-title="央视",CCTV16-4K
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV16.png" group-title="国内4K",CCTV16-4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.18:5146?fcc=183.59.168.166:8027
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="香港",鳳凰衛視·中文
