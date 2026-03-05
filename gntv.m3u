@@ -131,6 +131,10 @@ http://ipv4.825939.xyz:5141/rtp/239.253.43.121:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.253.43.120:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV5.png" group-title="央视",CCTV5
 http://ipv4.825939.xyz:5141/rtp/239.77.0.170:5146?fcc=183.59.168.166:8027
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/CCTV5+.png" group-title="央视",CCTV5+
+http://ipv4-go.825939.xyz:4033/udp/239.77.1.31:5146
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/CCTV6.png" group-title="央视",CCTV6
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.171:5146
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV7.png" group-title="央视",CCTV7
 http://ipv4.825939.xyz:5141/rtp/239.77.1.159:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV8.png" group-title="央视",CCTV8
@@ -309,3 +313,33 @@ http://ipv4.825939.xyz:5141/rtp/239.77.1.89:5146?fcc=183.59.168.166:8027
 http://ipv4.825939.xyz:5141/rtp/239.77.0.106:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="IPTV少儿动画" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/IPTV少儿动画.png" group-title="卫视",IPTV少儿动画
 http://ipv4.825939.xyz:5141/rtp/239.77.0.109:5146?fcc=183.59.168.166:8027
+
+
+
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东卫视4K.png" group-title="国内4K",广东卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.27:5146
+#EXTINF:-1 tvg-name="广东综艺" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东4K.png" group-title="国内4K",广东4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.245:5146
+#EXTINF:-1 tvg-name="广州南国" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广州南国都市.png" group-title="国内4K",南国都市4K
+http://ipv4-go.825939.xyz:4033/udp/239.253.43.99:5146
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/深圳卫视4K.png" group-title="国内4K",深圳卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.1.14:5146
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV4K.png" group-title="国内4K",CCTV4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.1.180:5146
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/北京卫视4K.png" group-title="国内4K",北京卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.2:5146
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/湖南卫视4K.png" group-title="国内4K",湖南卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.56:5146
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/江苏卫视4K.png" group-title="国内4K",江苏卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.57:5146
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/浙江卫视4K.png" group-title="国内4K",浙江卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.58:5146
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/东方卫视4K.png" group-title="国内4K",东方卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.59:5146
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/四川卫视4K.png" group-title="国内4K",四川卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.60:5146
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/山东卫视4K.png" group-title="国内4K",山东卫视4K
+http://ipv4-go.825939.xyz:4033/udp/239.77.0.61:5146
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV16.png" group-title="央视",CCTV16
+http://ipv4.825939.xyz:5141/rtp/239.77.0.28:5146?fcc=183.59.168.166:8027
+
