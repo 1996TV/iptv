@@ -314,7 +314,7 @@ http://ipv4.825939.xyz:5141/rtp/239.77.0.106:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="IPTV少儿动画" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/IPTV少儿动画.png" group-title="卫视",IPTV少儿动画
 http://ipv4.825939.xyz:5141/rtp/239.77.0.109:5146?fcc=183.59.168.166:8027
 
-#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东卫视4K.png" group-title="国内4K",广东卫视4K
 http://ipv4.825939.xyz:5141/rtp/239.77.0.66:5146?fcc=183.59.168.166:8027
 #EXTINF:-1 tvg-name="广东4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东4K.png" group-title="国内4K",广东4K
