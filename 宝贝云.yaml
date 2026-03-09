@@ -17,9 +17,7 @@ dns:
     fallback: [1.1.1.1, 8.8.8.8]
     fallback-filter: { geoip: true, geoip-code: CN, geosite: [gfw], ipcidr: [240.0.0.0/4], domain: [+.google.com, +.facebook.com, +.youtube.com] }
 proxies:
-    - { name: '剩余流量：99999 GB', type: vless, server: zfa01.communet.io, port: 40383, uuid: 19dd46b2-6be0-4c7f-9dde-0a1d6c8227ad, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: bby.communet.io }
-    - { name: '距离下次重置剩余：999 天', type: vless, server: zfa01.communet.io, port: 40383, uuid: 19dd46b2-6be0-4c7f-9dde-0a1d6c8227ad, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: bby.communet.io }
-    - { name: 套餐到期：2099-10-10, type: vless, server: zfa01.communet.io, port: 40383, uuid: 19dd46b2-6be0-4c7f-9dde-0a1d6c8227ad, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: bby.communet.io }
+  
     - { name: L1|香港01|中转|流媒体|3x, type: vless, server: zfa01.communet.io, port: 40383, uuid: 19dd46b2-6be0-4c7f-9dde-0a1d6c8227ad, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: bby.communet.io }
     - { name: L1|香港02|中转|流媒体|3x, type: vless, server: zfa01.communet.io, port: 40383, uuid: 19dd46b2-6be0-4c7f-9dde-0a1d6c8227ad, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: bby.communet.io }
     - { name: L1|香港03|中转|流媒体|3x, type: vless, server: zfa01.communet.io, port: 40383, uuid: 19dd46b2-6be0-4c7f-9dde-0a1d6c8227ad, udp: true, tls: true, skip-cert-verify: false, flow: xtls-rprx-vision, client-fingerprint: safari, servername: bby.communet.io }
@@ -596,3 +594,20 @@ rules:
     - 'DOMAIN-KEYWORD,-cn,DIRECT'
     - 'GEOIP,CN,DIRECT'
     - 'MATCH,宝贝云'
+    proxy-groups:
+  - name: 🚀 节点选择
+    type: select
+    proxies:
+      - L1|香港01|中转|流媒体|3x
+      - L1|香港02|中转|流媒体|3x
+      - L1|香港03|中转|流媒体|3x
+      - DIRECT
+
+rules:
+  - GEOIP,CN,DIRECT
+  - MATCH,🚀 节点选择
+  mixed-port
+dns
+proxies
+proxy-groups
+rules
