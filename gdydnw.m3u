@@ -148,7 +148,7 @@ http://192.168.50.254:4022/udp/239.11.0.25:1025
 http://192.168.50.254:4022/udp/239.11.0.126:1025
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV17.png" group-title="中央频道",CCTV17
 http://192.168.50.254:4022/udp/239.10.0.244:1025
-#EXTINF:-1 tvg-name="CCTV4K超" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="中央频道",CCTV4K超
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="中央频道",CCTV4K超
 http://192.168.50.254:4022/udp/239.11.0.162:1025
 #EXTINF:-1 tvg-name="CCTV4欧洲" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV4欧洲.png" group-title="中央频道",CCTV4欧洲
 http://192.168.50.254:4022/udp/239.11.0.101:1025
