@@ -290,13 +290,13 @@ https://o11.163189.xyz/stream/live/tvbxh/
 https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-name="千禧经典台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO1@main/icon/TVB千禧经典.png" group-title="香港频道",千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="Now新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",Now新聞台
+#EXTINF:-1 tvg-name="Now新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/NOW新闻台.png" group-title="香港频道",Now新聞台
 http://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/凤凰卫视中文.png" group-title="香港频道",凤凰中文
 http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/凤凰资讯台.png" group-title="香港频道",凤凰资讯
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",凤凰香港
 http://r.jdshipin.com/yDoTN
