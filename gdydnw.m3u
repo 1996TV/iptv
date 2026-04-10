@@ -393,36 +393,7 @@ http://192.168.50.254:4022/udp/239.10.0.24:1025
 http://192.168.50.254:4022/udp/239.10.0.25:1025
 #EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
 http://192.168.50.254:4022/udp/239.10.0.27:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.28:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.37:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.44:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.61:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.64:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.65:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.69:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.82:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.136:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.137:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.234:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.235:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.10.0.237:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.11.0.26:1025
-#EXTINF:-1 tvg-name="喜粤TV" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/喜粤TV.png" group-title="特色频道",喜粤TV
-http://192.168.50.254:4022/udp/239.11.0.71:1025
+
 #EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
 http://192.168.50.254:4022/udp/239.10.0.42:1025
 #EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
@@ -431,29 +402,3 @@ http://192.168.50.254:4022/udp/239.10.0.84:1025
 http://192.168.50.254:4022/udp/239.10.0.86:1025
 #EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
 http://192.168.50.254:4022/udp/239.10.0.90:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.91:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.92:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.93:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.94:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.95:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.96:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.97:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.98:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.99:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.10.0.100:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.11.0.23:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.11.0.92:1025
-#EXTINF:-1 tvg-name="IPTV影视推荐" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="特色频道",IPTV影视推荐
-http://192.168.50.254:4022/udp/239.11.0.93:1025
