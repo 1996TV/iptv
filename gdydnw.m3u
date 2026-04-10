@@ -77,9 +77,9 @@ http://192.168.50.254:4022/udp/239.11.0.118:1025
 http://192.168.50.254:4022/udp/239.11.0.114:1025
 #EXTINF:-1 tvg-name="佛山影视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/佛山影视.png" group-title="广东频道",佛山影视
 http://192.168.50.254:4022/udp/239.11.0.117:1025
-#EXTINF:-1 tvg-name="南海" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="广东频道",南海
+#EXTINF:-1 tvg-name="南海" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/佛山南海.png" group-title="广东频道",南海
 http://192.168.50.254:4022/udp/239.11.0.115:1025
-#EXTINF:-1 tvg-name="顺德" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="广东频道",顺德
+#EXTINF:-1 tvg-name="顺德" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/佛山顺德.png" group-title="广东频道",顺德
 http://192.168.50.254:4022/udp/239.11.0.116:1025
 #EXTINF:-1 tvg-name="肇庆综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/肇庆综合.png" group-title="广东频道",肇庆综合
 http://192.168.50.254:4022/udp/239.11.0.53:1025
@@ -109,7 +109,7 @@ http://192.168.50.254:4022/udp/239.11.0.75:1025
 http://192.168.50.254:4022/udp/239.10.0.253:1025
 #EXTINF:-1 tvg-name="湛江公共" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/湛江公共.png" group-title="广东频道",湛江公共
 http://192.168.50.254:4022/udp/239.10.0.254:1025
-#EXTINF:-1 tvg-name="韶关综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="广东频道",韶关综合
+#EXTINF:-1 tvg-name="韶关综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/韶关新闻综合.png" group-title="广东频道",韶关综合
 http://192.168.50.254:4022/udp/239.11.0.84:1025
 
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV1.png" group-title="中央频道",CCTV1
@@ -186,13 +186,13 @@ http://192.168.50.254:4022/udp/239.10.0.72:1025
 http://192.168.50.254:4022/udp/239.11.0.103:1025
 #EXTINF:-1 tvg-name="CGTN西班牙" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="中央频道",CGTN西班牙
 http://192.168.50.254:4022/udp/239.11.0.105:1025
-#EXTINF:-1 tvg-name="CGTN法国" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="中央频道",CGTN法国
+#EXTINF:-1 tvg-name="CGTN法国" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CGTN法语.png" group-title="中央频道",CGTN法国
 http://192.168.50.254:4022/udp/239.11.0.106:1025
-#EXTINF:-1 tvg-name="CGTN阿拉伯" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="中央频道",CGTN阿拉伯
+#EXTINF:-1 tvg-name="CGTN阿拉伯" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CGTN阿拉伯语.png" group-title="中央频道",CGTN阿拉伯
 http://192.168.50.254:4022/udp/239.11.0.107:1025
-#EXTINF:-1 tvg-name="CGTN俄罗斯" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="中央频道",CGTN俄罗斯
+#EXTINF:-1 tvg-name="CGTN俄罗斯" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CGTN俄语.png" group-title="中央频道",CGTN俄罗斯
 http://192.168.50.254:4022/udp/239.11.0.108:1025
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="中央频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CGTV纪实.png" group-title="中央频道",CGTN纪录
 http://192.168.50.254:4022/udp/239.11.0.178:1025
 
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/深圳卫视.png" group-title="卫视频道",深圳卫视
