@@ -35,13 +35,13 @@ http://192.168.50.254:4022/udp/239.11.0.80:1025
 http://192.168.50.254:4022/udp/239.10.0.199:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东卫视.png" group-title="广东频道",广东卫视
 http://192.168.50.254:4022/udp/239.10.0.45:1025
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东卫视4K.png" group-title="广东频道",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东卫视4K.png" group-title="广东频道",广东卫视4K
 http://192.168.50.254:4022/udp/239.11.0.193:1025
-#EXTINF:-1 tvg-name="广东4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东4K.png" group-title="广东频道",广东4K
+#EXTINF:-1 tvg-name="广东综艺" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东4K.png" group-title="广东频道",广东4K
 http://192.168.50.254:4022/udp/239.10.0.75:1025
 #EXTINF:-1 tvg-name="南国都市4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/南国都市.png" group-title="广东频道",南国都市4K
 http://192.168.50.254:4022/udp/239.11.0.170:1025
-#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/大湾区卫视.png" group-title="广东频道",大湾区卫视
+#EXTINF:-1 tvg-name="广东大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/大湾区卫视.png" group-title="广东频道",大湾区卫视
 http://192.168.50.254:4022/udp/239.11.0.78:1025
 #EXTINF:-1 tvg-name="广东影视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东影视.png" group-title="广东频道",广东影视
 http://192.168.50.254:4022/udp/239.11.0.79:1025
@@ -49,13 +49,13 @@ http://192.168.50.254:4022/udp/239.11.0.79:1025
 http://192.168.50.254:4022/udp/239.11.0.81:1025
 #EXTINF:-1 tvg-name="广东经济科教" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东经济科教.png" group-title="广东频道",广东经济科教
 http://192.168.50.254:4022/udp/239.10.0.46:1025
-#EXTINF:-1 tvg-name="南方购物" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/南方购物.png" group-title="广东频道",南方购物
+#EXTINF:-1 tvg-name="广东南方购物" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/南方购物.png" group-title="广东频道",南方购物
 http://192.168.50.254:4022/udp/239.10.0.126:1025
-#EXTINF:-1 tvg-name="嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/嘉佳卡通.png" group-title="广东频道",嘉佳卡通
+#EXTINF:-1 tvg-name="广东嘉佳卡通" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/嘉佳卡通.png" group-title="广东频道",嘉佳卡通
 http://192.168.50.254:4022/udp/239.10.0.200:1025
-#EXTINF:-1 tvg-name="岭南戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/岭南戏曲.png" group-title="广东频道",岭南戏曲
+#EXTINF:-1 tvg-name="广东岭南戏曲" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/岭南戏曲.png" group-title="广东频道",岭南戏曲
 http://192.168.50.254:4022/udp/239.11.0.180:1025
-#EXTINF:-1 tvg-name="现代教育" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/现代教育.png" group-title="广东频道",现代教育
+#EXTINF:-1 tvg-name="广东现代教育" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/现代教育.png" group-title="广东频道",现代教育
 http://192.168.50.254:4022/udp/239.11.0.181:1025
 #EXTINF:-1 tvg-name="广东移动" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东移动.png" group-title="广东频道",广东移动
 http://192.168.50.254:4022/udp/239.10.0.143:1025
