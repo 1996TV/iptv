@@ -294,7 +294,7 @@ https://o11.163189.xyz/stream/live/iqiyi/
 https://o11.163189.xyz/stream/live/tvbc/
 #EXTINF:-1 tvg-name="Now新聞台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/NOW新闻台.png" group-title="香港频道",Now新聞台
 http://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",翡翠剧集台
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/TVB Drama翡翠剧集台.png" group-title="香港频道",翡翠剧集台
 https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/凤凰卫视中文.png" group-title="香港频道",凤凰中文
 http://r.jdshipin.com/cCCzW
@@ -306,11 +306,11 @@ http://r.jdshipin.com/yDoTN
 http://rihou.cc:555/tv/[Pd]%E9%BE%99%E5%8D%8E%E7%94%B5%E5%BD%B1
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/八度空间.png" group-title="香港频道",八度空间
 http://rihou.cc:555/tv/[Pd]%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%97%B4
-#EXTINF:-1 tvg-name="CH8综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",CH8综合
+#EXTINF:-1 tvg-name="CH8综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/新加坡8频道.png" group-title="香港频道",CH8综合
 http://rihou.cc:555/tv/[Pd]CH8%E7%BB%BC%E5%90%88
-#EXTINF:-1 tvg-name="CH5综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",CH5综合
+#EXTINF:-1 tvg-name="CH5综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/新加坡5频道.png" group-title="香港频道",CH5综合
 http://rihou.cc:555/tv/[Pd]CH5%E7%BB%BC%E5%90%88
-#EXTINF:-1 tvg-name="CHU综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",CHU综合
+#EXTINF:-1 tvg-name="CHU综合" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/新加坡U频道.png" group-title="香港频道",CHU综合
 http://rihou.cc:555/tv/[Pd]CHU%E7%BB%BC%E5%90%88
 #EXTINF:-1 tvg-name="龙华偶像" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/龙华偶像.png" group-title="香港频道",龙华偶像
 http://rihou.cc:555/tv/[Pd]%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F
