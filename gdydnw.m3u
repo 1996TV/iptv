@@ -14,7 +14,7 @@ http://192.168.50.254:4022/udp/239.11.0.204:1025
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/山东卫视4K.png" group-title="4K频道",山东卫视4K
 http://192.168.50.254:4022/udp/239.11.0.205:1025
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/广东卫视4K.png" group-title="4K频道",广东卫视4K
-http://192.168.50.254:4022/udp/239.11.0.194:1025
+http://192.168.50.254:4022/udp/239.11.0.193:1025
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/深圳卫视4K.png" group-title="4K频道",深圳卫视4K
 http://192.168.50.254:4022/udp/239.11.0.195:1025
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/CCTV4K.png" group-title="4K频道",CCTV-4K
