@@ -49,7 +49,19 @@ http://rihou.cc:555/tv/[Pd]CHU%E7%BB%BC%E5%90%88
 http://rihou.cc:555/tv/[Pd]%E9%BE%99%E5%8D%8E%E5%81%B6%E5%83%8F
 #EXTINF:-1 tvg-name="TVB1" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/TVB1.png" group-title="香港频道",TVB1
 https://6.cdn.loc.cc/163189.php?id=tvb1
-
+#EXTM3U x-tvg-url="https://epg.catvod.com/epg.xml"
+#EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/无线新闻.png" group-title="香港频道",无线新闻
+https://cdn6.163189.xyz/163189/wxxw
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
+https://cdn6.163189.xyz/163189/ylxw
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/天映频道.png" group-title="香港频道",天映频道
+https://o11.163189.xyz/stream/live/typd/
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/天映经典.png" group-title="香港频道",天映经典
+https://o11.163189.xyz/stream/live/ccm/
+#EXTINF:-1 tvg-name="TVB功夫台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/TVB功夫台.png" group-title="香港频道",TVB功夫台
+https://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 tvg-name="Astro 欢喜台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/mytvsuper.png" group-title="香港频道",Astro 欢喜台
+https://o11.163189.xyz/stream/live/hxt/
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="🇨🇳央视频道📡",CCTV1综合
 http://rrs03.hw.gmcc.net:8088/PLTV/651/224/3221226737/1.m3u8
