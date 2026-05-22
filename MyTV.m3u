@@ -17,7 +17,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/JUHD
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
 http://mytvsuper.27481716.xyz/mytvsuper/B
 
-#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/无线新闻.png" group-title="新聞財經", 無線新聞台
+#EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/無綫新聞台.png" group-title="新聞財經", 無線新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
@@ -185,19 +185,19 @@ http://mytvsuper.27481716.xyz/mytvsuper/C28
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
 http://mytvsuper.27481716.xyz/mytvsuper/TVG
 
-#EXTINF:-1 tvg-id="CTVC" tvg-name="千禧經典台" tvg-logo="https://epg.yang-1989.eu.org/logo/千禧经典.png" group-title="電影戲劇", 千禧經典台
+#EXTINF:-1 tvg-id="CTVC" tvg-name="千禧經典台" tvg-logo="https://epg.yang-1989.eu.org/logo/千禧經典台.png" group-title="電影戲劇", 千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
 http://mytvsuper.27481716.xyz/mytvsuper/CTVC
 
-#EXTINF:-1 tvg-id="CDR3" tvg-name="華語劇台" tvg-logo="https://epg.yang-1989.eu.org/logo/华语剧.png" group-title="電影戲劇", 華語劇台
+#EXTINF:-1 tvg-id="CDR3" tvg-name="華語劇台" tvg-logo="https://epg.yang-1989.eu.org/logo/華語劇台.png" group-title="電影戲劇", 華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
 http://mytvsuper.27481716.xyz/mytvsuper/CDR3
 
-#EXTINF:-1 tvg-id="CCLM" tvg-name="粵語片台" tvg-logo="https://epg.yang-1989.eu.org/logo/粤语片.png" group-title="電影戲劇", 粵語片台
+#EXTINF:-1 tvg-id="CCLM" tvg-name="粵語片台" tvg-logo="https://epg.yang-1989.eu.org/logo/粤语片台.png" group-title="電影戲劇", 粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
@@ -209,13 +209,13 @@ http://mytvsuper.27481716.xyz/mytvsuper/CCLM
 #KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
 http://mytvsuper.27481716.xyz/mytvsuper/CTVS
 
-#EXTINF:-1 tvg-id="TVO" tvg-name="黃金華劇台" tvg-logo="https://epg.yang-1989.eu.org/logo/黄金华剧.png" group-title="電影戲劇", 黃金華劇台
+#EXTINF:-1 tvg-id="TVO" tvg-name="黃金華劇台" tvg-logo="https://epg.yang-1989.eu.org/logo/黃金華劇台.png" group-title="電影戲劇", 黃金華劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
 http://mytvsuper.27481716.xyz/mytvsuper/TVO
 
-#EXTINF:-1 tvg-id="CTVE" tvg-name="娛樂新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/娱乐新闻.png" group-title="音樂綜藝", 娛樂新聞台
+#EXTINF:-1 tvg-id="CTVE" tvg-name="娛樂新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/娛樂新聞.png" group-title="音樂綜藝", 娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
@@ -251,7 +251,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/CNIKO
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
 http://mytvsuper.27481716.xyz/mytvsuper/CNIJR
 
-#EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="https://epg.yang-1989.eu.org/logo/美亚电影.png" group-title="電影戲劇", 美亞電影台
+#EXTINF:-1 tvg-id="CMAM" tvg-name="美亞電影台" tvg-logo="https://epg.yang-1989.eu.org/logo/美亞電影台.png" group-title="電影戲劇", 美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
@@ -335,7 +335,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/CANI
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
 http://mytvsuper.27481716.xyz/mytvsuper/CJTV
 
-#EXTINF:-1 tvg-id="CTS1" tvg-name="無線衛星亞洲台" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBS亚洲.png" group-title="新聞財經", 無線衛星亞洲台
+#EXTINF:-1 tvg-id="CTS1" tvg-name="無線衛星亞洲台" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBS亞洲台.png" group-title="新聞財經", 無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
@@ -425,7 +425,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/CGD
 #KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
 http://mytvsuper.27481716.xyz/mytvsuper/CGE
 
-#EXTINF:-1 tvg-id="CTSN" tvg-name="無線衛星新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBS新闻.png" group-title="新聞財經", 無線衛星新聞台
+#EXTINF:-1 tvg-id="CTSN" tvg-name="無線衛星新聞台" tvg-logo="https://epg.yang-1989.eu.org/logo/TVBS新聞.png" group-title="新聞財經", 無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
@@ -461,7 +461,7 @@ http://mytvsuper.27481716.xyz/mytvsuper/CDW1
 #KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
 http://mytvsuper.27481716.xyz/mytvsuper/CNHK
 
-#EXTINF:-1 tvg-id="CARI" tvg-name="Arirang TV" tvg-logo="https://epg.yang-1989.eu.org/logo/Arirang.png" group-title="綜合頻道", Arirang TV
+#EXTINF:-1 tvg-id="CARI" tvg-name="Arirang TV" tvg-logo="https://epg.yang-1989.eu.org/logo/Arirang-TV.png" group-title="綜合頻道", Arirang TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
