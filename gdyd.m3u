@@ -25,6 +25,10 @@ https://cdn.qd.je/163189/tvbxh2
 https://cdn.qd.je/163189/wxxw
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/TVB娱乐新闻台.png" group-title="香港频道",TVB娱乐新闻台
 https://cdn.qd.je/163189/ylxw
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/天映频道.png" group-title="香港频道",天映频道（新加坡）
+https://cdn.qd.je/163189/typd
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/天映经典.png" group-title="香港频道",天映经典（新加坡）
+https://cdn.qd.je/163189/ccm
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/天映频道.png" group-title="香港频道",天映频道（马来西亚）
 https://cdn.qd.je/163189/typd2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://cdn.jsdelivr.net/gh/1996TV/LOGO@main/天映经典.png" group-title="香港频道",天映经典（马来西亚）
